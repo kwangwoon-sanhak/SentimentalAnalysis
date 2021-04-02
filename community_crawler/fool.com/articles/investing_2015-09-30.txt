@@ -1,0 +1,111 @@
+Note: This article was originally published May 18, 2015 and updated January 13, 2016.
+
+SOURCE: EXXONMOBIL INVESTOR PRESENTATION.
+There are a lot of terms that could be used to describe energy stocks these days, but "stable" certainly isn't one of them. Even the stalwarts of the industry, the integrated majors, have had a rough go of it lately as the decline in oil prices has turned profits from a gusher to a trickle. Thanks to that integrated model that touches every part of the oil and gas value chain, though, these Big Oil players have been able to handle the energy downturn much better than others. 
+Integrated oil and gas companies have long been a lucrative investment. Their ability to weather the cyclical nature of the energy market and pay out rather generous dividends makes them a great place to invest over the long term. That is even more true when you have a chance to buy those companies during low points in the industry cycle like today. So let's take a good hard look at the biggest names in the oil and gas industry to see how you can get the best bang for your buck on a Big Oil stock.
+The usual subjects
+The integrated oil and gas business model is pretty prevalent around the world. For the most part, though, we associate the term "Big Oil" with just five companies: ExxonMobil (NYSE:XOM), Chevron (NYSE:CVX), Royal Dutch Shell (NYSE:RDS.A) (NYSE:RDS.B), BP (NYSE:BP), and Total (NYSE:TOT). You could argue that a couple other companies should be added here -- Statoil, Petrobras, and PetroChina -- but let's leave them out since they straddle the line between publicly traded company and state-run entities.
+To determine which of these companies is the best investment today, let's look at five key components: margins, free cash flow, production and potential, returns, and valuation.
+Margins:
+3.1%
+SOURCE: S&P CAPITAL IQ.
+As expected with the big decline in oil prices over the past year, margins for all of these companies have taken a slight hit. It is interesting to note, though, that some companies margins have held up better than others throughout this decline. The most notable ones are Total, Shell, and ExxonMobil. In the case of Shell, it has a higher exposure to both natural gas and downstream refining than the others, which help to keep margins more steady. In the case of ExxonMobil and Total, the two companies have done a better job of controlling costs on their production, which has brought down breakeven costs and helped maintain some level of profitability for upstream operations compared to the others.
+Compared to last year, Chevron has by far seen the largest decline in margins. This is also understandable since the company's business is much more levered to upstream production than the others. 
+One of the great challenges for the Big Oil players over the next couple of years will be the ability to control costs for the development of new resources. Much of their new production sources come from more expensive sources of oil like ultra-deepwater fields and oil sands, two oil sources with high breakeven cost ranges. 
+
+SOURCE: CHEVRON INVESTOR PRESENTATION.
+Some of the costs for these oil sources will come down as these big spenders push for cheaper contracts from oil services companies, but we have yet to see them realize substantial benefits from those savings.
+Looking at these numbers, it looks as though ExxonMobil wins on margins, with Chevron and Total holding their own as well by keeping earnings at or near 10 year historical averages. 
+Free cash flow:
+SOURCE: S&P CAPITAL IQ.
+Talk about bad timing. Over the past couple years when oil prices were high, these companies were all in the midst of spending big bucks on mega projects. Since 2013-2014, though, most of the capital budgets for Big Oil were in decline as they were looking to reap what they had sown. The only problem is that oil prices have since plummeted. So any gains in cash flows that these companies were slated to receive as spending declined and new projects came online, they were almost immediately evaporated by weak oil prices.
+
+BRENT CRUDE OIL SPOT PRICE DATA BY YCHARTS.
+The real value proposition that Big Oil companies provide to their shareholders is the fact that they can generate tons of excess cash after their capital expenditures to pay generous dividends and buy back shares to boost stock prices. However, for some this is becoming more difficult because the rate at which these projects come online is still slower than the rate at which cash flows have declined. To meet these cash shortfalls, we have seen many players sell off several billions in assets.
+Operational cash flow as a percent of capital expenditure (less than 100% means more cash spent than generated):
+SOURCE: S&P CAPITAL IQ.
+It appears the both Royal Dutch Shell and ExxonMobil have done the best job over the past 12-18 months of keeping their cash budgets in line. Even with the ability to fund capital projects with cash flow, thougfh Royal Dutch Shell has been the most aggressive sellers of non-core assets. A large part of these asset sales has been to revamp its portfolio before the pending BG Group merger 
+The two companies that look to be in the most trouble here are Chevron and Total, as neither has been able to fund all of their spending with generated cash since 2012. The one thing that gives a small solace to these low cash-generation numbers is that the two have very aggressive production growth targets. 
+Production:
+Pretty much the things we have discussed thus far have been a reflection of the past for each company, but what does the future hold for each? Yes, these companies are integrated oil and gas companies, but if you look at the capital spending these companies do, exploration and production spending makes up the vast majority of those spending dollars. Because of this, it is imperative that they keep a large quiver of projects at all times as well as grow production without going over budget.
+It's hard to put quantifiable metrics on a company's production profile because there are so many variables to consider. So instead of getting too deep in the weeds, let's look at a couple of things. First, how much do they plan to grow production in relation to their current production? Second, what kind of price assumptions were made when giving that project the go-ahead? Finally, what kind of shelf life do these projects have? Certain projects have very short lifespans (think shale wells), while others can be multi-decade cash generators (think oil sands and LNG facilities). Here is a quick look at each company's plan for the next three to five years.
+BP
+
+SOURCE: BP INVESTOR PRESENTATION.
+For the past few years, BP has seemed a bit like a rudderless company. Extraneous factors such as the litigation surrounding the Gulf of Mexico oil spill and its complicated relationship with Russian sanctions -- it owns almost 20% of Russian oil giant Rosneft -- made the company focus immensely on what it considered high return production. In its most recent production guidance, however, it looks like it is really trying to make up for lost time. An additional 900,000 barrels per day would boost today's production by more than 40% to close to 3 million barrels per day. The biggest driving factor of these results is the second-phase development of the Shah Deniz gas field. This $28 billion project will deliver close to 600,000 barrels of oil equivalent -- mostly natural gas -- from the Caspian Sea to continental Europe. 
+The one note of caution to these growth plans is that many of these developments were given the green light under an assumption of $80-per-barrel oil price, and its projects in the pipeline for beyond 2020 are currently screened using $100-per-barrel Brent price.
+
+SOURCE: BP INVESTOR PRESENTATION
+A couple years ago when those decisions were made, that sounded pretty conservative. Today, though, $80 per barrel is a dream. Management has said that they have "stress tested" many of these projects for a $60 per barrel price environment, but barely breaking even at $60 per barrel may not be a position to be in for a couple of years. There aren't many people that think oil prices will remain as low as they are for many years to come, but it would be much more reassuring if BP were to build its future production plans under a much more conservative price assumption.
+Chevron
+Because of several various factors such as the company's struggles to remain within cash flow and lower oil prices, Chevron's projected production of 3.1 million barrels per day is a slight decline from what is was projecting a couple of years ago. Still, an addition of more than 500,000 barrels per day in a three-year span is pretty ambitious.
+
+SOURCE: CHEVRON INVESTOR PRESENTATION.
+Like BP and its Shah Deniz project, Chevron has a lot at stake with its two LNG projects -- Wheatstone and Gorgon. Combined, the two facilities represent about $42 billion in capital spending for Chevron. Once they are up and running, the assumption is the company will be able to wind down some of its capital spending and bring that cash generation versus spending issue back into balance. 
+Once those are operational, the company has a decent suite of projects to work on, but few appear to have the massive capital development needs as we see with these LNG facilities. 
+
+SOURCE: CHEVRON INVESTOR PRESENTATION.
+The one note that may be an issue going forward is the company's $70 Brent price assumption for its project portfolio. It is a much more conservative estimate than BP's $80-per-barrel projection, but a long lull in oil prices below $70 could really put a sting in Chevron's profitability going forward.
+ExxonMobil
+In comparison to many of the other company growth projections, ExxonMobil's looks downright modest. One thing to remember, though, is that ExxonMobil's production of more than 4 million barrels per day is much much larger than its peers. So simply maintaining that base is going to be more of a daunting challenge. Still, the company is projecting 2%-3% production growth out to 2017. Overall, ExxonMobil's plans over the next couple years is to make the company's liquids production a larger portion of the portfolio. 
+
+SOURCE: EXXONMOBIL INVESTOR PRESENTATION.
+What makes Exxon's production growth attractive, though, is that it has based this plan on the most conservative price assumption of its peers and no single project sticks out as the "must do well" project. The company's current price assumption is based on $55-per-barrel Brent oil, and no single project it's working on has an abnormally sized capital obligation compared to the others. Even with ExxonMobil's more conservative price assumption, the company still has a wide swath of potential projects to choose from to grow in the future.
+
+SOURCE: EXXONMOBIL INVESTOR PRESENTATION.
+Royal Dutch Shell
+Like BP a few years ago, Shell has decided to forgo making future growth projections based on production. Instead, the company does its projections on how they will generate free cash flow for the company. Over the next five years or so, it has a suite of about 10 major projects that constitute its biggest capital obligations, which mostly related to either LNG or deepwater production.
+
+SOURCE: ROYAL DUTCH SHELL INVESTOR PRESENTATION.
+When you also add the BG Group into the Shell portfolio, it becomes even more clear that Shell is banking heavily on LNG and deepwater. Once combined, Shell and BG Group's LNG production will be more than double its largest competitor. Also, the combined company will have a large presence in Brazil's prolific pre-salt offshore fields. Once all of its current developments are brought on line, it will represent close to 600,000 barrels per day of production for Shell.
+Beyond its current portfolio under development, the picture for Shell becomes a little less clear. One issue is that Shell expects to unload about $35 billion in assets as part of the BG merger, and it has decided to not go froward with several of its major development projects in the past couple of years.
+
+SOURCE: ROYAL DUTCH SHELL INVESTOR PRESENTATION.
+The other thing that makes Shell's development plans unsure is that many of its projections are done at that $70-per-barrel Brent price. Again, not the worst assumption to make for the future, but not exactly the most conservative one, either. 
+Total
+This time last year, Total had arguably the most ambitious growth plan. Not because it was the largest per-barrel increase but the largest compared to its current production rates. Earlier last week, though, the company announced that it was slightly cutting its 2017 growth projections in order to conserve capital and maintain its dividend payments. This new projection cut its current growth to a run rate of 2.8 million barrels per day to 2.6 million barrels per day, but that still represents pretty healthy growth from its production level of 2.1 million barrels per day in fiscal year 2014.
+
+SOURCE: TOTAL INVESTOR PRESENTATION.
+Another component that makes Total the most intriguing company in terms of future production is that they are setting more conservative price assumptions. Under the current plan it announced on September 23, CEO Patrick Pouyanne said that its current production plan is based on having enough free cash flow to cover its dividend with the selling price of $60 per barrel Brent. Furthermore, it has said that if current prices don't improve much in the coming year, it will use $45 per barrel as its cash flow breakeven price for its investment plans out to 2019. At those price levels, the company still believes there is plenty of targetable projects.
+
+SOURCE: TOTAL INVESTOR PRESENTATION.
+Of all the production plans laid out here, Total's seems to be the real winner. Its combination of strong production growth with more conservative price assumptions gives it the most attractive, profitable growth. This may be my own bias showing, but I'm taking ExxonMobil as the next best because I'm more attracted to a conservative assumption on price going forward than a production growth portfolio.
+I still think Chevron's growth program looks attractive provided it can finish Gorgon and Wheatstone on budget for the rest of the way, but that higher price assumption is slightly unnerving. Shell gets an incomplete because we don't know what the company will look like post-BG merger. BP's price assumptions in the future are just too high for me to be comfortable with. Prices could absolutely go back into that $100 range five to 10 years from now, but I would prefer a company plan its future on it. 
+Generating returns for shareholders
+Production growth is good, but only if it is done in a way that generates a return for the company over the long term. Price assumptions for production targets can help to guide the decision to allocate capital, but actually executing on that plan and generating a return by keeping projects and operational expenses on budget. The best way for us to measure this is to look at returns. For this we'll use returns on equity and management rates of return.
+The easy way of looking at return on equity is to divide earnings from continuing operations by total equity in the company. However, looking at it like this can mask things like companies juicing their numbers on debt. So let's use what is known as the DuPont model, this near-100-year-old model breaks down the return on equity by its components and gives us a better overall picture. This graphic below helps to describe these components:
+
+By multiplying all of these components together, you get return on equity. Here is how each of these companies compare using this model:
+
+SOURCE: S&P CAPITAL IQ, AUTHOR'S CALCULATIONS.
+Pretty much across the board, ExxonMobil has an advantage over its peers. It has better margins, a lower interest burden and a lower amount debt in general, and is generally more efficiecnt when it comes to paying taxes. One that does skew these numbers in ExxonMobil's favor is the fact that it has retired so many of its shares in the past through repurchases that its book value is considerably lower than its market value. You can see this most prominently when you look at the company's Treasury stock.
+SOURCE: S&P CAPITAL IQ.
+This is one of the reasons that you need to take all return metrics with a grain of salt, as certain balance sheet and income statement anomalies can skew them. So just to double-check, let's look at management's rate of return as well. This metric is total earnigns before interest and tax divided by the value of all propterty, plant, and equipment -- net of depreciation -- plus net working capital. This is generally an indication of how well management allocates capital as well as how its present and future assets generate a return.
+SOURCE: S&P CAPITAL IQ.
+As you can see, Total really closes the gap with ExxonMobil with this metric because its high margins as of late and its recent slew of projects that have come on line are boosting returns on the underlying assets of the company. Looking at both of these, I think we still have to give ExxonMobil the top spot here, but Total is in a pretty close second since it is generating comparable management rate of returns and returns on equity considering ExxonMobil's unfair advantage with that metric.
+Valuation
+So far we have looked at what we are buying, but now we need to ask the question about price. Buying one of the better performing companies looks like a good idea now, but if that company trades for a huge premium it may not be worth the premium. Do keep in mind that these companies have traditionally traded at big discounts to the broader market since they are mature and grow slowly. Here's how they all stack up:
+Current valuation:
+SOURCE: S&P CAPITAL IQ.
+Compared to the broader market, just about every one of these companies looks like a screaming buy. The one issue with valuing cyclical commodity stocks is that earnings and margins will swing back and forth based on oil prices, so it can be a little harder to pin down whether a company is cheap or not based on those figures. Also, you need to take into account when companies do large asset writedowns that can impact EPS like the ones Total and Shell have done in the past 12 months.
+You can see this when you look at each company's 10 year historical values. Since earnings have slipped with prices, price to earnings and total enterprise value to EBITDA ratios aren't that far off their historical averages and in some cases are more expensive.
+10-year historical average valuation:
+SOURCE: S&P CAPITAL IQ.
+You could argue, though, that a much better way to measure value for cyclical companies is price to tangible book value, since the value of the underlying assets of the company do not change as much. Looking at this metric, it appears that both Chevron and Shell are the best buys since they trade at the biggest discount to their historical tangible book value. Shell in particular trades for less than the liquidation value of their underlying assets, mostly tied to that pending move to acquire BG Group. That being said, there isn't a huge difference between them.
+What a Fool believes
+Traditionally, investors have flocked to Big Oil companies because they are stable dividend payers that can work through the commodity cycles. Based on how share prices have performed over the past year or so, some might question if this still holds true. Personally, I still think that the investment thesis for integrated oil and gas companies hold. The development of emerging markets around the world will continue to drive oil and gas demand for many more years to come even with the inclusion of alternative energy sources.
+With this is mind, it looks like there is an amazing opportunity to buy Big Oil companies today. Their most recent earnings have taken a hit, but none have become immensely financially strained during this downturn and stock valuations across Big Oil are dirt cheap.
+Based on the data presented here, I'm personally inclined to say that Total is the best of the bunch to invest in today. Its margins have held up the best during the downturn; it is gaining on ExxonMobil for the best returns in the business; its growth portfolio looks extremely robust while maintaining a rather conservative oil price projection; and its valuation suggests a good bang for your buck. Its spending is a bit of an issue right now, but many of its large projects are slated to come on line in the next 12 months, which should help to close that gap between spending and generated cash flow.
+ExxonMobil came in a close second as it has strong margins, the best returns, and robust cash flows that cover its spending and its cash flow. I'm a little less impressed with the results of Chevron as of late, but I'm still holding my judgment fully until I see the Gorgon and Wheatstone facilities up and running in 2016/2017
+I'm not completely sold on the idea that we are near the bottom of oil or share prices for these companies. There are just too many uncertain aspects of the oil market to say which way the wind will blow. However, stock prices at these levels are a great buying opportunity for these companies. Even if prices remain at these levels for a while, it could give investors a long window for accumulating a position in one or two of these companies that could reap huge rewards several years down the road.
+
+
+
+Before you consider Royal Dutch Shell plc, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Royal Dutch Shell plc wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

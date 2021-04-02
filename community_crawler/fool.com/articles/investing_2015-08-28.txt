@@ -1,0 +1,35 @@
+
+A stock market correction can be scary for many investors, but it doesn't have to be. Not only should a correction not be feared, but it should be looked at as a chance to pick up more shares of industry stalwarts like Bank of America (NYSE:BAC) and ExxonMobil (NYSE:XOM) at a discount. Even if the market continues to decline, with the concept of dollar-cost averaging, you can mathematically guarantee that you'll build long-term positions at a good price.
+How dollar-cost averaging works
+Dollar cost averaging is an investment strategy that involves building positions in your stocks over time by investing equal dollar amounts at specific intervals. For example, instead of investing $2,000 in a certain stock all at once, a dollar-cost averaging strategy could involve investing $500 every three months instead.
+With this strategy, you'll buy more shares when prices are low and fewer shares when prices are high. For example, if you make $500 investments in a certain stock every month, and the share price is $50 right now, you'll buy 10 shares. However, if the share price drops to $45 by next month, you'll be able to buy 11 shares. In other words, more of your shares are purchased when the stock is cheaper. Over time, this produces a better-than-average share price.
+But wouldn't it be better to just buy all of your shares when prices are cheap? Well, sure it would, but timing the market is virtually impossible to do. A stock could look "cheap" at $50, but continue to fall. By averaging into a position, you eliminate the risk that comes with trying to pick the best time to buy.
+To illustrate the power of dollar-cost averaging, let's take a look at a real-world example of how this works by using one of my favorite stocks that has dropped throughout the past year -- ExxonMobil.
+
+If you had invested $10,000 in ExxonMobil one year ago, you would have purchased 101 shares at a price of about $98.50, and you'd be sitting on a 30% loss right now. On the other hand, if you had made a $2,000 purchase every three months instead, here's how it would have turned out.
+Purchase made...
+Share price
+Shares purchased (rounded)
+One year ago
+$98.81
+20
+Nine months ago
+$95.72
+21
+Six months ago
+$89.01
+22
+Three months ago
+$85.35
+23
+Today (8/25/15)
+$68.71
+29
+$87.52 (average of 5 buys)
+115 (total)
+There are a few things to notice here. First, your average purchase price per share would have been $86.95, which is below the stock's average price at the points when you bought shares. In fact, dollar-cost averaging always results in a better-than-average purchase price, thanks to the laws of mathematics.
+Additionally, not only would your overall "loss" be limited to 21%, but you would now own 115 shares altogether, putting you in a better position to make money in the future when the market rebounds. That's why dollar cost averaging is an important concept for long-term investors to know and use -- especially during the tough times.
+A long-term example of how dollar-cost averaging works for you
+Arguably, one of the worst investing moves you could have made in the past decade would have been to purchase shares of some of the big banks such as Bank of America prior to the financial crisis.
+
+Bank of America's stock peaked at approximately $55 per share in 2006, and subsequently plunged to less than $3 at the depths of the crash. Even to this date, Bank of America's share price has only managed to recover to $16.43 (as of this writing).

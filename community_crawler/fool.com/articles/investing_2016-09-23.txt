@@ -1,0 +1,36 @@
+
+IMAGE SOURCE: GETTY IMAGES.
+For income investors, there's a certain Goldilocks quality to judging a dividend payout ratio. If the number is too small, say 10%, it implies that the company doesn't prioritize returning cash to shareholders through steadily increasing payouts.
+But a ratio that's too high isn't good either, since it points to slow growth -- or even a dividend cut -- in the future. The challenge, then, is often in finding that "just right" middle ground.
+The dividend payout ratio is the percentage of a company's earnings that it delivered to shareholders in dividends, typically over the prior 12 months. It's calculated by dividing dividends paid by net income and then multiplying that result by 100. You can perform this calculation either by using per-share figures or by sticking to total earnings and dividends.
+For example, if a company earned $1 per share of profit in the last year and paid out $0.50 per share in dividends, its payout ratio would be $0.50 / $1 * 100 = 50%. Likewise, if net income was $10 billion and dividends were $5 billion, the formula would be $5 billion / $10 billion * 100 = 50%. A strong but not too high dividend payout ratio is typically in the range of between one half and three-quarters of earnings.
+The payout ratio is limited in what it can tell you about the strength of a dividend, though. For one thing, it keys off of earnings, which don't always capture a company's true operating situation. If a retailer is restructuring its business and taking writedowns for layoffs and store closings, for example, net income can sink in a given year, which would elevate the payout ratio. That's why it's helpful to look at a company's cash flow to judge whether the dividend is really in danger of being sliced.
+With that caveat in mind, here are the biggest payout ratios on the Dow today.
+Stock
+Payout Ratio
+Caterpillar
+197%
+ExxonMobil
+117%
+Pfizer
+100%
+Coca-Cola
+78%
+Procter & Gamble
+76%
+SOURCE: YAHOO! FINANCE.
+Caterpillar (NYSE:CAT) and ExxonMobil (NYSE:XOM) top this list due to sharp profit declines over the last few years as commodity prices dove. Yet while earnings are sinking, these companies managed to produce enough cash flow to comfortably cover their payouts. Caterpillar's operating cash was $2.8 billion over the last six months, or about three times its dividend payout. Exxon's $6 billion of dividends over the same time represented less than two-thirds of operating cash. Both companies have assured investors that they intend to maintain and even grow their dividends in the face of major industry downturns.
+Pfizer's dividend is in a much stronger position than its 100% payout ratio would suggest. Last year's earnings were pinched by foreign currency swings, costly acquisitions, and restructuring charges that aren't set to repeat in 2017. Its steady cash flow has in fact funded the return of nearly $9 billion to shareholders over the last six months. A fairly recent dividend cut, though, suggest there are better dividends among Pfizer's rivals.  
+Coca-Cola (NYSE:KO) and Procter & Gamble (NYSE:PG) are facing serious business challenges as well, but they have suffered less dramatic profit swings thanks to their consumer-focused portfolios. The soda giant's sales volume growth has been unusually slow for years, and the same goes for P&G's organic sales gains.
+Yet both companies have demonstrated a willingness and ability to boost their cash returns to shareholders. In Coke's case, that includes a fund-raising initiative to sell off portions of its bottling network. For P&G, it involves parting with some of its biggest brands, like Duracell batteries and Coty beauty products, so that the remaining business can be stronger and more profitable.
+None of these elevated payout ratios portends a dividend cut, mainly thanks to healthy cash flow trends. That's why income investors who can stomach the volatility that comes with a cyclical business like Caterpillar's might find its nearly 4% dividend yield enticing. For a clearer profit growth outlook and a high -- but sustainable -- payout, consider investing in Coca-Cola.
+
+
+Before you consider Caterpillar Inc., you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Caterpillar Inc. wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

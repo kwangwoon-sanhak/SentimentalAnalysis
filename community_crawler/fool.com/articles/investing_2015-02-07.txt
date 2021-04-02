@@ -1,0 +1,66 @@
+
+PETROCHEMICAL FACILITIES ARE LARGE, COMPLEX BEASTS. IMAGE SOURCE: JOHN MCSPORRAN/FLICKR.
+One industry's waste is another industry's treasure. While the United States is home to some of the cheapest natural gas reserves in the world, it lacks the infrastructure needed to fully process all of the components in natural gas. Hydrocarbons such as ethane that cannot be used in gas-fired power plants or chemical facilities at the other end of a pipeline are instead typically burned off. Not only is this wasteful from an environmental standpoint, but it creates inefficiencies from an economical standpoint, too, sapping potential revenue streams for drillers.
+That point is illustrated by the fact that the United States produces over 300,000 barrels per day of ethane that it cannot use. Luckily, companies such as ExxonMobil (NYSE:XOM) and Dow Chemical (NYSE:DOW) have raced to provide solutions by building or expanding dozens of domestic petrochemical facilities, which represent an industrywide investment of $124 billion, according to the American Chemistry Council. These petrochemical plants, called ethane crackers, will convert excess ethane into ethylene (the starting point for higher-value fibers, plastics, detergents, and various other everyday products) at such low costs that not even the OPEC-induced oil pricing war will challenge the economics.
+But that doesn't mean the investments are entirely safe. In fact, a new process for manufacturing ethylene developed by Brazilian chemical leader Braskem (NYSE:BAK) could be the biggest global threat in the long term. It's secret ingredient? Ethanol.
+Ethanol vs. Big Oil, Round 2?
+In late 2010, Braskem opened a production facility that each year converts 122 million gallons of Brazilian sugarcane ethanol into 200,000 metric tons of ethylene. It was the first in the world capable of churning out renewable ethylene, which avoids 4 metric tons of carbon dioxide emissions for every 1 MT of product. At a capital cost of $278 million, the facility was relatively cheap to build -- an uncommon feature for a first-of-a-kind facility. It's important to note that the product is exactly the same as ethylene created from petrochemicals. Those factors helped Braskem to sell roughly 80% of the facility's production to environmentally conscious, consumer-facing companies such as Procter & Gamble and Johnson & Johnson before construction even began.
+
+IMAGE SOURCE: BRASKEM.
+The platform has won dozens of awards throughout the world, helped Braskem to cement its leadership position in renewable chemicals, and forced the company to evaluate how to best expand its technology on a global scale. That will be necessary, considering production of 200,000 MT per year is not particularly significant, even for Braskem. Renewable ethylene represents less than 2% of its total annual production capacity and just 5% of its total annual ethylene capacity. The small volume of renewable ethylene will be further diluted by production from an ethane cracker the company hopes to bring online by the end of 2015.
+Yes, even the world's leading green chemical manufacturer is investing billions in North American ethane crackers to produce petrochemical ethylene. The economics are just too good to pass up, as investments from nearly all of the world's leading chemical companies demonstrate (keep in mind, these are just a few).
+Company (Location)
+Project Capital Cost
+Annual Production Capacity, Ethylene
+Production Startup
+Braskem (Mexico)
+$4.5 billion
+>1 million MT
+end-2015
+Sasol (Gulf Coast)
+$5 billion-$7 billion
+1.5 million MT
+2017
+Dow Chemical (Gulf Coast)
+<$4 billion*
+>1 million MT
+2017
+ExxonMobil (Gulf Coast)
+Multibillion (three facilities)
+>1 million MT
+2017
+Royal Dutch Shell (Pittsburgh)
+Multibillion
+>1 million MT
+Not finalized.
+Braskem (West Virginia)
+Multibillion
+>1 million MT
+Not finalized.
+*DOW CHEMICAL TO INVEST $4 BILLION TOTAL IN ETHYLENE AND PROPYLENE CAPACITY ON U.S. GULF COAST. SOURCE: COMPANY PRESENTATIONS, PRESS RELEASES, AND REPORTS.
+American ethane is so cheap that Sasol, the company that perfected gas-to-liquids technology, decided to cancel an $11 billion gas-to-liquids facility in Louisiana instead of its $7 billion ethane cracker. Dow Chemical expects to add nearly $2 billion in annual EBITDA once its ethane crackers are running at full capacity, which will give the company access to cheaper ethylene (produced in-house) for its performance plastics products. Meanwhile, ExxonMobil estimates increased chemical investments will create 600,000 American jobs and $250 billion in economic output within a decade of operations.
+Given the optimism about and size of investments in American ethane, does renewable ethylene created from ethanol have any chance of competing on a global scale?
+How low can you go?
+Chemical manufacturing is a game in which the cheapest feedstock wins. And when it comes to ethylene production, the world has two options: (1) ethane-to-ethylene and (2) naphtha-to-ethylene. That said, American ethane from natural gas handily beats naphtha derived from crude oil nearly anywhere in the world. The severe cost disadvantage facing naphtha-to-ethylene production in Europe and Japan remains in place despite falling oil prices and has driven the industry's $124 billion in investments in ethane crackers.
+
+As you can probably guess, ethanol-to-renewable ethylene will also have a difficult time competing with American ethane anytime soon. Using current market prices for ethanol and ethane, production from Braskem's renewable ethylene facility is roughly 200% to 300% more expensive than would-be production from the petrochemical plant Dow Chemical expects to bring online in 2017. Sure, Braskem's facility is many times cheaper to build, but capital cost advantages are washed out in the long term. Besides, ethane isn't necessarily the competition for ethanol.
+Consider that Braskem's ethanol-to-renewable ethylene process is already competitive with established naphtha-to-ethylene processes in certain markets that have access to cheap ethanol, such as Europe or China. The economics will become more persuasive when oil prices inevitably rise in the years ahead. That could encourage foreign chemical manufacturers to invest in renewable ethylene production relying on domestic feedstocks instead of imports from America. Should Europe or China build enough capacity, American chemical plants could lose valuable export markets already penciled into earnings and growth projections.
+It's also worth noting that American ethane will eventually be valued higher than current near-zero levels. When ethane crackers come online in 2017 and begin gobbling up excess ethane, so, too, will new ethane pipelines to Canada and ethane export terminals along the Gulf Coast. That combination of infrastructure solutions will force ethane markets to behave as, well, real markets with competition for supply. In other words, ethane prices will rise. 
+
+THE WORLD'S FIRST RENEWABLE ETHYLENE FACILITY. IMAGE SOURCE: BRASKEM.
+But even if ethanol maintains its 10-year average price of roughly $2.25 per gallon (compared to $1.40 today) and ethane rises to $0.40 per pound (compared to $0.10 today), then renewable ethylene still wouldn't be cost competitive with ethane crackers. However, presenting global ethanol producers with an alternative -- and higher value -- market to transportation fuels could shift the economics in unpredictable ways. For instance, rather than idling production due to constraints in fuel markets, American ethanol capacity could operate full-steam ahead with an eye toward renewable chemical production. Throw in another record corn harvest that pushes corn prices and ethanol production costs to multiyear lows and the economics of renewable ethylene don't sound so crazy, even when compared to ethane.  
+What does it mean for investors?
+Diversification is a good thing, even for large, established industries such as natural gas and chemical manufacturing. Companies such as ExxonMobil and Dow Chemical are investing billions of dollars to leverage cheap American ethane to create a global alternative to higher priced naphtha for ethylene production. The economics are almost too good to be true, which will make it difficult, if not impossible, for naphtha to compete head-to-head. That alone should protect the earnings power of world-class ethane crackers being built along the Gulf Coast, along with proposed facilities in the Appalachians. Go ahead, take a deep breath. 
+While investors cheer growth-enabling ethane crackers, they must also acknowledge that ethanol-to-renewable ethylene production provides a realistic and economical manufacturing option. With just 200,000 MT of annual production globally today, it remains a distant threat. But Braskem could expand to markets currently relying on more expensive naphtha that have access to cheap ethanol, such as Europe and China. In the long term that could chip away at the customer base and export markets for American ethane crackers, although the industry's $124 billion in investments are safe for now. 
+However the ethylene market plays out, two things are likely true. Naphtha-to-ethylene may be going the way of the dodo. And the world's complicated relationship with ethanol is about to get a bit more complicated.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

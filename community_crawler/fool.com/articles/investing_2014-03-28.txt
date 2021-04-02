@@ -1,0 +1,57 @@
+The Dow Jones Industrials (DJINDICES:^DJI) gained almost 59 points on Friday, managing to give the Dow a small gain of just over 20 points on the week. Yet, even though positive contributions from ExxonMobil (NYSE:XOM) and Microsoft (NASDAQ:MSFT) helped keep the Dow moving higher, Visa's (NYSE:V) substantial drop reflected some of the uncertainties in investors' minds about how much further consumer spending can take the stock market.
+Visa's fall of 1.7% came on the heels of a lawsuit from retail giant Wal-Mart (NYSE:WMT), seeking $5 billion in damages concerning the credit card network's policy on swipe fees. The move had been long anticipated, given that Wal-Mart and many other major retailers had chosen not to participate in a class action lawsuit that led to a $5.7 billion settlement that Visa and MasterCard paid to thousands of smaller retailers. Given Visa's growth in recent years, the company should be able to afford to resolve the dispute relatively amicably at some point in the future if it wants to, but in the meantime, it will be interesting to see whether Wal-Mart's allegations of antitrust violations actually gain traction in a court proceeding.
+ExxonMobil, on the other hand, gained 1.5%, adding to its similar-sized jump Thursday following optimistic comments about the oil giant from Merrill Lynch. Analysts at Merrill upgraded Exxon stock, pointing to relatively low valuations compared to the broader market's earnings multiples. Of course, one issue pointing the other way is that Exxon has struggled to produce growth lately, with sluggish prices and production actually threatening to make profits contract in the near future. Still, as other stocks in the Dow have climbed even more dramatically during the past year or two, Exxon starts to look more attractive by comparison, especially as investors start to hope that economic sanctions against Russia won't hamstring the oil giant's profit potential.
+Finally, Microsoft finished the day up 2.4%. Most investors focused on the company's initiative to make its Office software available on the iPad this week, but Microsoft's long-term success relies on much more than a single product -- even one as important as Office. Rather, the big question that Microsoft investors have to answer is whether they believe that new CEO Satya Nadella can lead the tech behemoth in a better direction after years of what many saw to be stagnation. So far, just the appearance of promising changes has been enough to inspire long-term investors about the potential for gains at Microsoft; but after Nadella's honeymoon period ends, Microsoft will have to show that his efforts have actually borne fruit in the form of sales and earnings growth.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+Although investors might be disappointed that the Dow Jones Industrials (DJINDICES:^DJI)ended Friday up just 59 points after rising as much as 150 points earlier in the trading session, the market's ability to sustain current levels despite five years of huge returns is impressive. While many analysts pointed to the personal income and spending figures this morning from the Bureau of Economic Analysis as signaling the economy's resilience in the face of harsh winter conditions, one figure that most stock market investors didn't pay attention to has potentially bigger implications for the Dow's future and the direction of monetary policy well into the future.
+Another measure of inflation
+When most investors think about inflation, they tend to focus on the Consumer Price Index. But included with the personal income and spending figures from the BEA is another measure of inflation called the price index for personal consumption expenditures, also known as the PCE deflator. This morning's reading on the PCE deflator showed a 0.1% rise in February, matching January's 0.1% jump and bringing the deflator's rise over the past 12 months to just 0.9%.
+THE IMPACT OF RUNAWAY INFLATION. SOURCE: WIKIMEDIA COMMONS.
+The PCE deflator is so important because the Federal Reserve prefers it to the CPI in determining changes in consumer prices. Back in 2000, the Fed switched to using the PCE deflator as its primary measure of inflation. Yet despite some conceptual differences that lead to different relative weighting of consumer-related expenditures -- especially for housing -- both the PCE deflator and the CPI have pointed to levels of inflation that have worried policymakers as being so low as to risk a potential deflationary spiral.
+Why low inflation could help the Dow
+The question investors have to ask is how low levels of price increases will affect their investments. For instance, declining prices for energy helped keep the PCE deflator in check last month, and a generally weak pricing environment has added to the difficulties that ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX) have had in producing revenue growth. Similarly, falling prices for durable goods could cause problems for the companies that manufacture and sell those goods, hurting their sales growth and eating into their profit margins.
+What low inflation does support, though, are measures intended to stimulate the economy. The Fed is pushing forward in reducing its bond-buying activity under quantitative easing, taking another $10 billion off its monthly bond purchases earlier this month. Yet even amid controversy about the potential for raising short-term interest rates sooner than expected, it's apparent that the Fed has more latitude to keep rates low for a longer period of time, not less. That could be good news for JPMorgan Chase (NYSE:JPM), Wells Fargo (NYSE:WFC), and other banks that stand to profit from a steep yield curve reflecting the difference between low short-term rates and higher (though still low) long-term rates.
+Keep your eyes on inflation
+Eventually, economic growth might accelerate to the point at which inflation becomes a concern. For now, though, the PCE deflator only confirms the impression that economists have had for a long time that the economy has plenty of capacity for growth before price pressures come back. That latitude could help support record gains for the Dow in 2014 and beyond.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+Today brought a solid close to the week for investors as stocks across the market have bounced higher, led by the Dow Jones Industrial Average's (DJINDICES:^DJI) jump to 33 points in the green as of 2:30 p.m. EDT. Most stocks on the index are in the green today, but few are jumping like ExxonMobil's (NYSE:XOM) 1.4% gain. Meanwhile, video game retailer GameStop's (NYSE:GME) shares have rebounded off of the company's disappointing earnings with a big pop today. Let's catch up on what you need to know.
+Consumer spending rises, but caution remains
+The Commerce Department announced this morning that American spending jumped 0.3% in February, matching forecasts from economists. Don't get too excited, however: Most of that gain came from health care and utility spending, while durable goods spending actually decreased in February. As the winter weather subsides and Americans get used to Obamacare's rollout, expect those figures for health care and utilities to drop in the coming months. If consumers remain stingy with their purchases, U.S. GDP could have a hard time picking up speed in the coming months, particularly as first-quarter economic growth is expected to take a hit from the winter.
+Energy giant ExxonMobil jumped following an upgrade to buy from Merrill Lynch yesterday. Merrill sees the potential for improved cash flow out of Exxon in the coming years, but it's worth using caution with this Big Oil stock. The company's earnings have taken a beating lately, and Exxon sees capital spending declining again in the near future despite its opening of numerous new projects. That should help increase production. Still, it can't hurt to take a wait-and-see attitude for a company that has investments in Russia, given the current tensions between the West and Russia.
+SOURCE: WIKIMEDIA COMMONS, USER DWIGHT BURDETTE.
+GameStop jumped 6.6% as one of the market's biggest gainers among sizable stocks. The company's earnings, reported yesterday, certainly didn't help its stock: earnings per share declined to $1.90 for the quarter when adjusted for one-time items, a fall of more than 10% year over year and a big enough drop to miss analyst projections of $1.92. GameStop's revenue did rise, though. Despite projecting revenue growth in the high single-digit to low double-digit percentages in the coming year, GameStop let down analysts who expected more from the company in 2014 following the releases of new game consoles by Microsoft and Sony.
+Still, GameStop is doing its best to shake the pessimism. Although the company will have to deal with Wal-Mart's entry into its core used-game business in the future, the company is diversifying by opening electronics and tech-focused stores that will sell products from major tech giants in order to appeal to a broader audience. Still, with the decline of retail in the consumer electronics market, it's difficult to imagine a stellar success from GameStop's latest move. Tread lightly around this stock's rise today.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

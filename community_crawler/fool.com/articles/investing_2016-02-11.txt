@@ -1,0 +1,454 @@
+
+COULD EXXONMOBIL INVESTORS GET FROZEN OUT OF OIL RECOVERY? (IMAGE SOURCE: EXXONMOBIL CORPORATE WEBSITE)
+Compared with its oil and gas peers, ExxonMobil (NYSE: XOM) has managed the current crisis quite well. Since oil fell over 70% from its highs in 2014, shares of big, multinational, integrated energy companies such as Chevron (NYSE: CVX), BP (NYSE: BP), and Royal Dutch Shell (NYSE: RDS-A)(NYSE: RDS-B) have all fallen by 36% to 46%. Shares of ExxonMobil, meanwhile, have declined by only 22%, faring significantly better than nearly every competitor.
+This outperformance may not continue much longer, though.
+Why is Exxon outperforming?
+Strong underlying fundamentals are the largest factor driving Exxon's outperformance. In 2015, earnings for the company dropped 50% from a year earlier to $3.85 a share. While this doesn't seem overly impressive, the rest of the industry fared much worse. Chevron saw its earnings decline 76%, BP's declined 87%, and Royal Dutch Shell actually swung to a loss.
+While all of these companies have diversified revenue streams, Exxon's has proved most resilient. Integrated oil companies typically split their revenues between upstream (production) and downstream (refining and marketing). Drilling for oil, the upstream portion of sales, has been hit the most from declining selling prices. Exxon's U.S. upstream earnings declined $6.3 billion from 2014 to a loss of $1.1 billion in 2015. Upstream earnings outside the U.S. were $8.2 billion, down $14.2 billion. Fortunately, the company's downstream segment has picked up some of the slack. 
+Refining profits typically benefit from lower oil prices. Exxon's downstream segment has used lower oil prices to widen their cut of the pump price of oil. So while consumers have seen their gas bills plummet, refineries have taken some of the savings for themselves. That's why Exxon's downstream earnings nearly doubled in 2015 to $6.5 billion, even while the upstream segment faced massive headwinds. The company's Chemicals segment has also benefited from lower input prices. Chemical earnings increased $103 million last year to $4.4 billion. So while most oil companies are struggling to cope with lower selling prices, 60% of Exxon's 2015 earnings actually came from segments that benefited from lower crude prices. 
+How can this be a bad thing?
+Exxon's approach has resulted in significantly less earnings volatility compared with its peers. As a result, the company was able to generate free cash flow of $6.5 billion last year, even after spending $26.2 billion in capital expenditures. But while its diversified business helped it weather lower oil prices, it may hinder Exxon's upside in an oil recovery.  
+Because refining profits typically rise during periods of falling oil prices, Exxon has seen its downstream profits go from roughly 10% of operating earnings in 2014 to almost 37% in 2015. If oil prices stage a rebound, this newfound source of profits will be the first to shrink. While Exxon would surely benefit greatly overall of from higher energy prices, it wouldn't have nearly the earnings upside as more pure-play competitors. 
+Exxon's inability to participate in oil rallies is easily demonstrated the last time oil prices staged a meaningful rebound. From 2009 to 2011, oil prices rocketed from $30 a barrel (close to where we are today) to nearly $100. Chevron and Royal Dutch Shell both saw their shares jump by around 25%. Even with its disastrous Deepwater Horizon oil spill, BP shares still ended that period about flat. Exxon shares meanwhile were actually down around 7%. Not only did its diversified revenue stream limit earnings upside, but investors typically flee to the company during times of turmoil, pushing up its valuation premium. Today, shares trade at 19 times expected 2017 earnings, slightly above Chevron's valuation and nearly double that of BP and Royal Dutch Shell.
+While Exxon has proved to be a great defensive play when oil prices fall, it doesn't look like the best option for investors expecting a rebound in energy prices.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+You know things are bad when earnings calls are shortly followed by a sectorwide Standard & Poor's credit downgrade.
+In this week's Industry Focus: Energy, Sean O'Reilly, Taylor Muckerman, and Tyler Crowe go through this week in the energy space -- earnings calls news from three of the biggest players in big oil and just how hard last year hit them; who's not-so-surprisingly cutting their dividend; and what's behind the S&P downgrade. Also, some advice for investors on how to make calm-headed, long-term investments in a space during a prolonged downturn like this one.
+A full transcript follows the video.
+
+
+
+Before you consider Royal Dutch Shell plc, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Royal Dutch Shell plc wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+This podcast was recorded on Feb. 4, 2016. 
+Sean O'Reilly: There's big oil earnings in them thar hills, on this energy edition of Industry Focus.
+Greetings, Fools! Sean O'Reilly, joining you here from Fool headquarters in Alexandria, Virginia. It is Thursday, Feb. 4, 2016. Joining me to talk oil earnings and credit downgrades are Tyler Crowe and Taylor Muckerman. So, guys, Super Bowl's this weekend. I know who Taylor is rooting for since he has a Carolina Panthers flag at his desk --
+
+Taylor Muckerman: Yes, absolutely. Keep pounding.
+
+O'Reilly: But, who do we think is going to come out on top?
+
+Muckerman: Panthers.
+
+O'Reilly: Of course.
+
+Muckerman: Against the spread.
+
+Tyler Crowe: That's a bold bet.
+
+O'Reilly: Yes.
+
+Crowe: What's the spread right now? Isn't it like 5.5?
+
+O'Reilly: That's it?
+
+Muckerman: Last I saw was 6; that was a day or two ago.
+
+O'Reilly: Wow.
+
+Crowe: That's a pretty decent-size spread.
+
+O'Reilly: Do you guys think this is Peyton's last shot? Is this it?
+
+Muckerman: Yes. It depends on if he's going to --
+
+Crowe: It depends on how many HGH deliveries go to his wife.
+
+O'Reilly: Ooh! [laughs]
+
+Muckerman: I don't know if he's finishing this game on Sunday.
+
+O'Reilly: That's a low blow, bro! Low blow!
+
+Crowe: Yeah, well, we'll see. I have a weird schadenfreude. I think it was a couple weeks ago, was it the CEO of CBS, Les Moonves, was excited as heck on how much it would cost per 30-second Super Bowl ad. I really --
+
+Muckerman: $5 million.
+
+Crowe: -- really want a blowout.
+
+O'Reilly: Wasn't, a couple years ago, it was like $2 million or something?
+
+Crowe: Yeah. So I really want a blowout, just to kind of stick it to him a little, where, you charge so much for a Super Bowl ad, and this year, because you had a blowout, nobody finished the entire game. 
+
+Muckerman: That's fine; he got his. They still have to pay. They don't get a refund.
+
+Crowe: That is true. You might get a little flak, though.
+
+Muckerman: You pay more for the first-half advertisements.
+
+O'Reilly: Yeah. I know we're supposed to be talking oil earnings, but what's up with the pre-release of all these Super Bowl ads?
+
+Muckerman: Of the Super Bowl game? [laughs]
+
+O'Reilly: Yeah, we know who's going to win! No, there's that Mick Jagger one or whatever, it's like...
+
+Muckerman: And I saw an avocado commercial. It was like...
+
+O'Reilly: This is half the reason people watch the Super Bowl. What's happening?
+
+Muckerman: Yeah, it takes the plot twists...
+
+Crowe: A decent portion of Super Bowl watchers only watch it for the commercials! And if you release them all on YouTube beforehand --
+
+O'Reilly: What are you people doing?
+
+Crowe: -- you're kind of spoiling the moment. Like showing a movie on a bootleg copy before it's released in theaters.
+
+Muckerman: Maybe it's not their best one. Maybe they're just getting feelers out.
+
+Crowe: Oh my gosh.
+
+Muckerman: I didn't think the Super Bowl commercials last year were all that great, anyway. So whatever.
+
+O'Reilly: No, they weren't. No.
+
+Muckerman: So pre-release all you want.
+
+O'Reilly: All right, so, we're finally getting fourth-quarter and full-year 2015 earnings from the oil majors, everybody's favorite corporation. So, I thought we'd go around the table and talk about the company we each picked pre-show. Who wants to go first?
+
+Muckerman: Well, alphabetically, I think mine might be first.
+
+O'Reilly: OK, go ahead.
+
+Muckerman: BP (NYSE:BP).
+
+O'Reilly: "Beyond Petroleum."
+
+Crowe: Way beyond petroleum.
+
+O'Reilly: [laughs]
+
+Crowe: They should move as far away as possible. [laughs]
+
+Muckerman: Get away! Abandon ship! Profits down 91% year over year for the quarter, 51% down for the full year. Their market cap is the lowest it's been since the Deepwater Horizon disaster. It's below $100 billion.
+
+Crowe: Leveraged buyout.
+
+Muckerman: [laughs] Leveraged buyout, yeah, something like that. Maybe [Royal Dutch Shell]'s (NYSE:RDS.A) (NYSE:RDS.B) got some extra cash on them.
+
+O'Reilly: Yeah, [laughs], no, they don't.
+
+Crowe: To be fair, if you look at the financials of BP during the Deepwater Horizon spill, the financials were actually OK.
+
+O'Reilly: Yeah, they were great.
+
+Crowe: They were making money --
+
+O'Reilly: You were talking about spending $15 billion on that, it was like, "OK, that's fine, whatever." [laughs]
+
+Crowe: And this time, there's actually a reason.
+
+Muckerman: Well, their net loss is almost double the loss from 2010, and that's the same year they wrote off $40 billion worth of assets. 
+
+O'Reilly: Wow.
+
+Muckerman: Yeah, things aren't that great over at BP. They pretty much said they've cut costs almost to the bone.
+
+O'Reilly: "We cannot cut it anymore, captain!" [laughs]
+
+Muckerman: There's not much more room.
+
+O'Reilly: Did refining help them at all?
+
+Muckerman: It did a little bit, but you're seeing...
+
+Crowe: Yeah, let's see, I've got their refining numbers right here... in the third quarter of 2015, they did $2.5 billion for downstream refining in chemicals, and in the fourth quarter, it was $838 million. So...
+
+O'Reilly: That's not even...
+
+Crowe: Pretty big downturn.
+
+Muckerman: They're showing -- lack of demand is hurting them on the margin side from the downstream sector. And it results in job losses. At first, they were only going to lay off 4,000 upstream folks. Now, they're talking about that plus 3,000 downstream folks.
+
+O'Reilly: Wow. You would think those guys would have been insulated a little bit.
+
+Muckerman: That's the idea behind the diversified model of E&P with their downstream business. But it's not helping them right now.
+
+O'Reilly: Nope. OK, I picked Shell. Who did you pick?
+
+Crowe: I did ExxonMobil (NYSE:XOM).
+
+O'Reilly: OK, you're up next, alphabetically.
+
+Crowe: Yeah, I'm going next. So, here's the only thing I guess we can say -- at least we're profitable? I mean...
+
+O'Reilly: Well, yeah?
+
+Crowe: If you compare what happened with BP and Chevron both heading into the loss column even before asset writedowns and impairments, just on a pure earnings basis, they both lost money -- ExxonMobil actually made money. It doesn't sound that great, but hey, it's something, right? Earnings for the quarter were down 57% compared to this time last year. And let's remember, fourth quarter of 2014 wasn't exactly killing it, either, for income.
+
+Muckerman: No, we're getting into a pretty easy comp area right now ...
+
+Crowe: Yeah, and we're still not quite getting over the hurdle.
+
+O'Reilly: [laughs] One would think...
+
+Crowe: One would think these are pretty easy comps to do. Kind of the same stories, though. Upstream production profits down somewhere between 80% to 85%. Downstream didn't suffer as much as BP's; they pulled in about $1.3 billion on the downstream, which pretty much propped them up. The funny thing is, for almost every single quarter, quarter in, quarter out, ExxonMobil always talks about investing through the cycle and prudent capital allocations. And for the very first time in probably a very very long time, they actually talked on their conference call of living within their cash flows, which is kind of something you never hear from ExxonMobil. So it was kind of almost surreal.
+
+O'Reilly: Because normally, they would have been like, "We've got the balance sheet, we can... "
+
+Crowe: Yeah! All the time, they normally just keep saying, "We need to keep investing through the cycle, we'll get through this, yadda yadda yadda, more strength."
+
+O'Reilly: "More debt!"
+
+Crowe: "More spending!"
+
+O'Reilly: "We've got to keep that dividend!"
+
+Crowe: "We'll figure it out!" And this quarter was one    of the first quarters in a long time where their cash flow from operations didn't exceed their investments. So now, they're starting to talk about whispers of, "Hey, maybe we need to think about reevaluating our investing-through-the-cycle thing."
+
+O'Reilly: Even Papa Exxon is sweating it now, huh?
+
+Crowe: Little bit.
+
+O'Reilly: OK. Well, as I mentioned, I did Shell. We obviously chatted about them recently, so I was curious what was going on with their earnings. They are, of course, about to create the BG Group acquisition, which complicates matters a little bit going forward, as well. This is going to be the last quarter and the last report that we get before the acquisition goes through. Fourth-quarter 2015 earnings on a current cost of supplies basis, I'll define that in a minute if anybody wants me to, were $1.8 billion, compared with $4.2 billion in the same quarter last year. So, like Tyler mentioned, we're starting to get into some easy comps, and it still did not matter. 
+
+Muckerman: Still tough to chew.
+
+O'Reilly: I actually never heard of the current cost of supplies thing, even though I took plan of economy classes --
+
+Crowe: It's a very European thing.
+
+Muckerman: Yeah, BP uses that, too. Basically just net income.
+
+O'Reilly: Yeah. Basically, the bottom line for listeners who don't know or don't care is, it's basically similar to what U.S. majors report as net income. So whatever. Full-year 2015 earnings were $3.8 billion, compared with... wait for it... $19 billion in 2014.
+
+Muckerman: Ow.
+
+Crowe: Oof.
+
+O'Reilly: Womp-womp. Anyway, they're still going strong with the dividend. They're expecting to announce a dividend of $0.47 per ordinary share and $0.94 per American depository receipt for the first quarter of 2016. So they're still keeping that going.
+
+Crowe: To be fair, though, they do have a very large uptake on a script-dividend program. So if you look at their actual cash outlays for their dividend, it's down almost 40%, because what they're doing is allowing people to take a dividend in the form of new shares.
+
+O'Reilly: Oh, that's shenanigans. 
+
+Muckerman: That's how all my shares --
+
+O'Reilly: Really?
+
+Muckerman: Yeah, I just reinvest my dividends.
+
+Crowe: I mean, for anybody that's doing reinvested dividends, it's actually a pretty good deal. Most companies, when they do it --
+
+O'Reilly: He gives you a discount.
+
+Crowe: They give you a 5% market discount on the new shares. So they're having a pretty large uptake on their script dividends, so it's helping save a little cash. I think it was a little more than $1 billion per quarter.
+
+O'Reilly: So a lot of people are taking advantage of this downturn, in a small way, admittedly.
+
+Crowe: You could say that.
+
+Muckerman: Yeah, a dollar-cost average without even doing anything. You're not buying full shares unless you own a ton of stock.
+
+O'Reilly: Yeah, millions upon millions.
+
+Muckerman: Yeah, because your dividend is small compared to the price of the shares. But yeah, you're still adding a little bit over time.
+
+O'Reilly: So this stuck out to me. We're going to get to this in a minute. Shell was one of the companies that Standard & Poor's downgraded. So, I'm wondering if they should be cutting the dividend. They cut Shell's credit rating, along with the rest of the sector. And we obviously talked about that a little bit. But they just did it specifically in Shell's case because the company has been unable to cover its capital spending in dividend payouts from cash. So, starting to dip into the balance sheets and stuff a little bit.
+
+Crowe: Welcome to the club.
+
+O'Reilly: Yeah [laughs]. And my last little tidbit I wanted to point out -- and Tyler, Taylor, feel free to weigh in here -- interesting thing that stood out to me was they didn't do so well on their reserve replacement metric. Its reserve dropped 20% in 2015. Shell, of course, said that low oil prices forced it to slash 1.4 billion barrels from the volume of its oil and gas it expects to develop. And Chevron was able to replace reserves last year, for example, up to 107%. So it was kind of disappointing to me to see that. But anyway. What were we saying on our way down here, Tyler, though, that it's price-dependent?
+
+Crowe: Right. Reserves are not just the amount of oil that you find, or cubic feet of gas that you find. It's also if you can extract it economically at a set price, and the price is typically set by the SEC on a trailing-12-month basis. So if we were to compare last year's reserves for Shell, they were probably doing it at a barrel price of $95, maybe even better, versus today, you're looking at a per-barrel price of, over the last 12 months, probably in the mid-$50s?
+
+O'Reilly: Yeah.
+
+Crowe: That's going to affect your reserve replacement rate. But it doesn't change the physical amount of oil in the ground. So who knows, maybe in three, four, five years, we see oil back up much higher than it is today; it'll be very easy to replace those reserves.
+
+O'Reilly: One thing we can conclude, though, is Chevron clearly found some cheaper oil, given their reserve replacements.
+
+Crowe: We'll see.
+
+O'Reilly: We'll see. All right, before we move on, I wanted to point our listeners to the newly redesigned focus.fool.com where you'll find a special offer to join The Motley Fool's Stock Advisor newsletter that works out to $129 for a full two-year subscription. Once again, that's focus.fool.com.
+Moving on to our second segment -- that did not take long. Everybody remember a week or two ago, when Taylor said he was watching to see the next company to cut its dividend?
+
+Muckerman: Huh? What?
+
+O'Reilly: We have a winner! It is... drum roll, please... ConocoPhillips (NYSE:COP)!
+
+Crowe: All right.
+
+O'Reilly: Who saw this coming? Anyone? 
+
+Crowe: Did you mention this as a possibility?
+
+Muckerman: No, I didn't.
+
+Crowe: I thought you might see a weaker candidate, maybe a leveraged master limited partnership or something like that. But then again, none of them are reporting for a couple weeks.
+
+Muckerman: It's not over yet. [laughs]
+
+Crowe: Yeah, they're not the only ones.
+
+O'Reilly: Plus, a lot of them have cut already. [laughs]
+
+Crowe: The first one to do it ... What was I going to say? Sorry.
+
+Muckerman: That's OK. Caught me by surprise, because just a few months ago, ConocoPhillips said --
+
+O'Reilly: Said they were fine, yeah.
+
+Muckerman: -- it was like, their highest-priority use of cash.
+
+Crowe: That's what I was going to say.
+
+Muckerman: Which was also a red flag, because...
+
+O'Reilly: He lied like a central banker the night before an evaluation. [laughs]
+
+Muckerman: No, no, that's like financial engineering to me. I don't want my company thinking the dividend is the holiest of all grails. I want them --
+
+O'Reilly: Right. It should be a leftover thing.
+
+Muckerman: Right. I want them to be saving; I want them to be spending. Put the cash where it needs to be as far as this business is concerned. Don't cater to investors.
+
+O'Reilly: They did keep the dividend. They cut it by two-thirds, from $0.74 per share to $0.25 per share. I mean, is this just to placate people?
+
+Muckerman: They didn't reduce it to $0.01, so I still think --
+
+O'Reilly: Right, that's placating. [laughs]
+
+Muckerman: Yeah, that's placating, that's making sure you don't get dropped from mutual funds that are yield-focused, because then you get a lot of sell-off. I think this is probably more of a strategic move, obviously, but at the same time, you can't come out in November or December and say your dividend is the most sacred cow within the company, and then two months later...
+
+O'Reilly: Lack of credibility.
+
+Crowe: Well, they weren't the first one to do it. If we remember, I think it was Kinder Morgan back when they reported third-quarter --
+
+O'Reilly: You just had to bring up Kinder Morgan. [laughs]
+
+Crowe: Well, in the third quarter in October, they were like, "We're going to protect the dividend, the dividend is fine, it's safe" -- and, within two months, cut it, as everybody started seeing the debt fears.
+
+O'Reilly: Refresh my memory -- the credit ratings and S&P rating being in question was the cause of that initially, right?
+
+Muckerman: Yeah.
+
+Crowe: They did an acquisition that brought on a little bit more debt, and they were already levered pretty high after the big buyout that they did. They were running higher debt metrics in the first place. So after that acquisition, everybody started going, "Hey, guys, your debt is getting a little uncomfortable, we're not ready for this, can we find some cash somewhere to do it?" It's almost kind of funny. It seems like every single company nowadays is coming out with that, "The dividend is sacred and we're going protect the dividend at all costs," and then a month later, it's cut.
+
+Muckerman: How sacred and how safe can a dividend really be in a cyclical industry?
+
+Crowe: That's true.
+
+Muckerman: Don't put such a high value on it as a company when obviously there are going to be struggles.
+
+O'Reilly: So what were you saying earlier about the Phillips 66 spinoff, Tyler? I hope everybody kept those shares, right? [laughs]
+
+Crowe: So back in 2012, ConocoPhillips spun off its refining and chemical segment into Phillips 66. The idea was, it was going to unlock shareholder value. Phillips 66 was this underappreciated asset on the balance sheet, and "we're trying to properly allocate capital," and all of that stuff. So they spun it off, thinking it would be great, because they would take all that cash and reinvest it in shale, and it would be wonderful because all this expensive oil will let us do a killing. And lo and behold --
+
+O'Reilly: They were right, kind of. [laughs]
+
+Crowe: We're coming to find out that actually, owning a downstream asset in a cyclical industry is a pretty valuable asset to own. If you look at ConocoPhillips since the spinoff, it's down 31%. Similarly, Marathon Oil, which did something similar with Marathon Petroleum back in 2011, they're down 70% since the spinoff. So ...
+
+O'Reilly: There is value to being an integrated major.
+
+Muckerman: Not when oil is $120 a barrel, though, which is when these guys decided to cast off their refining business that probably wasn't doing so hot at the time.
+
+O'Reilly: It's like they forgot they were in a commodity business. 
+
+Muckerman: Maybe.
+
+Crowe: Maybe.
+
+Muckerman: They'd been sniffing the petroleum reserves.
+
+O'Reilly: OK, so, moving on, as I mentioned earlier, S&P downgrades... all the energy things? [laughs] Is that what we're calling this?
+
+Crowe: All of it.
+
+O'Reilly: All the things.
+
+Muckerman: The whole toolshed has been thrown out.
+
+O'Reilly: Everything's downgraded. Standard & Poor's has downgraded pretty much every official corporate credit rating in the oil and energy patch. It took rating actions on 20 different issuers in the oil and gas exploration production segment. Why did it take them this long?
+
+Muckerman: That's a good question. I don't know.
+
+O'Reilly: [laughs] Here we are in February, 2016.
+
+Crowe: I think one of the reasons it took so long, if you look at the companies they downgraded, they were the ones that were doing OK, and had the balance sheets to manage it.
+
+O'Reilly: Yeah, Exxon and Shell and...
+
+Muckerman: This is basically an industry downgrade. It's not company-specific anymore. When they come out with that large of a number, it's like, "Yeah, well, you guys are pretty much all up the creek."
+
+Crowe: When you're downgrading Chevron and ExxonMobil... back in 2015, yeah, things didn't look hot, because oil was $60 a barrel, and they were taking some writedowns, but the cash situation was still doing OK, stuff like that. But now, things are getting a lot tighter. And now, after a year, when it's time to read up on those reassessments, the time came. 
+
+Muckerman: At some point, Exxon had a better credit rating than the U.S. government.
+
+Crowe: Still does.
+
+Muckerman: Still does. So there you go.
+
+O'Reilly: Ooh, awkward.
+
+Muckerman: [laughs]
+
+O'Reilly: It does seem to imply... everybody's sweating now, because you heard about Saudi Arabia issuing those bonds a couple of months ago, and now they're talking about selling Saudi Aramco, so they're not happy. They're cutting their social programs and all that good stuff.
+
+Crowe: Well, I mean, that's the same as...
+
+Muckerman: They did say that they can live in this environment a lot longer than most.
+
+O'Reilly: Well, yeah, but then they're going to run out of money.
+
+Crowe: They have a very large reserve.
+
+O'Reilly: [laughs] In five years, they'll be out of all their money.
+
+Muckerman: If oil is still $30 a barrel in five years, we're all out of money.
+
+O'Reilly: Yeah.
+
+Crowe: Yeah.
+
+O'Reilly: Good stuff. OK. Before we head out, I thought we'd do something fun. Is there one piece of investing advice that you could give a listener right now? What would it be? Taylor?
+
+Muckerman: Don't let double-digit percentage moves to the good scare you away from investing in energy right now, because stocks are still down 50%, 60%, 70%. Me, personally, I was just telling you guys before the show that CONSOL Energy (NYSE: CNX), the company I've been watching to add some shares to, in the last 12 days, it's up about 80%. But in the last year, it's still down 70%. So, lot of room to go for it to get back to where it was.
+
+Crowe: Yeah, that's one of the things that's kind of underappreciated, when somebody says, "Oh, they're up 25% in the past two days," it's like, yeah, but to gain everything back, they have to be up like 400% to 500%!
+
+Muckerman: [laughs] Yeah, exactly.
+
+Crowe: The one thing I would say to people, especially, we're long-term investors, we're trying to buy businesses, quality businesses that you can hang on to five, 10, 20 years. In a commodity business like this, we don't know the bottom, we don't know the top, and it's impossible for anybody to really time it well. So why bother?
+
+Muckerman: Even the companies themselves can't. No one was beating the pulpit trying to tell us this was going to happen.
+
+Crowe: So, as an investor, pick the companies that are great companies and are going to succeed over those long-term time horizons, and just keep investing through the cycle. Some sort of reinvestment program where you do it at regular intervals. You will gain the benefits of the bottom, even if you don't necessarily call the bottom. Buying at regular intervals like that, or dollar-cost averaging, whatever you want to call it, it sucks. It's hard. Right now, you want to hold your nose when you're trying to make investments in the energy space right now. But, it works. It's been proven to work for a very long time, and I think investors that can hold their nose and actually make those investments today will really benefit in five to 10 years from now.
+
+O'Reilly: In that spirit, I just want to highlight the importance of not getting caught up in the herd mentality. That's how you get trampled, to make this metaphor as corny as possible.
+
+Crowe: Way to throw that pun in.
+
+O'Reilly: Well, you know. Nobody at this table, and I doubt I know anybody else who's ever done this, but I saw this thing on Bloomberg.com yesterday, and it was, short interest in oil futures is at an all-time high for all of human futures history. And I was like, "You're doing this at $30 a barrel. Where were you $70 ago?" And that applies to everybody selling right now in quality names like Core Labs. What do you think... do not do something because everybody else is doing it.
+
+Muckerman: It's like the folks somewhat at the end of a blowout that are slowly getting up out of their seats until that final touchdown score, then it's a mass exodus, and then the team comes back to win when you're in the parking lot.
+
+Crowe: It was like, NBA finals, Heat vs. Spurs a few years ago, it was like that. The Spurs were blowing them out, and the entire arena emptied out. But the Heat made a big comeback!
+
+O'Reilly: And there was one guy there to witness it.
+
+Crowe: And there were people banging on the doors trying to get back in to this game, because they're looking at their phones! And they couldn't get back in! And it's like, well, you just missed one of the greatest games in NBA history because you decided it was already over.
+
+Muckerman: Don't be that guy.
+
+O'Reilly: So, but, the investing advice is, never bet against the Heat in the last minute.
+
+Muckerman: Oh, that Heat team. This Heat team, bet against.
+
+O'Reilly: Well, fine. LeBron left. Anyway. All right, guys. That is it for us. As always, if you have any questions or comments, we would love to hear from you. Just email us at industryfocus@fool.com. Again, that is industryfocus@fool.com. As always, people on this program may have interests in the stocks they talk about, and the Motley Fool may have formal recommendations for or against those stocks, so don't buy or sell anything based solely on what you hear on this program. For Tyler Crowe and Taylor Muckerman, I am Sean O'Reilly. Thanks for listening and Fool on!

@@ -1,0 +1,63 @@
+The S&P 500 index (SNPINDEX:^GSPC) did that strange thing that happens every so often with market-cap-weighted indexes. Well over half of the 505 individual stocks held in the index closed lower on Aug. 25, but the sheer size of some of the best performers resulted in the index closing up 12.4 points, or about 0.34%. 
+The biggest news driving the winners today was the announcement from S&P Global yesterday that some major changes are coming to the Dow Jones Industrial Average (DJINDICES:^DJI). Effective Aug. 31, Amgen (NASDAQ:AMGN), Honeywell International (NYSE:HON), and Salesforce.com (NYSE:CRM) will be joining the Dow, while ExxonMobil (NYSE:XOM), Pfizer (NYSE:PFE), and Raytheon Technologies (NYSE:RTX) are being removed. 
+IMAGE SOURCE: GETTY IMAGES.
+As a result, shares of Amgen gained almost 5.4%, while Salesforce and Honeywell stocks gained over 3%. On the downside, ExxonMobil lost 3%, while Pfizer and Raytheon both lost about 1.5% on the day. Other big winners include Gap Inc, up 10.4% following an analyst upgrade, and J.M. Smucker, with shares up 7% on solid earnings. 
+In addition to the market-moving announcement that the Dow Jones Industrials was swapping out three components, large-cap stocks Starbucks and Advanced Micro Devices, and mega-cap Facebook all gained more than 3% on the day. The sheer size of the best-performing stocks on the day was enough to make up for the 350-plus S&P 500 stocks that lost value. 
+The changes in the Dow were precipitated by Apple's planned stock split, which will have a large impact on the index (which is weighted by stock price). Pulling out one of only two oil companies in the index -- Chevron will remain -- and replacing it with global enterprise software giant Salesforce, and replacing Pfizer with mega-biotech Amgen, will help balance out the amount of influence an individual stock's movement can have on the Dow. S&P Global also said that the move was designed to rebalance the Dow across sectors. This is where adding Salesforce comes in. 
+The three companies being added have been far better investments over the past five years than the ones being removed: 
+
+CRM DATA BY YCHARTS
+Stocks that fell the most included retailers Best Buy, Tiffany, V.F. Corp, and Tapestry, oil refiner Phillips 66, and airlines United Airlines and American Airlines. These companies are representative of the kinds of businesses that have struggled under the weight of the coronavirus pandemic and the recession that it has caused, and stand to struggle the most if the economic overhang lasts longer than expected.
+There is reason for optimism, with prospective treatments moving forward in clinical trials, and multiple vaccine candidates expected to get consideration for an emergency use authorization by this fall. Factor in what is likely to be a contentious campaign between President Donald Trump and former Vice President Joe Biden between now and November, and investors should expect plenty of volatility in the weeks and months ahead. 
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+The Dow Jones Industrial Average (DJINDICES:^DJI) declined on Tuesday, underperforming the other major U.S. stock indices by wide margins. The Dow was down about 0.63% at 12:05 p.m. EDT after the company behind the index announced some major changes in response to Apple's (NASDAQ:AAPL) decision to split its stock.
+Apple stock was down on Tuesday after a judge delivered a mixed ruling related to the company's battle with Epic Games. Once Apple's stock split is executed, the high-flying tech stock will have less of an impact on the Dow, since the index is weighted by stock price.
+IMAGE SOURCE: GETTY IMAGES.
+Apple's decision to split its stock will have a significant impact on the Dow. On Monday, S&P Global announced some changes to the Dow that will help offset the effect of Apple's split. Effective Aug. 31, Salesforce.com (NYSE:CRM) will replace ExxonMobil (NYSE:XOM), Amgen (NASDAQ:AMGN) will replace Pfizer (NYSE:PFE), and Honeywell International (NYSE:HON) will replace Raytheon Technologies (NYSE:RTX).
+This move will lower the Dow's weighting toward the energy industry, which has been hit hard by the pandemic, while offsetting the lower weighting toward the tech industry that Apple's split will cause. It will also replace three poorly performing stocks with stocks that have better records in recent years.
+
+CRM DATA BY YCHARTS.
+The addition of Salesforce, a software-as-a-service pioneer founded in 1999, is the most notable change. Salesforce will report its second-quarter results after the market closes today. Analysts are expecting 22% revenue growth and adjusted earnings that are roughly unchanged from the prior-year period. Shares of Salesforce were up around 3.7% by early afternoon.
+Popular game Fortnite will remain absent from Apple's App Store after a judge denied Epic Games' request for a restraining order. Judge Yvonne Gonzalez Rogers called Epic Games' decision to offer direct payments a calculated move to breach Apple's policies.
+While Apple's Fortnite ban was sustained, the company's threat to cut off Epic Games from its development tools was shot down. Epic Games is responsible for the Unreal Engine, a popular game engine used in a wide variety of games across most major platforms. If Epic Games were unable to support Unreal Engine for Apple's platforms, it would create havoc for any developer using the engine and targeting iOS.
+The judge concluded that Apple's actions related to the Unreal Engine were retaliatory and that they could damage the platform and the gaming industry. That view lines up with the argument Microsoft made over the weekend.
+This battle over Apple's App Store fees is far from over. There's no question that Epic violated Apple's policies; the issue is whether those policies are anticompetitive. Apple has complete control over how apps are acquired on its iOS platform, and it requires developers to use its in-app purchase system and pay a fee on all purchases. European Union antitrust regulators started formal investigations in June.
+Shares of Apple were down 1.7% by early Tuesday afternoon. The stock is still up about 68% year to date.
+
+
+
+Before you consider Apple Inc., you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Apple Inc. wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+On Monday evening, oil giant ExxonMobil (NYSE:XOM) was officially removed from the Dow Jones Industrial Average. The company had been a member of the index since 1928, when it was still known as the Standard Oil Company of New Jersey. 
+The change leaves ExxonMobil's fellow oil major Chevron (NYSE:CVX) as the only oil and gas company in the Dow.
+IMAGE SOURCE: GETTY IMAGES.
+The shakeup was prompted by the upcoming 4:1 stock split of Apple (NASDAQ:AAPL). Unlike the S&P 500, in which components are weighted by market cap, the Dow is calculated based on its components' share prices. Apple's new cheaper price will give it -- and by extension, the tech sector -- less weight in the index. To compensate, the Dow swapped out business software company Salesforce for ExxonMobil.
+With ExxonMobil's exit, it will be the first time since 2008 that the oil and gas industry has only had one representative on the flagship index. It's a sign of how far ExxonMobil's stock has fallen over the past decade. The company's shares are down 28.4% over the last ten years, to just over $42/share. Meanwhile, Chevron -- despite having a lower market cap -- has a higher share price, of more than $87/share.
+To correct its weighting, the Dow swapped out two other companies as well: biotech company Amgen replaces pharmaceutical giant Pfizer, while industrial conglomerate Honeywell replaces aerospace company Raytheon Technologies. The changes will go into effect before the market opens on August 31.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

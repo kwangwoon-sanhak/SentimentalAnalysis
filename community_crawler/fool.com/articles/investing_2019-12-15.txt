@@ -1,0 +1,27 @@
+Dividend yield is a stock's annual dividend payments to shareholders expressed as a percentage of the stock's current price. This number tells you what you can expect in future income from a stock, based on the price you could buy it for today, assuming the dividend remains unchanged.
+For example, if a stock trades for $100 per share today, and the company's annualized dividend is $5 per share, the dividend yield is 5%. The formula is "annualized dividend divided by share price equals yield." In this case, $5 divided by $100 equals 5%. 
+IMAGE SOURCE: GETTY IMAGES.
+It's important to realize that a stock's dividend yield can change over time, either in response to market fluctuations or as a result of dividend increases or decreases by the issuing company. So the yield is not set in stone. It's most useful as a metric to help determine if a stock trades for a good valuation, to find stocks that meet your needs for income, and to let you know that a dividend may be in trouble. 
+
+Most stocks pay quarterly dividends, some pay monthly, and a rare few pay semiannually or annually. In order to determine a stock's dividend yield, you need to annualize the dividend by multiplying the amount of a single payment by the number of payments per year -- four for stocks that pay out quarterly and 12 for monthly dividends.
+If you're looking to collect dividends as often as possible, stocks that pay monthly may be ideal. Most (though not all) monthly payers are REITs, or real estate investment trusts. This category of companies benefits from some tax advantages that allow them -- actually, require them -- to pay above-average dividends.
+One of the most popular is Realty Income (NYSE:O), which we can use as an example. At this writing (June 2020) the most recent dividend was $0.234 per share, and the share price was $58.45. Let's use the formula in the previous section to determine the dividend yield. 
+A monthly dividend of $0.234 times 12 equals an annualized dividend of $2.81 (rounded up). 
+That $2.81 dividend divided by a share price of $58.45 equals a dividend yield of 4.8%. 
+If you're calculating a stock's yield, be careful: Don't just assume that the next dividend payment will be equal to the last. Companies occasionally issue special dividends, and dividends can also get cut. Take the time to research the company and make sure the dividend yield you think a stock will pay matches up with reality.
+The dividend yield shown on many popular financial websites can also be misleading. These sites often report trailing dividend yields, and sometimes they still show a yield that's no longer accurate, even after a company has announced a dividend cut. In other words, take the time to verify that a dividend is accurate before buying a stock based on the yield you see on a website. 
+Dividends are one component of a stock's total rate of return, the other being changes in the share price. For example, if that $100 stock we described above has gone up in value $10 after a year, you've gained 10% in appreciation, plus that 5% dividend yield. So that's a total return of 15%. If you're investing for the long term, be sure to consider a stock's total return potential in addition to the yield.
+The lesson here is that, depending on your investing goals, you could be skipping the best dividend stocks if you're focusing too closely just on dividend yield. For instance, let's say you bought Welltower (NYSE:WELL) in early 2017 instead of CareTrust REIT (NASDAQ:CTRE) because Welltower's dividend yield was a substantially higher 5.2%, versus just under 4.5% for CareTrust. 
+Since then, CareTrust has proven the superior investment, generating 31% in total returns versus 11.4% in total losses for Welltower:
+
+CTRE TOTAL RETURN PRICE DATA BY YCHARTS
+When you look past the dividend yield at the underlying business, CareTrust's superior balance sheet and better growth prospects (it's much smaller than Welltower) have helped make it the better overall investment.
+When shopping for dividend stocks, it's important to keep in mind that a high dividend yield alone doesn't make a stock a great investment; to the contrary, a yield that seems too good to be true very well could be. There are several things you should consider before buying any dividend-paying stocks, including (but not limited to):
+
+Where to invest $1,000 right now
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.*
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now¡¦
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+

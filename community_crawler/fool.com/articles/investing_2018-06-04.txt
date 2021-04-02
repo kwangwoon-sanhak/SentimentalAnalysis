@@ -1,0 +1,50 @@
+If the future of energy were a storybook, then renewable energy would play the part of the hero. That would leave oil and gas producers as the villains -- and it's not difficult to see why. The transportation, electricity generation, and industrial sectors account for 78% of America's total carbon emissions. A couple of famous oil spills don't really help from the PR perspective, either. 
+That has led many public and private institutions to expel any holdings in the oil and gas industry from their endowments, but that might not be a wise strategy in the long run. Displacing and replacing fossil fuels won't be easy. Nor cheap. That leads to an inconvenient reality for most narratives surrounding clean energy: moving to a renewable future as quickly as possible will require help from the incredible capital generation capabilities of the world's largest oil companies.
+The numbers are impossible to ignore. Consider that ExxonMobil (NYSE:XOM), Royal Dutch Shell (NYSE:RDS.A) (NYSE:RDS.B), Chevron (NYSE:CVX), BP (NYSE:BP), and Total SA (NYSE:TOT) have generated a combined $44.6 billion in free cash flow in the last 12 months. That's a whole lot of solar panels. Or research and development. Or equity investments in promising start-ups. 
+Turns out, big oil is doing all of the above. Here's where and how these companies are investing billions of dollars in renewable energy technologies.
+IMAGE SOURCE: GETTY IMAGES.
+Far from being a villain, big oil is perhaps one of the most important allies for renewable energy. The world's oil supermajors generate significant levels of cash flow, boast infrastructure networks that span the globe, and have the most to lose from falling behind the technology curve. It's still early in the oil and gas industry's transition, but the largest energy companies are leaving no stone unturned in their quest for dominating clean energy supply chains.    
+Oil Company
+Selected Renewable Energy Investments
+ExxonMobil
+A $500 million joint venture with Synthetic Genomics to genetically engineer photosynthetic algae to produce renewable crude from sunlight and carbon dioxide.
+Royal Dutch Shell
+Purchased a 44% stake in solar developer Silicon Ranch for $217 million, acquired on-site power generation management company MP2 Energy.
+Chevron
+Small investments in projects spanning wind power, solar, and geothermal that can power a combined 113,000 U.S. homes; leader in renewable diesel infrastructure.
+BP
+Owns 1.4 gigawatts (GW) of American wind power and solar leader Lightsource BP; 50-50 joint venture with DuPont (DowDuPont) in next-generation renewable fuels.
+Total SA
+Total Energy Ventures has invested roughly $160 million in 20 start-ups spanning solid-state lithium ion batteries, microbial fuel factories, and enhanced cellulosic sugar recovery. Owns 56% of solar panel manufacturer SunPower.
+DATA SOURCES: EXXONMOBIL, ROYAL DUTCH SHELL, CHEVRON, BP, AND TOTAL.
+ExxonMobil is quietly allocating $1 billion per year to conduct basic research in low-carbon technologies. While that makes it unlikely that any products will be commercialized in the next decade, some of the highest-impact technologies in use today sprung from basic research.
+The oil supermajor has a heavy focus on synthetic biology in particular. It hopes to prove the commercial feasibility of deploying genetically engineered algae in large outdoor farms capable of producing 10,000 barrels per day of renewable crude from sunlight and industrial CO2. If it can achieve that, then the modular design could scale to much larger levels.
+ExxonMobil is also developing genetically engineered microbes with Renewable Energy Group, the nation's largest biodiesel producer, that could produce biodiesel from waste biomass (read: not food sources like corn ethanol). Other projects include fuel cells that capture and consume CO2 to produce electricity and new technology for manufacturing plastics with 50% less CO2 emissions. 
+IMAGE SOURCE: GETTY IMAGES.
+BP is also interested in leveraging its global liquid fuels infrastructure, from refining to distribution, with renewable liquids. It produces about 200 million gallons of low-carbon ethanol each year in Brazil. The three facilities also burn leftover agricultural wastes to power themselves and send an extra 850 gigawatt-hours of electricity generation to the grid. 
+It, too, is interested in the promise of synthetic biology. BP and DuPont have teamed up to form a joint venture called Butamax. The goal is to utilize genetically engineered microbes to manufacture an alcohol called butanol, which is ideal for blending into gasoline, much the same way ethanol comprises 10% of gasoline fuel volumes in the United States.
+But butanol is more energy dense, can be used in existing infrastructure (including vehicle and boat engines) without causing corrosion, and could be used in blends up to 16%. Butamax is developing technology that could retrofit existing ethanol facilities to churn out butanol, which could make the transition relatively swift and smooth. If successful, the total market opportunity is over 20 billion gallons per year in the United States.
+IMAGE SOURCE: GETTY IMAGES.
+BP also cut a check totaling $200 million to acquire a 43% stake in solar leader Lightsource, now called Lightsource BP, which has commissioned 1.3 GW of solar and has another 2 GW of backlog. It underscores a growing shift toward renewable electricity generation among the world's largest oil companies. 
+For instance, after failing to gain much traction developing engineered microbes to produce renewable fuels itself, Royal Dutch Shell has decided to focus on solar power and energy efficiency. In the same month BP snagged an equity stake in Lightsource, Holland's supermajor announced a $217 million deal for a 44% stake in solar developer Silicon Ranch. It owns 880 megawatts (MW) of projects with another 1 GW in the pipeline.
+Royal Dutch Shell also recently acquired MP2 Energy, which specializes in power management solutions and owns a portfolio including utility-scale solar, distributed solar, wind, and even landfill gas. That looks similar to Chevron's approach to renewable power to date: all over the place. 
+IMAGE SOURCE: GETTY IMAGES.
+Chevron has equity stakes in solar, wind, and geothermal production facilities that can power about 113,000 American homes each year. That's not much, but it's a good start as the company begins honing its renewables strategy. It may be needed sooner than later, as it has a heavy presence on the green energy-hungry West Coast of the United States, which will begin rolling out increasingly aggressive clean power policies in the coming years.
+Chevron has also invested in next-generation renewable fuels without much success, but still sees a bright future for renewable diesel. Not to be confused with biodiesel, renewable diesel can be used with no blending limitations when added to petroleum-based diesel. The company has been testing 6% to 20% blending rates for certain terminals in California.
+Of course, no discussion of renewable energy is complete without mentioning the incredible efforts of French energy giant Total. The company has established a goal of generating 20% of its business from low-carbon products in 20 years' time. It's well on its way.
+IMAGE SOURCE: GETTY IMAGES.
+Total is the undisputed king of oil and gas producers investing in clean energy and low-carbon technologies, even starting a venture capital fund that has spent $160 million to date in about 20 early stage companies. That may not seem like much, but the companies that survive will require increasing amounts of funding in the future. Total is perfectly positioned to provide it -- or acquire the most promising start-ups -- which means that $160 million figure should swell significantly in the coming years.
+Total also owns a whopping 56% of leading global solar cell and solar panel manufacturer SunPower, which could be on the cusp of turning in sustainably profitable operations. It spent over $1.3 billion to acquire renewable energy leader Lampiris and energy storage developer Saft. It's currently funding renewable fuel technologies including the breakdown of agricultural wastes and genetically engineered microbes that can make drop-in jet fuel. It is, in a word, making the blueprint for the rest of its oil supermajor peers to follow when investing in renewable energy. 
+To date, big oil investments in renewable energy have spanned practical slow-and-steady approaches (solar panels) to big, bold bets (next-generation energy storage or genetically engineered algae). However, not all companies have a coherent strategy in place just yet. For instance, whereas ExxonMobil wants to develop next-generation renewable fuels that can be dropped into its existing refining and distribution network, Chevron has yet to pick a defined path in clean energy.
+That's something investors should keep in mind. Then again, these massive oil companies are just getting started. In other words, like it or not, the road to a renewable energy future is probably paved with the profits of oil and gas operations.
+
+
+
+Before you consider Royal Dutch Shell plc, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Royal Dutch Shell plc wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

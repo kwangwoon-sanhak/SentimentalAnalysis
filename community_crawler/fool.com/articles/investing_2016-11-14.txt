@@ -1,0 +1,68 @@
+Oil. Once upon a time -- not so long ago -- the stuff cost nearly $150 a barrel and seemed on its way to $200. Today, a barrel of dinosaur juice can be had for less than $50. Despite occasional rallies past that magic $50 mile marker, oil companies just haven't been able to make higher prices stick -- yet, for companies boasting the largest proven oil reserves, there's still hope.
+
+BRENT CRUDE OIL SPOT PRICE DATA BY YCHARTS.
+As oil prices plummeted, shares of oil stocks such as ExxonMobil (NYSE:XOM)and Chevron (NYSE:CVX) have followed suit. But because oil is a cyclical commodity, investors can take some comfort in the fact that unless the laws of supply and demand get repealed, there will come a day when oil costs more than $50 a barrel again, and perhaps significantly more.
+When that day arrives, the companies with the largest proven oil reserves will be the ones reaping the largest profits. Let's look at who those companies are, with a little help from the data miners at S&P Global Market Intelligence:
+ 
+Total Proven Reserves Of ...
+ 
+ Company
+Oil (Millions of Barrels)
+Natural Gas (Billions of Cubic Feet)
+That Gas in Barrels of Oil Equivalent (Millions)
+Resulting in Total BoE of ...
+ExxonMobil
+13,232
+60,210
+11,440
+24,672
+BP
+9,077
+44,197
+8,397
+17,474
+PetroChina
+9,025
+77,879
+14,797
+23,822
+Petrobras
+8,774
+10,450
+1,986
+10,760
+Chevron
+6,262
+29,437
+5,593
+11,855
+Gazprom
+5,800
+663,600
+126,084
+131,884
+Total
+5,605
+32,206
+6,119
+11,724
+DATA SOURCE: S&P GLOBAL MARKET INTELLIGENCE.
+Now, I've just thrown a lot of data at you. A few observations and explanations are in order: First and foremost, the data in the chart is derived entirely from public filings made by publicly traded companies. For this reason, it does not include data on state-owned entities such as the Saudi Arabian Oil Company (Saudi Aramco), for example.
+A second caveat is that figuring out which oil stocks have the largest proven oil reserves depends a lot on how you define the term.
+When we speak of proven oil reserves, are we only interested in viscous black gold that's refinable into gasoline, diesel, fuel oil, and so on? Or do we adopt the more expansive definition of barrels of oil equivalent (BoE), encompassing both petroleum and proven natural gas reserves? (According to guidance from BP, 1 billion cubic feet of natural gas equals 0.19 million barrels of oil equivalent).
+If we use the former definition, then the top seven oil companies with the largest proven oil reserves are those listed above, and in the order listed. If the latter, the seven companies remain the same, but their order of "bigness" gets shaken up a bit. No. 1 ExxonMobil cedes pride of place to No. 6 Gazprom (OTC:OGZPY). PetroChina (NYSE:PTR) and Total (NYSE:TOT) each move one rung up the ladder. Brazilian oil giant Petrobras (NYSE:PBR) falls to the bottom of the list.
+In fact, only Chevron holds steady at fifth place.
+However you choose to define proven oil reserves, though, these seven companies are the biggies. They're the ones you will want to focus on if and when oil prices begin to tick back up again.
+Now, which of the seven will you actually want to invest in? That's a tougher question to answer. Currently, three of the six oil companies listed on the NYSE -- BP, Chevron, and Petrobras -- are unprofitable. Of the three that are still earning profits at today's depressed oil prices, valuations range from expensive (Total, at 30 times earnings) to really expensive (ExxonMobil at 40) to downright terrifying (PetroChina at 93 times earnings). Meanwhile, the one stock of the seven that is both earning profits, and selling for a valuation that seems certifiably cheap is Gazprom, which sells for just five times earnings. But Gazprom isn't officially listed in the U.S. and operates out of Russia, which isn't a particularly popular place to invest right now.
+Long story short, it's hard to recommend any of these companies for investment today. But at least now you'll know where to look for the oil "tomorrow," when oil prices and profits recover.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

@@ -1,0 +1,27 @@
+So you've decided to invest in the stock market, and even have some ideas about which stocks you want to buy. But how do you actually purchase those shares?
+Fortunately, the process of buying your first shares of stock online is relatively quick and easy. Here's a step-by-step guide to commencing your stock investing journey.
+Consider two main factors when selecting an online stock brokerage: 
+Most major online brokerages, such as Charles Schwab (NYSE:SCHW), TD Ameritrade (NASDAQ:AMTD), and others, have recently eliminated trading commissions, which largely takes cost out of the equation when choosing a brokerage platform.
+IMAGE SOURCE: GETTY IMAGES.
+Once you've chosen a brokerage, you'll need to complete a new account application. This is typically quick and easy, but you'll need to have photo identification such as a driver's license and your Social Security number handy; you'll also need your bank account information if you want to fund your new brokerage account using your checking or savings account. You can choose to open a standard brokerage account, or instead establish an individual retirement account (IRA), which confers some pretty nice tax advantages. 
+Another decision that you may face is whether to establish margin privilege for your new brokerage account. Having margin privilege enables you to buy stocks with money borrowed from your brokerage. While investing on margin is generally not a good idea, establishing margin privilege can confer some other benefits; for example, with margin privilege, you may begin trading in your brokerage account before your deposited funds have cleared.
+Without going too deep into the many possible methods of analyzing and selecting individual stocks to buy, the next step is to determine which stock or stocks that you'd like to purchase.
+A couple of pointers:
+Learn more about how to choose which stocks to buy by checking out our comprehensive guide to investing in the stock market. 
+To determine how many shares you should buy, first decide how much money you want to invest in each stock that interests you. Then, divide this amount by the stock's current share price. You can find stock prices on your brokerage's platform by searching for either the stock's ticker symbol or the name of the company itself.
+If your brokerage trades fractional shares, then you can purchase any dollar amount of a stock regardless of its share price. Many brokerages don't buy or sell fractional shares, so in that case you'd need to round down to the nearest whole number of shares to determine how many you can buy.
+As an example, let's imagine that you want to invest $1,000 in Microsoft (NASDAQ:MSFT). You check Microsoft's share price and find that it's $149.50. Dividing $1,000 by this share price indicates that you can buy up to 6.7 shares. Assuming that your brokerage doesn't trade fractional shares, you would purchase six shares of Microsoft stock.
+Different order types exist for stock purchases. The type of order that you place to buy stock specifies the conditions under which you want your broker to transact on your behalf. Placing a "market order," which instructs your broker to buy the stock immediately, and at the best available price, is typically the best order type for buy-and-hold investors.
+You may instead want to place a "limit order," which indicates to your broker the maximum price for a stock that you're willing to pay. For example, if a stock is currently trading for $20.50 per share and you want to buy it only when the price is less than $20, then you would place a limit order. Your broker would only transact on your behalf if the stock's price reaches $20 or less. 
+To place a stock order, access the appropriate section of your brokerage's platform and enter the required information.Your brokerage will typically ask for the company or stock ticker name, whether you want to buy or sell shares, and the dollar amount or how many shares you want. 
+After you tap the "place order" button, your stock purchase should be executed in a matter of seconds (if the order type is a market order). Your portfolio should immediately update to reflect your ownership of the newly purchased shares.
+The final "step" in this process is to build out your investment portfolio. Now that you have a brokerage account and know the basics of how to buy and sell stocks, you can keep adding money to your brokerage account and investing in stocks that you'd like to own for years to come. 
+As a final thought, while it can be tempting to every day monitor the performance of your stocks (especially at first), it's important to maintain a long-term mindset. Certainly, you can and should read quarterly reports and subscribe to news alerts to stay current on each of the companies in which you hold stock. But if your stocks' prices decline somewhat, don't sell in a panic. And if your stocks' prices rise by a few dollars, resist the urge to cash out. The best, and easiest, way to build wealth over time is to buy shares of great companies and hold them for as long as the companies remain great.
+
+Where to invest $1,000 right now
+When investing geniuses David and Tom Gardner have a stock tip, it can pay to listen. After all, the newsletter they have run for over a decade, Motley Fool Stock Advisor, has quadrupled the market.*
+David and Tom just revealed what they believe are the ten best stocks for investors to buy right now¡¦
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+

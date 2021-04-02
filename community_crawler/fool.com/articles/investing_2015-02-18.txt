@@ -1,0 +1,57 @@
+
+Over the past several years, investing legend and Berkshire Hathaway CEO Warren Buffett has twice invested in Big Oil, only to very quickly change direction. In 2008, Buffett made a $7 billion bet on ConocoPhillips, near the peak of oil prices. He said this in the 2008 letter to shareholders, issued months later:
+I told you in an earlier part of this report that last year I made a major mistake of commission (and maybe more; this one sticks out). Without urging from Charlie [Munger] or anyone else, I bought a large amount of ConocoPhillips stock when oil and gas prices were near their peak. I in no way anticipated the dramatic fall in energy prices that occurred in the last half of the year. I still believe the odds are good that oil sells far higher in the future than the current $40-$50 price. But so far I have been dead wrong. Even if prices should rise, moreover, the terrible timing of my purchase has cost Berkshire several billion dollars.
+So here we are today; Berkshire's latest quarterly 13F statement is out, and its entire 41-plus million share stake -- worth roughly $3.7 billion -- in ExxonMobil (NYSE:XOM) is absent, indicating Berkshire sold out last quarter. That's less than two years after the company acquired almost the entire position in summer 2013. 
+Revisiting the ConocoPhillips investment
+In 2009, little more than one year after buying almost 85 million shares, Berkshire sold more than half its stake in ConocoPhillips. The share price had declined by over 45% during that period, essentially guaranteeing more than $1 billion in losses on the shares sold in 2009:
+
+COP DATA BY YCHARTS.
+If Buffett had held the shares through 2012, gains and dividends would have more than made up for the losses. In fact, since the beginning of 2010, ConocoPhillips has outperformed the S&P 500 and ExxonMobil in total returns:
+
+COP TOTAL RETURN PRICE DATA BY YCHARTS.
+A key point, though, is that Buffett sold the ConocoPhillips shares to help fund the BNSF Railway acquisition; this purchase was a game changer that has generated tens of billions in profits for Berkshire. 
+Selling ExxonMobil not like selling ConocoPhillips 
+While 13Fs don't report transaction information, we can surmise by the period covered and the $3.7 billion cost basis from Berkshire's 2013 annual report that Buffett's company probably didn't lose much on ExxonMobil:
+
+XOM DATA BY YCHARTS
+The situation in 2009 and today are completely different as well. I'll grant that oil prices are significantly down to levels we haven't seen since 2009, and there is very real concern about demand growth for oil going forward. But the global economy was in a serious tailspin five years ago, with a lot of fear about when, or if, things would turn around. Today that's just not the case Europe's economy remains weak and Asian growth is slowing, but unemployment in the U.S. is at pre-recession levels and continuing to strengthen. Most importantly for these companies, demand for oil does continue to grow, if at a slower rate. 
+Furthermore, ExxonMobil is widely considered one of the best-run oil companies in the world. Its diversified business includes the largest refining operation on Earth and one of the largest chemicals businesses, which can actually often benefit from cheap oil and gas, helping balance the negative impact of cheap oil on the production business. 
+There are some very real concerns about economic challenges in Europe and Asia that are hurting demand for oil, but petroleum prices are largely being pushed down by North America-fueled production growth that has led to excess output. However, this has already started to shift, with North American oil drilling rig counts falling every week in the past month. Oil prices are already up more than 20% since late January, though still well off the highs from last summer:
+
+BRENT CRUDE OIL SPOT PRICE DATA BY YCHARTS.
+Loading the elephant gun, moving away from Big Oil, or something else entirely? 
+Frankly, it's just not clear why Berkshire would sell ExxonMobil, and this is the biggest challenge with trying to make personal investment decisions based on what another investor -- even Warren Buffett -- does. Using a 13F to make investment decisions gives you almost no real insight into the reasoning behind another investor's actions. Not only could it have been months since the transactions happened, but we have no context for why the move was made, or any way to assess if we should follow suit. 
+It's possible Berkshire is working on another large acquisition, and the move was made in advance to enhance the company's already impressive $60 billion cash pile. Or it could be something else entirely. The bottom line is, this much guesswork doesn't often lead to successful investing decisions. 
+Think long term like Buffett; don't try to copy him 
+If you want to copy Warren Buffett, invest in Berkshire stock. That's the only surefire way to guarantee you'll benefit from his moves.There's nothing wrong with reviewing the Berkshire 13F when looking for stock ideas, but if you're going to invest on your own, do your own due diligence and invest in companies based on your needs, time frame, and portfolio. Since there's no clear motivation behind the ExxonMobil sale yet, it's hard to say that investors who followed Buffett into the stock in 2013 should follow him out today. In fact, not out of the realm of possibility that Berkshire is actually increasing its stake in the company, as SEC rules give the company some leeway in disclosure based on transaction timing.
+Earlier this month I gave the nod to ExxonMobil as the best of the integrated major oil companies to invest in. With that said, unless you're looking to invest in Big Oil, there are probably better buys in the midstream and services part of the oil and gas business right now. 
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+WHEN WARREN BUFFETT MOVES, PEOPLE WATCH.
+For the most part, Wednesday was a lackluster day for the stock markets, which pulled back slightly after yesterday's record run above 2,100 for the S&P 500 (SNPINDEX:^GSPC). As of 11:15 a.m. EST, the Dow Jones Industrials (DJINDICES:^DJI) were down 41 points, while the S&P 500 had seen a similar percentage drop of about 0.25%. Yet despite the relative quiet in the broader market benchmarks, several stocks saw big moves as a result of the latest SEC filings from Berkshire Hathaway (NYSE:BRK.A) (NYSE:BRK.B): Warren Buffett's most recent switches in his portfolio revealed some mistakes by the Oracle of Omaha, as well as his proposed fixes for those mistakes.
+SOURCE: EXXONMOBIL.
+Within the Dow, the biggest impact from the Berkshire moves showed up in ExxonMobil (NYSE:XOM), which fell 1.7%. Oil prices did decline slightly on Wednesday, and fellow oil giant Chevron (NYSE:CVX) also dropped by more than 1%. But Berkshire made the aggressive move of selling off all of its 41 million-share stake in ExxonMobil at some point between last October and December, likely reaping between $3.5 billion and $4 billion in proceeds. Exxon was an unusually short-term holding for Buffett, with Berkshire having just acquired shares in 2013. The about-face was the latest in a series of questionable forays into the energy market for Berkshire, including its ill-timed purchase of ConocoPhillips (NYSE:COP) stock and losses stemming from its purchase of Energy Future Holdings bonds.
+On the other side of the ledger, farm equipment maker Deere (NYSE:DE) jumped almost 2%. Berkshire has owned shares of the company for a while, but it publically disclosed its Deere holdings for the first time in its fourth-quarter SEC filing. As of the end of 2014, the stake was worth $1.5 billion, and the stock has avoided the fate of some of its fellow heavy-equipment makers in part because of its agricultural focus. Unlike many of its peers, Deere has relatively little exposure to the energy and materials industries, and that has limited the fallout from plunging oil and metals prices recently.
+SOURCE: JOHN DEERE.
+Finally, not all of Berkshire's new picks celebrated the Buffett news. Twenty-First Century Fox (NASDAQ:FOX) dropped slightly despite Buffett's having reported a 4.7 million-share stake in the multimedia company. Berkshire has emphasized media-industry companies recently, with positions in cable and satellite television providers as well as network and content production companies. Fox shares have been stuck in a holding pattern for much of the past two years, but Buffett clearly hopes that his timing will be good to see a future rise in the importance of media generally and Fox in particular.
+Just because Buffett makes a move doesn't mean that you should automatically follow. Yet looking at the impact Berkshire positions can have on the market, it's worth staying up to date on what the Oracle of Omaha is doing with his portfolio.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

@@ -1,0 +1,38 @@
+One of my more interesting followers on Twitter (NYSE: TWTR) is trader and financial blogger Mike Sankowski , who has a mantra of sorts that he repeats every day, "Businesses hire when they're swamped with demand, not when they have high profits." It's worth keeping this in mind whenever you're confronted with the divergence between corporate profits and employment growth, a reality that has become impossible to ignore since the financial crisis. Corporate profits are now higher than they were before the crash, and comprise a larger share of the economy than they ever have, but the national employment picture has barely changed:
+
+US CORPORATE PROFITS AFTER TAX AS % OF GDP DATA BY YCHARTS.
+This divergence can be seen in corporate earnings reports as well. I pulled the annual filings of the five largest Dow Jones Industrial Average (DJINDICES:^DJI) components by market cap from 2006 and from 2013. Two of the five trimmed their employment rolls from 2006 to 2013, and those same two companies suffered a decline in profit from pre-crisis levels to their most recently ended fiscal year. However, only one suffered a drop in profit per employee, and this discrepancy is easily explained. More on that after the graphs:
+SOURCES: CORPORATE 10-K FILINGS.
+NOTE: MICROSOFT'S FISCAL YEAR ENDS IN JUNE, WAL-MART'S IN JANUARY OF THE FOLLOWING YEAR.
+* WAL-MART EMPLOYEE BARS ARE NOT DRAWN TO SCALE, BUT NUMBERS ARE ACCURATE.
+SOURCES: CORPORATE 10-K FILINGS.
+NOTE: MICROSOFT'S FISCAL YEAR ENDS IN JUNE, WAL-MART'S IN JANUARY OF THE FOLLOWING YEAR.
+In ExxonMobil's (NYSE:XOM) case, all we need to do is to look at the return on capital, which stood at 32.2% in 2006 but which was sliced nearly in half to 17.2% in 2013, to figure out why the company wound up earning less real profit per employee last year than it did prior to the crash. In nominal terms, ExxonMobil was slightly more profitable in 2013 than before the crash -- its reported profit per employee was $371,241 in 2006. General Electric (NYSE:GE) is also easy to explain, as the company was heavily reliant on its financing arm during the subprime years, and it was hurt badly by a wave of defaults during the financial crisis. GE has been paring down its dependence on its finance subsidiary since the crash, and is likely to spin off a big chunk of that segment in a huge IPO later this year. Reduced spending globally on large industrial machinery has also hurt GE.
+Companies that were less reliant on macroeconomic factors all showed an improvement in real profit per employee. However, focusing solely on America's largest companies in recent years may understate the true divergence between workers and the businesses they work for. Let's look further back, starting with the beginning of the 21st century:
+
+US CORPORATE PROFITS AFTER TAX AS % OF GDP DATA BY YCHARTS.
+This is pretty startling when you think about it, and it appears even more extreme than the change seen at the very top of the corporate pyramid. When we look further back at our Big Five, every company except GE still winds up with a gain in real profit per employee. Surprisingly, it's Microsoft (NASDAQ:MSFT) that experiences the smallest percentage gain from the turn of the century to the present day, as each member of its 99,000-strong workforce produced only 5.5% more profit in real terms than each of their 47,600 contemporaries earned 13 years earlier. GE continues to struggle to recapture its turn of the century highs, but it appears to be the odd company out here:
+SOURCES: CORPORATE 10-K FILINGS AND AUTHOR'S CALCULATIONS.
+NOTE: MICROSOFT'S FISCAL YEAR ENDS IN JUNE, WAL-MART'S IN JANUARY OF THE FOLLOWING YEAR.
+So what's going on? Is big business falling behind? The answer, at least here, is almost certainly yes -- from the turn of the century to the latest reports (current to the third quarter of 2013), overall U.S. corporate profits after taxes have doubled, while total nonfarm employment has only grown by 5%. In simpler terms, this means that corporate profits (real as well as nominal) are higher than they've ever been, not only in the aggregate but per employee as well:
+SOURCE: ST. LOUIS FED.
+PRIVATE SECTOR IS NONFARM PAYROLLS LESS GOVERNMENT EMPLOYMENT.
+CORPORATE PROFITS AFTER TAX, EXCLUDING INVENTORY VALUATION AND CAPITAL CONSUMPTION ADJUSTMENTS.
+PROFITS ADJUSTED USING CONSUMER PRICE INDEX.
+Postwar profit per employee remained relatively stable until the turn of the 21st century, when each employee suddenly became much more profitable. Today, the average private-sector worker produces nearly 200% more profit in real terms than he did in fall 2000. Even if we cherry pick the absolute highest points of per-employee profit during the latter half of the 20th century, we find that the average employee is still twice as profitable today as his or her counterpart in 1997, and 70% more profitable than an earlier counterpart was in 1978.
+Businesses are historically profitable, but they seem to have little trouble handling current levels of customer demand. In the long run, that's bad news for the economy, because it means that fewer people will be needed to make more money. If you want to pinpoint one primary reason for the weakness of the economic recovery, this is it -- fewer people making more money. The largest corporations seem to be picking up the slack created by upstarts that can grow from nothing to a multibillion-dollar profit run rate in less time than it takes to go through medical school, but in the long run they too will probably slim down more drastically than they already have.
+Businesses no longer need to hire as many people as they once did to meet demand because automation can effectively handle the workload that would have once required additional manpower. You can see how this is playing out in my earlier articles on automation's impact, particularly "The Next Big Unemployment Crisis" and "The Shape of the Future," both of which examine the way work (and life) will change as a result of further automation in the workforce.
+But here's one easy statistic to consider: Wal-Mart (NYSE:WMT) has by far the largest workforce of the Big Five here, but each employee generated only $7,727 in profit on $213,255 in revenue last year. The combined workforces of Amazon.com (NASDAQ: AMZN), United Parcel Service (NYSE: UPS), and FedEx (NYSE: FDX), which represent the clearest threat to Wal-Mart's continued retail success, generated $258,806 in revenue and $9,222 in profit per employee during the same time frame, and that's in spite of Amazon's well-known aversion to turning a substantial profit. The difference between "old" technology companies and newer ones is even starker -- the value of every one of WhatsApp's employees is more than 100 times greater than the value of one Microsoft's employee, based on its buyout price and on Microsoft's latest market cap.
+The economy is undoubtedly changing. That might be good for the rare few at the top, but if you can't help create more than twice the profit for your employer than your parents did for theirs, you might find it increasingly difficult to find a good job.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

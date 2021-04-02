@@ -1,0 +1,32 @@
+Energy markets continue to deteriorate, with oil prices falling below $30 to close the week of Friday, Jan. 15. And while this will likely lead to further bloodletting when trading commences on Monday, the relative strength of Big Oil companies such as ExxonMobil Corporation (NYSE:XOM), Chevron Corporation (NYSE:CVX), and Phillips 66 (NYSE:PSX) helped iShares Dow Jones US Energy Sector (ETF) (NYSEMKT:IYE) finish the week nearly flat, while both the S&P 500 and the Dow Jones Industrials indices fell more than 2%:
+
+IYE DATA BY YCHARTS
+Why big oil helped this ETF 
+There wasn't any material news about ExxonMobil, Chevron, or Phillips 66 this week to explain why their stocks went up. All three have been beaten up pretty soundly since early November:
+
+XOM DATA BY YCHARTS
+Since all three are very high-quality businesses, it was inevitable that at some point, their shares would recover, at least somewhat. And while both ExxonMobil and Chevron have exposure to commodity prices from their oil & gas production businesses, their refining, marketing, and petrochemicals segments continue to produce sustained profits. At the same time, Phillips 66 is a buyer of oil and natural gas, not a producer at all, and actually benefits from cheaper natural gas in its chemicals business, while lower revenues in its oil refining business are offset by lower oil prices. 
+The strength of these non-drilling businesses is one of the drivers behind this week's stock gains for the group.
+There's more to it -- the following chart gives some context on these businesses:
+
+XOM EPS DILUTED (TTM) DATA BY YCHARTS
+Cash from operations has performed better than net income for all three of these companies over the oil price decline. This is especially important for Chevron and ExxonMobil, since much of their asset values is tied to their oil and gas holdings. When oil prices fall as they have over the past 19 months, oil companies must write down the value of their reserves, and take those writedowns as losses.
+But since these are non-cash charges, they don't really impact operations directly, though if commodity prices stay down, they will mean lower realized prices when oil is produced and sold. Hence a writedown in the value. This works in the inverse when prices rise sharply. 
+The point? Cash flows and GAAP earnings should both be considered when talking about oil companies. 
+Bounce-back from big oil may not last 
+It's not clear how the market will react when trading starts up next week, but with Brent crude futures closing at $29.67 -- a level it hasn't seen since 2004 -- things could get uglier. Combined fears of the global economy becoming weaker, and an already oversupplied oil market potentially having to absorb another 500,000 barrels per day from Iran in coming weeks, could push oil prices down even more in days and weeks to come. Or this could be the bottom. The reality is, the short-term is anyone's guess.
+But at some point, the run of uncertainty will come to a halt. U.S. producers have been laying down drilling rigs for more than a year, and it's expected that domestic oil production will fall in 2016. At the same time, offshore exploration this year is expected to be at the lowest level in years. But until these activities begin reducing the supply imbalance, negativity will rule the markets. 
+Looking ahead: Patience will win the day
+This week's surge by Big Oil may have been one part flight to safety, one part value play, but there's no way of knowing what next week (or month) will bring. 
+But at some point the oil market will find balance again. And when it does, rest assured that not only will the three companies mentioned bounce back strongly, but so will the Dow Jones US Energy Sector ETF. For the time being, investors in the energy sector need to remain patient, and willing to ride out even more selling. 
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

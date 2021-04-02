@@ -1,0 +1,29 @@
+With the U.S. dollar gaining ground on just about every other currency, worries are growing that foreign exchange rates will take a bite out of companies' profits. Many different sectors will be affected in various ways, particularly ones that deal with global commodities like those found in the energy space.
+In all honesty, though, most of the companies operating in the natural gas industry -- at least the ones you and I would likely invest in -- aren't all that affected by foreign exchanges risks. Let's look at why that is the case.
+What is at stake here?
+One risk faced by companies with international operations is that the local currency in which they sell their products doesn't equate to the same price when the revenue is converted back to U.S. dollars. The companies with the most foreign exchange risk in the natural gas space today are the integrated oil and gas companies ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX). Both produce and sell large volumes of natural gas outside the United States, but their headquarters are in the U.S. and therefore all accounting is based on U.S. dollars.
+ExxonMobil doesn't break out foreign exchange losses segment by segment, but foreign exchange rates led to a loss of $340 million last quarter -- 7% of earnings. Conversely, Chevron's exploration and production segment gained $522 million from favorable foreign exchange rates, a 20% boost..
+This is what makes foreign exchange so complicated when it comes to natural gas sold internationally; it depends immensely on where a company is generating its revenue. One would assume that because these two companies are large global natural gas players that they are impacted in similar fashions by foreign exchange rates. The numbers indicate strongly that this might not always be the case. 
+Homegrown production, homegrown revenue
+Normally when we talk about commodities, we think of them as global products. Basic materials such as oil, iron ore, and copper move fluidly around the world without too many restrictions, so they are priced on a global scale with perhaps some small regional discrepancies based on transportation costs. 
+Natural gas, on the other hand, is a commodity without this free-flowing international market. Pretty much the only way to economically transport something in a gaseous state is with a pipeline, which can move materials over land and some shorter distances underwater. Across an ocean? Forget about it. Currently, the only way natural gas can be economically moved from one continent to another is by cryogenically processing it to a liquid state and shipping it in refrigerated tankers. The costs to liquefy, transport, and regassify natural gas normally are greater than the cost of the feedstock product itself.
+This means most domestic natural gas companies -- aside from those with a significant international presence, such as ExxonMobil and Chevron -- do not sell significant volumes of gas to foreign countries. Only 4% of U.S.-produced gas was sold to Canada and Mexico combined in 2014 via pipeline,, and to date no LNG export facilities are up and running. So with some minor exceptions, all of the gas produced in the United States is sold to a market that buys in U.S. dollars, making foreign exchange a minimal cost. 
+What about LNG companies? When they do start to export?
+This question is probably on the mind of investors who have a stake in Cheniere Energy (NYSEMKT:LNG), since its entire future income stream is geared toward selling natural gas around the world. Here's the nice part: Very little of its business is at risk of foreign exchange issues, because a large portion of its revenue stream will be tied to fixed-fee contracts processing and handling the natural gas for its various customers. Also, any commodity price-related risk to these contracts is based on what is known as the Henry Hub spot price, which is a pricing hub in the United States that is denominated in U.S. dollars.
+
+SOURCE: CHENIERE ENERGY INVESTOR PRESENTATION.
+One small part of Cheniere's business, its marketing and trading arm, is exposed to foreign exchange rates. This part of the business will deliver and sell LNG to various trading hubs around the world, where the prices for gas could be influenced by foreign exchange rates. However, Cheniere projects that less than 20% of LNG volumes will be sold this way, significantly limiting foreign exchange risk.
+Other companies with plans to export LNG from the U.S. are largely looking to establish contracts like Cheniere's that are denominated in U.S. dollars and will account for a vast majority of production capacity. These measures will help prevent foreign exchange from taking too big a bite out of these companies' potential earnings.
+What a Fool believes
+Foreign exchange rates are a tricky thing to wrap your head around, because when you are dealing with commodities the rates can vary quite a bit depending on where a company works. However, since natural gas is hard to move internationally because, well, it's gas, very few U.S.-based natural gas investments have significant exposure to foreign exchange risk. Besides, there are much more important things to consider when investing in natural gas.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

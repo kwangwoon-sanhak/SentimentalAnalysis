@@ -1,0 +1,486 @@
+The Securities and Exchange Commission is currently investigating ExxonMobil (NYSE:XOM) on two charges. First, on hiding evidence of climate change -- evidence that would have changed both shareholder value and industry outlook. Second, on possibly incorrectly reporting written-down values of their oil.
+In this week's episode of Industry Focus: Energy, Taylor Muckerman and Sean O'Reilly explain the context around the charges, what Exxon has to say in their defense, and how the findings might affect the company and shareholders.
+Also, the hosts take a look at what will probably come of the OPEC meeting next week, why Smart Sand has chosen to IPO during a downturn in the energy industry, and why BP is on their radar this week.
+A full transcript follows the video.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+
+This podcast was recorded on Sept. 22, 2016.
+Sean O'Reilly: Welcome to Industry Focus, the podcast that dives into a different sector of the stock market every day. Today is Thursday, September 22nd, 2016, so we're talking about energy, materials, and industrials. I'm joined in studio by The Motley Fool's very own Taylor Muckerman. I am Sean O'Reilly. Taylor, happy autumnal equinox!
+Taylor Muckerman: Is that what it is today?
+O'Reilly: Yeah.
+Muckerman: What does that mean?
+O'Reilly: It means that the days are starting to get shorter.
+Muckerman: But that's been happening, right? It's just the first official day that it's shorter.
+O'Reilly: Yeah, how does that work? Hold on...
+Muckerman: We don't have time to get into it.
+
+O'Reilly: No, we're not going to do that. But what we do need to talk about is ExxonMobil.
+
+Muckerman: Yeah, making our lives shorter by denying climate change.
+
+O'Reilly: Not only that, but accounting shenanigans, too. What are these guys doing?
+
+Muckerman: Supposedly.
+
+O'Reilly: Supposedly, yeah. What's going on?
+
+Muckerman: I guess the SEC had a current investigation trying to decide whether or not Exxon has defrauded shareholders by denying impact of climate change on their business. This week, the SEC and the attorney general for New York City are now adding to that whether or not they've properly written-down assets during the latest downturn. And, I guess not properly written down assets, but whether they should have written down anything, because the industry, since 2014, has basically written off around $200 billion worth of assets.
+
+O'Reilly: Everybody's reserves have fallen by half, because reserves are based upon -- for our listeners, we've done an episode on PV10, that's the present value of reserves. Everybody's been writing down this stuff by half because input in that calculation is the price of oil.
+
+Muckerman: Yeah. Exxon?
+
+O'Reilly: It's very odd. You actually go to their balance sheet, and their assets haven't really changed in the last five years. (laughs) 
+
+Muckerman: Even before that, this has just been a theme of the business. In the '90s, I think, there was a class action lawsuit from Mobil shareholders when Exxon was trying to take on Mobil. Obviously, they did, because they're now ExxonMobil. But they didn't write down the asset value when oil prices slid, then, either. So, Mobile shareholders felt like Exxon shares were overvalued, so they weren't really getting...
+
+O'Reilly: How did that conclude? It was merged, obviously, but... ?
+
+Muckerman: I'm assuming the ExxonMobil law team is pretty good at their job, because...
+
+O'Reilly: Do you think they have good lawyers? Do you? (laughs) 
+
+Muckerman: ... it reached the statute of limitations with no decision. So, it just expired.
+
+O'Reilly: Wow! OK.
+
+Muckerman: Now, though, if you look at Exxon and think, "Oh, $200 billion in writedowns, maybe it's the smaller players," no. If you combine Shell, Chevron, BP (NYSE:BP), and Total, they've written off $50 billion worth of assets since the downturn started in November of 2014.
+
+O'Reilly: And you have Exxon here, December 31st, 2014, total assets $349.5 billion. 2015, $336 billion. What, $12 billion? What's going on here?
+
+Muckerman: Basically, when you look at an oil company, the reserves are what you're investing in. If they have to write down the value of the reserves, the company is far less valuable to shareholders. But they have said, in response to this, that they're generally pretty conservative when booking reserves values. So, they're saying maybe there's not much to write down, because they booked it more conservatively than their competitors. And then, they say these short-term fluctuations in price don't impact the long-term value of the reserves. Which is probably true, to some degree. But the entire industry is writing down their reserves. They could obviously bring the asset value back once the price rises. But they're just not willing to take this temporary hit.
+
+O'Reilly: That's what I really wanted to talk to you about. When I saw this, I was like, "Haha, that's funny," because one, I had seen the balance sheet, and it hasn't changed, so there's that. But on the other hand, Exxon is known for having these enormous longtail projects. Is there an argument to be made there on their behalf that, bottom line, these huge longtail projects, offshore, they're going to take years to develop, they're going to get oil out of them for 20-30 years, the cost of oil, to get that out of the ground, will eventually be super low, so they don't think they need to write this down?
+
+Muckerman: Yeah, that's probably pretty fair. They're a fairly low-cost producer, because they have a lot of conventional resources, like you mentioned, projects that are supposedly going to last decades. I could see some validity there, but when you look at peers writing down $50 billion between four of them, and Exxon doing nothing... I'd scratch my head a little bit. Whether or not anything happens, if it's going to impact shareholders negatively, I don't think so, just because of the strength of their balance sheet. They have one of the strongest credit ratings of any company in the world. So I wouldn't be too nervous, if I was a shareholder of Exxon. But it's just another feather in their cap of shady business.
+
+O'Reilly: Fun stuff, yeah. And regarding the climate change investigation and all that... that, however you want to frame it, it's been going on for decades, then.
+
+Muckerman: Well, not the investigation...
+
+O'Reilly: No, yeah, the fact they're denying it, or however you want to say it.
+
+Muckerman: They've known about it, because they found documents a while ago from the seventies and eighties from some of their head scientists and head engineers that support the fact that climate change is happening. But they swept those under the rug.
+
+O'Reilly: This reminded me of the tobacco industry. (laughs) 
+
+Muckerman: It's impactful on their business, so that's what that original investigation is for -- not necessarily financially, but whether or not they're being upfront with their shareholders. Exxon, traditionally, produces outlooks for the industry that go out 20, 30 years.
+
+O'Reilly: For oil consumption.
+
+Muckerman: For oil consumption, for oil production, everything in the energy sector. Natural gas, as well. So when you have this company going out and projecting the next 20 to 30 years of the energy industry on a consistent basis, and they're not acknowledging climate change, that could lead people astray.
+
+O'Reilly: Wow. So, you're not worried about XOM?
+
+Muckerman: Not because of this, no. If they have to write it down, sure, that's a temporary hit. But again, if oil prices rise, they can adjust the value of those assets again. And if there's a fine, I would imagine it would be in the millions, maybe tens or hundreds of millions, but even still, you're talking about the largest energy company in North America.
+
+O'Reilly: Right. So, moving on, the energy sector is getting an IPO! What's going on?
+
+Muckerman: Yeah! It's not a bankruptcy, it's a birth!
+
+O'Reilly: This is amazing to me.
+
+Muckerman: We're adding to the crop rather than subtracting.
+
+O'Reilly: Yeah. The company is called Tudor, Pickering & Holt...
+
+Muckerman: No.
+
+O'Reilly: Oh, Smart Sand, I'm sorry. Tudor, Pickering, & Holt is the investment firm doing the offering.
+
+Muckerman: Yes, that's right.
+
+O'Reilly: So, Woodlands-based company that produces sand for hydraulic fracturing plans to go public. You sent this over kind of like an "LOL" kind of thing, but then we were like, "Wow, this is actually a big deal! What does this mean?"
+
+Muckerman: The LOL was just the fact that an energy company is going public right now. Not so much this particular business.
+
+O'Reilly: Yeah. We talked about that company that IPO'd a year and a half ago, the Permian player. It is what it is. Why are these guys going public right now?
+
+Muckerman: I mean, when you look at what's happening in the U.S. with shale production, natural gas, and oil, sand has been a major driver of the ability to extract these tight oil and natural gas reserves, because after you inject the water and fracture these wells, the sand has been used as a proppant to keep those fissures open, enough for oil and natural gas to flow through. And you've seen the level of sand used in these wells rise dramatically.
+
+O'Reilly: As I understand, sand has been a really big component in the last couple years, as these companies became more and more efficient.
+
+Muckerman: Yeah, you're looking at millions of tons of sand used on an annual basis, millions of pounds used per well. EOG said they're using 700% more sand per well than they were in 2010.
+
+O'Reilly: (laughs) 
+
+Muckerman: 700%. And that's the largest independent U.S. producer. That's moving the needle. This isn't some tiny little regional mom and pop shop. This is the largest U.S. independent oil and gas producer, 700% in six years.
+
+O'Reilly: That's crazy.
+
+Muckerman: Yeah. And you look at companies that are averaging around 8-11 million pounds per horizontal well, across the board.
+
+O'Reilly: So, "Smart Sand operates," I'm just reading from the article you sent me, "two white sand processing sites in Wisconsin with a combined 344 million tons of proven recoverable" -- there's that word again.
+
+Muckerman: Yeah, proven, just like oil, that's the best kind of reserve, proven. Then you have probable, and then you have possible.
+
+O'Reilly: Right. 344 million tons of recoverable sand reserves!
+
+Muckerman: Yeah. That might be a couple years' worth. Maybe the year, for the entire industry.
+
+O'Reilly: So, these guys are not large.
+
+Muckerman: No, they're not. They have competitors that are somewhat larger. But when talking about their sites being in Wisconsin, some of the focus on other players has been to find more regional sand, so, Texas, Arkansas, places that are going to be cheaper to transport it to these major basins. Wisconsin, obviously closer than Texas to North Dakota.
+
+O'Reilly: Are they putting all this sand on the back of trains and sending it to Texas?
+
+Muckerman: Yeah, they are. They're loading up these trains. That's exactly what they're doing, sending this sand south from Wisconsin. 
+
+O'Reilly: "Look, Mommy! That train has a bunch of sand!"
+
+Muckerman: You have a couple other players: U.S. Silica, Hi-Crush Partners, those might be two of the biggest in the industry. And then, CARBO Ceramics is a proppant producer, but they make their own silica proppants, so they're not necessarily a sand miner. But they were the industry darling during the peak of this fracking, because you could create custom pellets, basically, to optimize the well. But when you look at pure sand plays, you're looking at U.S. Silica, Hi-Crush Partners, and possibly Smart Sand, as they IPO fairly soon.
+
+O'Reilly: Have you considered these names possible ways to play the oil industry without being an actual producer? Because it sounds like they need the sand.
+
+Muckerman: Yeah. They do. And they're talking about... Credit Suisse had a report on this saying that they expect demand to go up 50% in 2017 for frack sand. And then, even with the depressed rig count, they're going to need that much or more than they were needing in 2014, which was the peak of fracking and rig count. So, yeah, you're looking at more sand per well. The fact that wells aren't being drilled at the same alarming rate, sand is still needed. U.S. Silica's stock has more than doubled this year.
+
+O'Reilly: Wow.
+
+Muckerman: Impressive. A very leveraged play, because they're selling sand strictly to frackers.
+
+O'Reilly: Those guys go under, game over.
+
+Muckerman: Yeah. Fracking cuts back again, then these guys are hosed, again. 
+
+O'Reilly: But on the other hand, more sand is being used per well, so that something, too. So, The Motley Fool is more about long-term investing, fundamentals, looking for a good company. We don't really pay attention to macro stuff. But I think we have to talk about OPEC a little bit here.
+
+Muckerman: OK.
+
+O'Reilly: I know you don't want to, sorry.
+
+Muckerman: It's OK.
+
+O'Reilly: They kind of set off this whole oil downturn in 2014.
+
+Muckerman: They did, like, the day before Thanksgiving.
+
+O'Reilly: "Happy Thanksgiving, jerks."
+
+Muckerman: Maybe on Thanksgiving. I'd just gotten done hiking in Texas with zero cell reception. I turn on my phone, I'm in the car with the buddies I went hiking with, and I look at the market, and I'm like, "Oh my dear god, oil is down 40%. What is going on?"
+
+O'Reilly: And that was basically them being like, "No, we're not going to support oil prices, sorry."
+
+Muckerman: Yeah, it was basically a race to the top in terms of who can produce the most, rather than who can save prices.
+
+O'Reilly: Right, and then that set off Saudi Arabia being like, "We want to go for market share now... " They meet, what, once or twice a year?
+
+Muckerman: A couple times. Some of the smaller countries ask for random meetings to try and stem the outflow of...
+
+O'Reilly: Money, just say it.
+
+Muckerman: Yeah, money, to the industry. But, this is a scheduled meeting next week in Algeria.
+
+O'Reilly: Got it. So, that's been scheduled. We obviously don't know what will happen, but there's hopes that they're going to put at least a production cap or something.
+
+Muckerman: Yeah, but then again, that's clever phrasing, and they leave a lot of the facts out, especially the facts that they're producing record highs.
+
+O'Reilly: They're all producing at record highs, yeah.
+
+Muckerman: Yeah. So, Russia is not part of OPEC, but they want to at least be part of that production cap. They just produced in September a post Soviet-era high per month. Libya is trying to double their production by the end of the year. Nigeria has production...
+
+O'Reilly: Iran is already in the 3.5 million range, I think.
+
+Muckerman: Iran is there. Venezuela is looking to dump $3.5 billion into their Orinoco project. Schlumberger just signed on to help them drill 80 wells. Even though Schlumberger has been letting people go in the country and removing itself from Venezuela, they just, I think this was either today or yesterday, they signed to be the driller of 80 wells. And then there's maybe 400 other wells they're trying to drill. But, those are usually private drillers that are doing that. But the reports say they're going to use Halliburton and Baker Hughes' equipment.
+
+O'Reilly: Good stuff.
+
+Muckerman: All three companies are going to be involved in some way, but Schlumberger will actually be an operator. So, those are four countries right there that are trying to ramp up production. And we expect a production cap.
+
+O'Reilly: That's the thing with cartels, you have an incentive to cheat, too. So, really quick before we head out, I wanted to talk about, you're an analyst for one of our services, doing very well up there in Canada, I wanted to pick your brain a little bit about a stock that is interesting right now.
+
+Muckerman: Yeah, I think this is something that we'll continue, right? Maybe at the end of every show, we'll highlight one stock?
+
+O'Reilly: We'll see how it goes, yeah. If people hate it, we'll stop.
+
+Muckerman: Yeah. So, this being the first time, maybe the last time, I'm going to go with an integrated, and I think BP right now stands out to me above the fray. 
+
+O'Reilly: Now, if Tyler Crowe were here, he would be all about Total.
+
+Muckerman: Yeah, he's definitely a Total boy.
+
+O'Reilly: Why should I go with the British and not the French?
+
+Muckerman: I think with BP, it's more of a traditional energy play. Total is more and more getting into renewable energy.
+
+O'Reilly: They own half of SunPower.
+
+Muckerman: Exactly. BP is generating some pretty solid cash flow, good yield. They've taken on debt since the Macondo spill, but they've done it a little bit more prudently than some of their larger peers. I just think that management has pulled some of the right levers. Revenue and income is down in the last couple of years, as it is with everyone now. The cash flow is still there, and it has a great free cash flow yield, which is something you value when you're looking at the sustainability of the dividend.
+
+O'Reilly: Are you doing this as a contrarian play to that movie Deepwater Horizon that's coming out?
+
+Muckerman: Yeah, maybe, because ticket sales suck, maybe the price of BP will go up because people don't remember what happened. The more people that get exposed to it, the worst the share price will be. They're going to drum up the bias again and, no, I don't think it'll have any impact on shares.
+
+O'Reilly: Great time to be a value investor! (laughs) 
+
+Muckerman: Yeah, I don't think it'll have any impact on shares. It's five years behind us. I think all their legal liabilities are handled.
+
+O'Reilly: Kind of, sort of?
+
+Muckerman: Yeah. The bulk of them. The worrisome portions.
+
+O'Reilly: Got it. So, they're done handing out sacks of money to people that ask for it.
+
+Muckerman: Yeah. I'm not an investor in it, nor am I with any integrated, but it's something I've been looking at lately.
+
+O'Reilly: Cool. Thanks for your thoughts.
+
+Muckerman: Appreciate it, yeah.
+
+O'Reilly: That is it for us, folks. We'd like to give a special shoutout, as always, to our producer, Austin Morgan. Hi, Austin!
+
+Muckerman: Woop woop!
+
+O'Reilly: He's behind the glass, working his video and audio magic. If you're a loyal listener and have questions or comments, we would love to hear from you. Just email us at industryfocus@fool.com. Once again, that's industryfocus@fool.com. As always, people on this program may have interests in the stocks they talk about, and The Motley Fool may have formal recommendations for or against those stocks, so don't buy or sell anything based solely on what you hear on this program. For Taylor Muckerman, I am Sean O'Reilly. Thanks for listening and Fool on!
+The Securities and Exchange Commission is currently investigating ExxonMobil (NYSE:XOM) on two charges. First, on hiding evidence of climate change -- evidence that would have changed both shareholder value and industry outlook. Second, on possibly incorrectly reporting written-down values of their oil.
+In this week's episode of Industry Focus: Energy, Taylor Muckerman and Sean O'Reilly explain the context around the charges, what Exxon has to say in their defense, and how the findings might affect the company and shareholders.
+Also, the hosts take a look at what will probably come of the OPEC meeting next week, why Smart Sand has chosen to IPO during a downturn in the energy industry, and why BP is on their radar this week.
+A full transcript follows the video.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+
+This podcast was recorded on Sept. 22, 2016.
+Sean O'Reilly: Welcome to Industry Focus, the podcast that dives into a different sector of the stock market every day. Today is Thursday, September 22nd, 2016, so we're talking about energy, materials, and industrials. I'm joined in studio by The Motley Fool's very own Taylor Muckerman. I am Sean O'Reilly. Taylor, happy autumnal equinox!
+Taylor Muckerman: Is that what it is today?
+O'Reilly: Yeah.
+Muckerman: What does that mean?
+O'Reilly: It means that the days are starting to get shorter.
+Muckerman: But that's been happening, right? It's just the first official day that it's shorter.
+O'Reilly: Yeah, how does that work? Hold on...
+Muckerman: We don't have time to get into it.
+
+O'Reilly: No, we're not going to do that. But what we do need to talk about is ExxonMobil.
+
+Muckerman: Yeah, making our lives shorter by denying climate change.
+
+O'Reilly: Not only that, but accounting shenanigans, too. What are these guys doing?
+
+Muckerman: Supposedly.
+
+O'Reilly: Supposedly, yeah. What's going on?
+
+Muckerman: I guess the SEC had a current investigation trying to decide whether or not Exxon has defrauded shareholders by denying impact of climate change on their business. This week, the SEC and the attorney general for New York City are now adding to that whether or not they've properly written-down assets during the latest downturn. And, I guess not properly written down assets, but whether they should have written down anything, because the industry, since 2014, has basically written off around $200 billion worth of assets.
+
+O'Reilly: Everybody's reserves have fallen by half, because reserves are based upon -- for our listeners, we've done an episode on PV10, that's the present value of reserves. Everybody's been writing down this stuff by half because input in that calculation is the price of oil.
+
+Muckerman: Yeah. Exxon?
+
+O'Reilly: It's very odd. You actually go to their balance sheet, and their assets haven't really changed in the last five years. (laughs) 
+
+Muckerman: Even before that, this has just been a theme of the business. In the '90s, I think, there was a class action lawsuit from Mobil shareholders when Exxon was trying to take on Mobil. Obviously, they did, because they're now ExxonMobil. But they didn't write down the asset value when oil prices slid, then, either. So, Mobile shareholders felt like Exxon shares were overvalued, so they weren't really getting...
+
+O'Reilly: How did that conclude? It was merged, obviously, but... ?
+
+Muckerman: I'm assuming the ExxonMobil law team is pretty good at their job, because...
+
+O'Reilly: Do you think they have good lawyers? Do you? (laughs) 
+
+Muckerman: ... it reached the statute of limitations with no decision. So, it just expired.
+
+O'Reilly: Wow! OK.
+
+Muckerman: Now, though, if you look at Exxon and think, "Oh, $200 billion in writedowns, maybe it's the smaller players," no. If you combine Shell, Chevron, BP (NYSE:BP), and Total, they've written off $50 billion worth of assets since the downturn started in November of 2014.
+
+O'Reilly: And you have Exxon here, December 31st, 2014, total assets $349.5 billion. 2015, $336 billion. What, $12 billion? What's going on here?
+
+Muckerman: Basically, when you look at an oil company, the reserves are what you're investing in. If they have to write down the value of the reserves, the company is far less valuable to shareholders. But they have said, in response to this, that they're generally pretty conservative when booking reserves values. So, they're saying maybe there's not much to write down, because they booked it more conservatively than their competitors. And then, they say these short-term fluctuations in price don't impact the long-term value of the reserves. Which is probably true, to some degree. But the entire industry is writing down their reserves. They could obviously bring the asset value back once the price rises. But they're just not willing to take this temporary hit.
+
+O'Reilly: That's what I really wanted to talk to you about. When I saw this, I was like, "Haha, that's funny," because one, I had seen the balance sheet, and it hasn't changed, so there's that. But on the other hand, Exxon is known for having these enormous longtail projects. Is there an argument to be made there on their behalf that, bottom line, these huge longtail projects, offshore, they're going to take years to develop, they're going to get oil out of them for 20-30 years, the cost of oil, to get that out of the ground, will eventually be super low, so they don't think they need to write this down?
+
+Muckerman: Yeah, that's probably pretty fair. They're a fairly low-cost producer, because they have a lot of conventional resources, like you mentioned, projects that are supposedly going to last decades. I could see some validity there, but when you look at peers writing down $50 billion between four of them, and Exxon doing nothing... I'd scratch my head a little bit. Whether or not anything happens, if it's going to impact shareholders negatively, I don't think so, just because of the strength of their balance sheet. They have one of the strongest credit ratings of any company in the world. So I wouldn't be too nervous, if I was a shareholder of Exxon. But it's just another feather in their cap of shady business.
+
+O'Reilly: Fun stuff, yeah. And regarding the climate change investigation and all that... that, however you want to frame it, it's been going on for decades, then.
+
+Muckerman: Well, not the investigation...
+
+O'Reilly: No, yeah, the fact they're denying it, or however you want to say it.
+
+Muckerman: They've known about it, because they found documents a while ago from the seventies and eighties from some of their head scientists and head engineers that support the fact that climate change is happening. But they swept those under the rug.
+
+O'Reilly: This reminded me of the tobacco industry. (laughs) 
+
+Muckerman: It's impactful on their business, so that's what that original investigation is for -- not necessarily financially, but whether or not they're being upfront with their shareholders. Exxon, traditionally, produces outlooks for the industry that go out 20, 30 years.
+
+O'Reilly: For oil consumption.
+
+Muckerman: For oil consumption, for oil production, everything in the energy sector. Natural gas, as well. So when you have this company going out and projecting the next 20 to 30 years of the energy industry on a consistent basis, and they're not acknowledging climate change, that could lead people astray.
+
+O'Reilly: Wow. So, you're not worried about XOM?
+
+Muckerman: Not because of this, no. If they have to write it down, sure, that's a temporary hit. But again, if oil prices rise, they can adjust the value of those assets again. And if there's a fine, I would imagine it would be in the millions, maybe tens or hundreds of millions, but even still, you're talking about the largest energy company in North America.
+
+O'Reilly: Right. So, moving on, the energy sector is getting an IPO! What's going on?
+
+Muckerman: Yeah! It's not a bankruptcy, it's a birth!
+
+O'Reilly: This is amazing to me.
+
+Muckerman: We're adding to the crop rather than subtracting.
+
+O'Reilly: Yeah. The company is called Tudor, Pickering & Holt...
+
+Muckerman: No.
+
+O'Reilly: Oh, Smart Sand, I'm sorry. Tudor, Pickering, & Holt is the investment firm doing the offering.
+
+Muckerman: Yes, that's right.
+
+O'Reilly: So, Woodlands-based company that produces sand for hydraulic fracturing plans to go public. You sent this over kind of like an "LOL" kind of thing, but then we were like, "Wow, this is actually a big deal! What does this mean?"
+
+Muckerman: The LOL was just the fact that an energy company is going public right now. Not so much this particular business.
+
+O'Reilly: Yeah. We talked about that company that IPO'd a year and a half ago, the Permian player. It is what it is. Why are these guys going public right now?
+
+Muckerman: I mean, when you look at what's happening in the U.S. with shale production, natural gas, and oil, sand has been a major driver of the ability to extract these tight oil and natural gas reserves, because after you inject the water and fracture these wells, the sand has been used as a proppant to keep those fissures open, enough for oil and natural gas to flow through. And you've seen the level of sand used in these wells rise dramatically.
+
+O'Reilly: As I understand, sand has been a really big component in the last couple years, as these companies became more and more efficient.
+
+Muckerman: Yeah, you're looking at millions of tons of sand used on an annual basis, millions of pounds used per well. EOG said they're using 700% more sand per well than they were in 2010.
+
+O'Reilly: (laughs) 
+
+Muckerman: 700%. And that's the largest independent U.S. producer. That's moving the needle. This isn't some tiny little regional mom and pop shop. This is the largest U.S. independent oil and gas producer, 700% in six years.
+
+O'Reilly: That's crazy.
+
+Muckerman: Yeah. And you look at companies that are averaging around 8-11 million pounds per horizontal well, across the board.
+
+O'Reilly: So, "Smart Sand operates," I'm just reading from the article you sent me, "two white sand processing sites in Wisconsin with a combined 344 million tons of proven recoverable" -- there's that word again.
+
+Muckerman: Yeah, proven, just like oil, that's the best kind of reserve, proven. Then you have probable, and then you have possible.
+
+O'Reilly: Right. 344 million tons of recoverable sand reserves!
+
+Muckerman: Yeah. That might be a couple years' worth. Maybe the year, for the entire industry.
+
+O'Reilly: So, these guys are not large.
+
+Muckerman: No, they're not. They have competitors that are somewhat larger. But when talking about their sites being in Wisconsin, some of the focus on other players has been to find more regional sand, so, Texas, Arkansas, places that are going to be cheaper to transport it to these major basins. Wisconsin, obviously closer than Texas to North Dakota.
+
+O'Reilly: Are they putting all this sand on the back of trains and sending it to Texas?
+
+Muckerman: Yeah, they are. They're loading up these trains. That's exactly what they're doing, sending this sand south from Wisconsin. 
+
+O'Reilly: "Look, Mommy! That train has a bunch of sand!"
+
+Muckerman: You have a couple other players: U.S. Silica, Hi-Crush Partners, those might be two of the biggest in the industry. And then, CARBO Ceramics is a proppant producer, but they make their own silica proppants, so they're not necessarily a sand miner. But they were the industry darling during the peak of this fracking, because you could create custom pellets, basically, to optimize the well. But when you look at pure sand plays, you're looking at U.S. Silica, Hi-Crush Partners, and possibly Smart Sand, as they IPO fairly soon.
+
+O'Reilly: Have you considered these names possible ways to play the oil industry without being an actual producer? Because it sounds like they need the sand.
+
+Muckerman: Yeah. They do. And they're talking about... Credit Suisse had a report on this saying that they expect demand to go up 50% in 2017 for frack sand. And then, even with the depressed rig count, they're going to need that much or more than they were needing in 2014, which was the peak of fracking and rig count. So, yeah, you're looking at more sand per well. The fact that wells aren't being drilled at the same alarming rate, sand is still needed. U.S. Silica's stock has more than doubled this year.
+
+O'Reilly: Wow.
+
+Muckerman: Impressive. A very leveraged play, because they're selling sand strictly to frackers.
+
+O'Reilly: Those guys go under, game over.
+
+Muckerman: Yeah. Fracking cuts back again, then these guys are hosed, again. 
+
+O'Reilly: But on the other hand, more sand is being used per well, so that something, too. So, The Motley Fool is more about long-term investing, fundamentals, looking for a good company. We don't really pay attention to macro stuff. But I think we have to talk about OPEC a little bit here.
+
+Muckerman: OK.
+
+O'Reilly: I know you don't want to, sorry.
+
+Muckerman: It's OK.
+
+O'Reilly: They kind of set off this whole oil downturn in 2014.
+
+Muckerman: They did, like, the day before Thanksgiving.
+
+O'Reilly: "Happy Thanksgiving, jerks."
+
+Muckerman: Maybe on Thanksgiving. I'd just gotten done hiking in Texas with zero cell reception. I turn on my phone, I'm in the car with the buddies I went hiking with, and I look at the market, and I'm like, "Oh my dear god, oil is down 40%. What is going on?"
+
+O'Reilly: And that was basically them being like, "No, we're not going to support oil prices, sorry."
+
+Muckerman: Yeah, it was basically a race to the top in terms of who can produce the most, rather than who can save prices.
+
+O'Reilly: Right, and then that set off Saudi Arabia being like, "We want to go for market share now... " They meet, what, once or twice a year?
+
+Muckerman: A couple times. Some of the smaller countries ask for random meetings to try and stem the outflow of...
+
+O'Reilly: Money, just say it.
+
+Muckerman: Yeah, money, to the industry. But, this is a scheduled meeting next week in Algeria.
+
+O'Reilly: Got it. So, that's been scheduled. We obviously don't know what will happen, but there's hopes that they're going to put at least a production cap or something.
+
+Muckerman: Yeah, but then again, that's clever phrasing, and they leave a lot of the facts out, especially the facts that they're producing record highs.
+
+O'Reilly: They're all producing at record highs, yeah.
+
+Muckerman: Yeah. So, Russia is not part of OPEC, but they want to at least be part of that production cap. They just produced in September a post Soviet-era high per month. Libya is trying to double their production by the end of the year. Nigeria has production...
+
+O'Reilly: Iran is already in the 3.5 million range, I think.
+
+Muckerman: Iran is there. Venezuela is looking to dump $3.5 billion into their Orinoco project. Schlumberger just signed on to help them drill 80 wells. Even though Schlumberger has been letting people go in the country and removing itself from Venezuela, they just, I think this was either today or yesterday, they signed to be the driller of 80 wells. And then there's maybe 400 other wells they're trying to drill. But, those are usually private drillers that are doing that. But the reports say they're going to use Halliburton and Baker Hughes' equipment.
+
+O'Reilly: Good stuff.
+
+Muckerman: All three companies are going to be involved in some way, but Schlumberger will actually be an operator. So, those are four countries right there that are trying to ramp up production. And we expect a production cap.
+
+O'Reilly: That's the thing with cartels, you have an incentive to cheat, too. So, really quick before we head out, I wanted to talk about, you're an analyst for one of our services, doing very well up there in Canada, I wanted to pick your brain a little bit about a stock that is interesting right now.
+
+Muckerman: Yeah, I think this is something that we'll continue, right? Maybe at the end of every show, we'll highlight one stock?
+
+O'Reilly: We'll see how it goes, yeah. If people hate it, we'll stop.
+
+Muckerman: Yeah. So, this being the first time, maybe the last time, I'm going to go with an integrated, and I think BP right now stands out to me above the fray. 
+
+O'Reilly: Now, if Tyler Crowe were here, he would be all about Total.
+
+Muckerman: Yeah, he's definitely a Total boy.
+
+O'Reilly: Why should I go with the British and not the French?
+
+Muckerman: I think with BP, it's more of a traditional energy play. Total is more and more getting into renewable energy.
+
+O'Reilly: They own half of SunPower.
+
+Muckerman: Exactly. BP is generating some pretty solid cash flow, good yield. They've taken on debt since the Macondo spill, but they've done it a little bit more prudently than some of their larger peers. I just think that management has pulled some of the right levers. Revenue and income is down in the last couple of years, as it is with everyone now. The cash flow is still there, and it has a great free cash flow yield, which is something you value when you're looking at the sustainability of the dividend.
+
+O'Reilly: Are you doing this as a contrarian play to that movie Deepwater Horizon that's coming out?
+
+Muckerman: Yeah, maybe, because ticket sales suck, maybe the price of BP will go up because people don't remember what happened. The more people that get exposed to it, the worst the share price will be. They're going to drum up the bias again and, no, I don't think it'll have any impact on shares.
+
+O'Reilly: Great time to be a value investor! (laughs) 
+
+Muckerman: Yeah, I don't think it'll have any impact on shares. It's five years behind us. I think all their legal liabilities are handled.
+
+O'Reilly: Kind of, sort of?
+
+Muckerman: Yeah. The bulk of them. The worrisome portions.
+
+O'Reilly: Got it. So, they're done handing out sacks of money to people that ask for it.
+
+Muckerman: Yeah. I'm not an investor in it, nor am I with any integrated, but it's something I've been looking at lately.
+
+O'Reilly: Cool. Thanks for your thoughts.
+
+Muckerman: Appreciate it, yeah.
+
+O'Reilly: That is it for us, folks. We'd like to give a special shoutout, as always, to our producer, Austin Morgan. Hi, Austin!
+
+Muckerman: Woop woop!
+
+O'Reilly: He's behind the glass, working his video and audio magic. If you're a loyal listener and have questions or comments, we would love to hear from you. Just email us at industryfocus@fool.com. Once again, that's industryfocus@fool.com. As always, people on this program may have interests in the stocks they talk about, and The Motley Fool may have formal recommendations for or against those stocks, so don't buy or sell anything based solely on what you hear on this program. For Taylor Muckerman, I am Sean O'Reilly. Thanks for listening and Fool on!

@@ -1,0 +1,52 @@
+The stock market made an assertive statement of extreme confidence on Friday, responding favorably to news that the U.S. employment picture has begun to recover. The recovery from March's lows has already been extremely impressive, but the Dow Jones Industrial Average (DJINDICES:^DJI), S&P 500 (SNPINDEX:^GSPC), and Nasdaq Composite (NASDAQINDEX:^IXIC) were all up roughly 2% to 3% on the day.
+Index
+Percentage Change
+Point Change
+Dow
++3.15%
++829
+S&P 500
++2.62%
++82
+Nasdaq Composite
++2.06%
++198
+DATA SOURCE: YAHOO! FINANCE.
+Just about every sector of the market contributed to overall gains, but the energy sector had, by far, the biggest rise. The Energy Select Sector SPDR (NYSEMKT:XLE) finished the day with gains of nearly 7%, and the boost to the hard-hit sector shows optimism about what the future will bring.
+One of the clearest impacts of the economic shutdown following the coronavirus pandemic has been a huge decline in energy demand. With people largely staying at home and with nonessential workplaces closed, demand for energy products fell through the floor during March. That caused a big glut of oil that eventually led to a brief period of negative prices on oil futures contracts, which, in turn, put even more pressure on companies that rely on higher oil prices to make a profit.
+IMAGE SOURCE: GETTY IMAGES.
+Now that the economy is reopening, demand for oil is starting to come back, and that's showing up in the commodity markets. West Texas Intermediate crude approached $40 per barrel today, and international Brent crude topped that mark. Moreover, investors are excited about the prospects for further limits on production from major oil exporting countries, with an OPEC conference scheduled for this weekend that could keep supply and demand dynamics looking favorable.
+Oil investors are used to seeing tiny companies make big moves, but the giants of the industry are typically more restrained. That wasn't the case today, however, as even the likes of ExxonMobil (NYSE:XOM) and BP (NYSE:BP) managed to post gains of 8%.
+As you can imagine, smaller players saw even bigger gains. Several tiny exploration and production companies saw gains of anywhere from 20% to 60%, and even the relatively large Occidental Petroleum (NYSE:OXY) weighed in with a 31% rise on the day. Offshore drilling specialists also enjoyed big gains, with Transocean (NYSE:RIG) and Nabors Industries (NYSE:NBR) both seeing their shares jump around 45% on Friday.
+Pipeline stocks, however, saw somewhat smaller gains, in general. Kinder Morgan (NYSE:KMI) settled for a 3% rise, as did Enterprise Products Partners (NYSE:EPD). That's not surprising, though, as midstream companies that transport energy products should at least theoretically be insulated from oil price movements, as long as their customers keep production levels at constant levels.
+Even with oil at $40 per barrel, investors can't really say that the energy market has truly recovered. Many producers need consistently higher prices in order to justify production costs, and even those companies that are profitable at current levels would nevertheless benefit greatly from further oil price increases.
+Recent moves for the energy industry and the stock market, more broadly, have come with the assumption that the economy will eventually get back to a new normal that closely resembles what prevailed before the coronavirus pandemic hit. That's one possible outcome, but it's not the only one. Investors don't necessarily have to be completely skeptical of the market rally, but you should nevertheless be prepared for what to do if things don't go as well from here as everyone's hoping right now.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
+Shares of integrated oil and natural gas giant ExxonMobil (NYSE:XOM) rose 8.6% in early trading on Wall Street on June 5. That's a really big move for what is usually a pretty boring energy company, but it wasn't alone. U.S. peer Chevron (NYSE:CVX) was up as much as 5.5%, France's Total (NYSE:TOT) 6.5%, the United Kingdom's BP (NYSE:BP) 8.3%, and Europe's Royal Dutch Shell (NYSE:RDS.B) 6.9%. Relatively small South African integrated energy player Sasol even got into the act, actually leading the early gains with a hefty 13.3% price jump at the start of the trading day.
+There were two notable pieces of news in the energy sector today and both got investors excited about the future. But the past is important here. The industry has been attempting to muddle through a period of historically low oil prices. There are a number of factors involved in this predicament, including the long-term trend of growing U.S. onshore oil production, a pricing spat between OPEC and Russia (since resolved, with the help of the United States) that increased supply at the worst possible time, and the impact of the worldwide effort to contain the spread of COVID-19, which has dramatically reduced demand for energy. 
+IMAGE SOURCE: GETTY IMAGES.
+Every one of the integrated energy companies here has felt the impact. It even led Shell to cut its dividend, something it hadn't done since World War II. The hit was notable in first-quarter earnings, with companies like Exxon and Chevron reporting worrying revenue declines driven by falling oil prices. Both cut back on their spending plans as a result, as did most peers. Total, interestingly enough, decided to make yet another big electricity investment in the first quarter as it looks to diversify its business into a different energy space. But it was perhaps BP CEO Bernard Looney who summed it up best, explaining to investors that "Our industry has been hit by supply and demand shocks on a scale never seen before."   
+In short, it's been a terrible time to be an energy company. But, as the saying goes, this too shall pass. And that is exactly what appears to be happening. For starters, OPEC seems to have gotten everyone on board for the production cuts it thinks are necessary to help stabilize supply and demand in the global energy market. That includes both Russia and smaller player, but significant holdout, Iraq. It now looks like the group will be able to push forward a planned meeting and get the cuts implemented relatively quickly. Oil prices jumped on the news. Higher oil prices are clearly a good thing for companies that rely on the commodity to support their top and bottom lines. Investors liked the news and it helped push oil-related names higher.   
+But that wasn't the only positive today. One of the big problems for oil has been the swift decline in demand driven by the worldwide economic shutdowns used to slow the spread of COVID-19. There's been a pretty big question mark about how quickly the global economy can recover from the hit. Heading into today, investors had been anticipating bad news on the employment front in the United States, expecting the May unemployment rate to hit roughly 20%. Instead, it came in at 13.3%, down from April's reading of 14.7%. In other words, the world's largest economy is doing much better than many on Wall Street thought. That, in turn, could mean a swift return of oil demand, which would support higher commodity prices. Investors got pretty excited about that news, taking a risk-on approach and pushing the broader stock market higher, integrated energy companies included.  
+While there was definitely good news to be read today, investors shouldn't get too exuberant. The unemployment numbers in the United States weren't really good, they were just less bad. So a global recession, which wouldn't be very positive for energy demand or this group of companies, still isn't out of the question. And OPEC's members have a bad habit of ignoring the things they agree to, so there's no way to tell if the plans the group lays out will actually help anything. Moreover, even with all of this good news, oil prices are still trading at levels that make it hard to turn a profit for many oil companies -- all of the companies here included. There are, indeed, silver linings showing up on the clouds, but investors shouldn't forget that the clouds are still there.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+

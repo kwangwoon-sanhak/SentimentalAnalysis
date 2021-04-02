@@ -1,0 +1,22 @@
+The Dow Jones Industrials (DJINDICES:^DJI) were up 83 points as of 12:30 p.m. EDT, as favorable signs in the U.S. economy overwhelmed any nervousness about the ongoing situation in Ukraine. One piece of economic data investors seemed happy about was the February reading for the Consumer Price Index, which came in up 0.1% for the month and 1.1% over the past year. Those who remember the inflation-ridden period of the late 1970s and early 1980s will recognize the value of a low-inflation environment, but some policymakers fear the rate of inflation might be too low and potentially need further action from the Federal Reserve to avoid the negative impact of deflation.
+SOURCE: GERALD R. FORD PRESIDENTIAL LIBRARY & MUSEUM, VIA WIKIMEDIA COMMONS.
+What the CPI said this month
+Looking deeper into the CPI report, the Bureau of Labor Statistics pointed to a substantial rise in the food component as driving positive pressure on inflation. Prices of meat, dairy, and fruits and vegetables all posted gains in the 0.7% to 1.2% range for the month, with the meat index having seen a longer-term jump of 4% over the past year.
+Energy costs offset those gains in food prices, with seasonal adjustments playing a major factor. Gasoline prices rose 1.1% in February, but when you apply the BLS seasonal adjustment factor, the gasoline index actually fell 1.7%. That decline brought the drop in gasoline to more than 8% over the past year, and despite higher prices for natural gas, fuel oil, and various other heating products, the overall energy index has dropped 2.5% since early 2013.
+When you exclude food and energy, the core CPI rose 0.1%. With an annual increase of 1.6%, the core CPI is a lot closer to the Federal Reserve's nominal 2% target than the full CPI is. Other measures of inflation were similarly muted, though, with chained CPI also up just 1% over the past 12 months.
+What deflation can do
+Paying higher prices is easy to see as a bad thing, but it's a lot harder to visualize why deflation is bad. Yet one great example is technology, where IBM (NYSE:IBM) and its tech peers have repeatedly seen prices of hardware products gradually fall over time as new innovations increase quality and make older technology obsolete. Indeed, one of the benefits of IBM moving out of its former emphasis on hardware is that it's a lot easier to keep services revenue stable and growing than it is to make continuing advances on what often was cutting-edge technology just a year or two ago. When prices keep falling, consumers have an incentive to wait for better products in the future, and that can be a big disincentive that can cause the exact revenue pressures that IBM and its peers have faced lately.
+Deflation can also hurt companies if costs don't fall along with the broader trend. For instance, oil futures are predicting that prices will fall from their current level slightly below $100 per barrel to just above $90 by early next year. For Dow components ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX), falling prices are bad for a couple of reasons. First and foremost, lower oil prices directly reduce revenue and net profit from sales of their production. Yet even more importantly from a longer-term perspective, new projects to boost production tend to have high cost structures, and falling oil prices make those projects uneconomical. That will push sales and income down further until lower supply brings the market back into equilibrium.
+Those and similar factors explain why the Fed aims to provide at least a minimal level of inflation in the economy. By sticking with a Goldilocks solution for inflation, investors are in the best position to benefit if policymakers succeed in reaching their targets for price rises.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of February 24, 2021
+
+
