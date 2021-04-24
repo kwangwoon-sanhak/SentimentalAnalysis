@@ -9,7 +9,6 @@ class Tokenizer():
     def __init__(self, language, community):
         #nltk.download('stopwords')
         self.stopwords = stopwords.words(language)
-        self.stopwords.extend(['date', 'dates', 'month', 'months', 'year', 'years'])
         self.community = community
         if self.community == "fool":
             self.ad_sentence = ["Before you consider Exxon Mobil Corporation, you'll want to hear this.", 
@@ -34,6 +33,10 @@ class Tokenizer():
                         f.write(tokenize_word + ', ')
                     f.write('\n')
                 
+    def print_stopwords(self):
+        self.stopwords.extend(['date', 'dates', 'month', 'months', 'year', 'years'])
+        #self.stopwords.remove() #이부분에서 not 부분 처리하기
+        print(self.stopwords)
 
 
     def tokenize(self, file_name):
@@ -56,4 +59,5 @@ class Tokenizer():
 
 if __name__ == "__main__":
     tokenizer = Tokenizer('english', 'fool')
-    tokenizer.tokenize_article()
+    tokenizer.print_stopwords()
+    #tokenizer.tokenize_article()
