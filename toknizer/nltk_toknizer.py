@@ -4,21 +4,20 @@ from nltk.corpus import stopwords
 from nltk.tokenize import WordPunctTokenizer
 
 
-
 class Tokenizer():
     def __init__(self, language, community):
-        #nltk.download('stopwords')
+        # nltk.download('stopwords')
         self.stopwords = stopwords.words(language)
         self.community = community
         if self.community == "fool":
-            self.ad_sentence = ["Before you consider Exxon Mobil Corporation, you'll want to hear this.", 
-            "Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.", 
-            "The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.", 
-            "* And right now, they think there are 10 stocks that are better buys.", 
-            "The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.",
-            "See the 10 stocks", 
-            "*Stock Advisor returns as of February 24, 2021",
-            "IMAGE SOURCE: GETTY IMAGES."]
+            self.ad_sentence = ["Before you consider Exxon Mobil Corporation, you'll want to hear this.",
+                                "Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.",
+                                "The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.",
+                                "* And right now, they think there are 10 stocks that are better buys.",
+                                "The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.",
+                                "See the 10 stocks",
+                                "*Stock Advisor returns as of February 24, 2021",
+                                "IMAGE SOURCE: GETTY IMAGES."]
 
             self.path = "../community_crawler/fool.com/articles/"
             self.save_path = "fool.com/"
@@ -32,12 +31,12 @@ class Tokenizer():
                     for tokenize_word in tokenize_sentence:
                         f.write(tokenize_word + ', ')
                     f.write('\n')
-                
-    def print_stopwords(self):
-        self.stopwords.extend(['date', 'dates', 'month', 'months', 'year', 'years'])
-        #self.stopwords.remove() #이부분에서 not 부분 처리하기
-        print(self.stopwords)
 
+    def print_stopwords(self):
+        self.stopwords.extend(['date', 'dates', 'month', 'months', 'year',
+                              'years', 'Dates', 'Date', 'Months', 'Month', 'Year', 'Year'])
+        # self.stopwords.remove() #이부분에서 not 부분 처리하기
+        print(self.stopwords)
 
     def tokenize(self, file_name):
         result = []
@@ -51,13 +50,15 @@ class Tokenizer():
                 #print("tokenize sentence: {token}".format(token=WordPunctTokenizer().tokenize(sentence)))
                 #new_token = [t for t in token if not t in self.stopwords]
                 #print("new_token: {new_token}".format(new_token=new_token))
-                #print()
+                # print()
                 token = WordPunctTokenizer().tokenize(sentence)
-                result.append([t for t in token if (not t in self.stopwords) and t.isalnum()])
+                result.append([t for t in token if (
+                    not t in self.stopwords) and t.isalnum()])
 
         return result
+
 
 if __name__ == "__main__":
     tokenizer = Tokenizer('english', 'fool')
     tokenizer.print_stopwords()
-    #tokenizer.tokenize_article()
+    # tokenizer.tokenize_article()
