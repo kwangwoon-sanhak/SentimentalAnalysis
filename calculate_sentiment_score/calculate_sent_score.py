@@ -7,7 +7,7 @@ class VocabDictionary:
     def __init__(self, vocab_name):
         super().__init__()
         self.vocab_name = vocab_name
-        self.file_path = "../toknizer/fool.com/"
+        self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/")
 
     def sentiment_analysis(self):
         self.file_list = os.listdir(self.file_path)
