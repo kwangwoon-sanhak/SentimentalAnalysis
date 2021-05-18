@@ -19,8 +19,8 @@ class Tokenizer():
                                 "*Stock Advisor returns as of February 24, 2021",
                                 "IMAGE SOURCE: GETTY IMAGES."]
 
-            self.path = "../community_crawler/fool.com/articles/"
-            self.save_path = "fool.com/"
+            self.path = "../community_crawler/fool.com/articles_XEC/"
+            self.save_path = "fool.com/XEC/"
 
     def tokenize_article(self):
         self.file_list = os.listdir(self.path)
@@ -60,5 +60,5 @@ class Tokenizer():
 
 if __name__ == "__main__":
     tokenizer = Tokenizer('english', 'fool')
-    tokenizer.print_stopwords()
-    # tokenizer.tokenize_article()
+    #tokenizer.print_stopwords()
+    tokenizer.tokenize_article()
