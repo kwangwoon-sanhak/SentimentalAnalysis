@@ -1,0 +1,104 @@
+Study after study has shown that stocks with low price-to-earnings multiples significantly outperform high P/E stocks. Research from my favorite investing guru, NYU professor Aswath Damodaran, pegged the outperformance at anywhere from 9% to 12% per year, depending on the study period. That's big money we're talking about.
+But you already know that you can't just go out and buy the stocks with the lowest multiples. Companies can trade at dirt cheap prices for a number of dire reasons, including low growth prospects, skepticism about earnings, or high risk of bankruptcy.
+These dangerous stocks can quickly crater. Buy too many of them, and you'll increase your own risk of bankruptcy!
+Thus, for a company to be truly undervalued, Damodaran says in his book Investment Fables: "You need to get a mismatch: a low price-to-earnings ratio without the stigma of high risk or poor growth."
+Of course, you're unlikely to find any high-growth, low-P/E companies out there. But Damodaran suggests setting a reasonable minimum threshold for earnings growth, such as 5%. There are also various ways to minimize risk, including staying away from volatile stocks or companies with dangerous balance sheets.
+The screen's the thing
+We're looking for companies with low price-to-earnings multiples, but also a relatively low amount of risk and the potential for reasonable growth. Our screen today will cover the best value plays in the oil, gas, and consumable fuels industry.
+There are 205 such companies with market caps topping $500 million on major U.S. exchanges. They have an average forward P/E of 19.8. Here are my parameters:
+Of the 22 companies passing the screen, here are the 10 with the lowest forward price-to-earnings multiples:
+Company
+Market Cap
+(in millions)
+Forward P/E
+Debt to Capital
+Estimated EPS
+Growth
+China Petroleum & Chemical (NYSE: SNP)
+$103,851
+6.9
+32%
+7%
+Arch Coal (NYSE: ACI)
+$5,303
+8.2
+41%
+10%
+Hess (NYSE: HES)
+$24,329
+8.7
+24%
+11%
+Alliance Resource Partners
+$2,551
+8.8
+59%
+10%
+Sasol (NYSE: SSL)
+$30,497
+8.9
+14%
+19%
+Holly (NYSE: HOC)
+$3,186
+9.5
+38%
+51%
+CNOOC
+$106,037
+10.2
+13%
+14%
+Gulfport Energy (Nasdaq: GPOR)
+$1,176
+10.8
+1%
+20%
+Yanzhou Coal Mining
+$22,620
+11.5
+37%
+13%
+Alliance Holdings (Nasdaq: AHGP)
+$2,679
+12.7
+59%
+16%
+Source: Capital IQ, a division of Standard & Poor's.
+There are lots of good research candidates here. To further stack the odds on your side, Damodaran says you can eliminate any companies that have restated earnings or had more than two large restructuring charges over the past five years. And if volatile swings in price cause you to lose sleep, consider only companies with betas less than one.
+For more on this industry, you may be interested in our research report "The One Energy Stock You'll Ever Need." Click here to claim your free copy.
+
+
+
+Before you consider HollyFrontier Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and HollyFrontier Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+Being able to retire rich, or at least comfortable, is the goal of almost any investor. However, it's much easier said than done. In a recent Wells Fargo survey, respondents between the ages of 50 and 59 said that they had, on average, about $29,000 saved up. With pensions all but gone, and Social Security targeted for cuts in the future, it's hard to count on anyone but yourself. But $29,000 isn't going to cut it for most people, so you've got to get involved in the stock market in order to grow that nest egg. Getting in the game is the easy part; choosing the right stocks is the hard part.
+Making prudent decisions
+Generally speaking, I look for four traits in a retirement stock:
+Although some companies are definitely more geared toward retirees, which companies you choose to invest in will be dictated largely by what you already have in your portfolio. Small, mid, and large caps can all play a role in your investing strategy, so I chose to evaluate all varieties of stocks in this regular series.
+So how does Hess stack up?
+In order to check out the valuation of Hess (NYSE: HES), we don't want to look at only its P/E ratio of 10.2. That may seem cheap, but really we don't know without looking at the ratio in historical context. Over the past five years, Hess' average P/E ratio has been 15.2, which is greater than the current ratio. This suggests that investors could be seeing an opportunity to buy Hess on the cheap right now.
+Hess' dividend is 0.518%. This might not seem like a whole lot right now, but that dividend has room to grow, so I wouldn't discount its importance. Getting a dividend at all shows a company's dedication to its shareholders, and that's significant.
+Next, we want to ensure that Hess' stock has the ability to rise over the next five, 10, or 20 years. A company that's growing its net income has the best possible chance to see its share price rise over time. Of course, we can't predict the future, but we can look back to get an idea of how the company has performed in the past in order to try to ensure future earnings growth. Over the past five years, Hess has grown its net income by 7.87% annually. Fortunately, Hess has been able to grow its earnings over the past five years, and that's pretty significant considering all of the market turmoil in the last few years. Of course, this doesn't mean that growth will continue, but it's a great sign that the company can prosper in the face of difficulty.
+One of the best measures of volatility is called beta. Beta measures the impact that the movement of the stock market will have on a particular stock. For instance, a beta of 1.0 signifies that Hess will move in tandem with the market; a beta of 2.0 means that the stock will move up twice as much as the general market, and vice versa. In this particular case, Hess has a beta of 1.6, which is pretty high. Generally speaking I like to see a beta below 1.2 for retirees.
+Let's look at the competition
+We've taken a look at Hess, and maybe you think it's passed all the tests, or maybe you just don't feel comfortable with the results. Either way, it's beneficial to see how a company stacks up in its industry, because it's just as important to understand a company's competitors as it is to understand that particular company. Here are Hess' stats when compared to three of its closest competitors:
+Company
+Current P/E
+Dividend Yield
+5-Year Net Income CAGR
+1-Year Beta
+Source: Capital IQ, a division of Standard & Poor's.
+Each company has traits to like and traits left to be desired. Either way, it's beneficial to look at the industry picture and not just Hess in isolation.
+Of course, I can't decide for you whether or not this is the best stock for retirement, but it has passed 3 of the 4 tests, which shows that this stock has some promise. Depending on which traits are most important for you, you'd be wise to look further into this stock for your portfolio.
+Interested in adding any of the companies above to your watchlist? Click below to get the latest commentary and analysis.
+
+If you're like most Americans, you're a few years (or more) behind on your retirement savings. But a handful of little-known "Social Security secrets" could help ensure a boost in your retirement income. For example: one easy trick could pay you as much as $17,166 more... each year! Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after. Simply click here to discover how to learn more about these strategies.
+

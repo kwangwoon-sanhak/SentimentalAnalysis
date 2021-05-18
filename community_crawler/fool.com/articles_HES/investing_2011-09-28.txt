@@ -1,0 +1,77 @@
+Investors expect good returns. The more cash you get back for the amount you invested, the better your investment is. Same is true for the company you invest in. So, how do we find out whether a business is capable of generating superior returns?
+The metric that matters: Return on invested capital
+Growing bottom lines do not always guarantee good returns. More than earnings growth itself, it pays to find out how much has been invested into the business in order to generate that growth. This is where return on invested capital comes into play.
+ROIC looks at earnings power relative to how much capital is tied up in a business. While a company's earnings may register growth, the return on invested capital might be declining. In other words, for every dollar of income generated, the company has to plough in more and more cash into the business over time. This is a warning sign. Unfortunately, investors fall into the trap of putting cash into companies that venture into less profitable projects. The result: The company requires more cash to generate the same returns.
+Oil and gas companies have been through some tough times in the last five years. Volatility in energy prices has played a role in causing fluctuating bottom lines. But the fact is that these companies have sunk a lot of cash into investments by raising debt and equity. Therefore, it makes more economic sense to find out whether these investments are generating returns that investors expect. Today, we will see how Hess (NYSE: HES) stacks up.
+This is how invested capital, operating income, and ROIC stack up for the past six years:
+
+Source: Capital IQ, a Standard & Poor's company. ROIC is author's calculation. All data presented here is for a 12-month period, ending June 30 of the corresponding year.
+Invested capital has grown steadily in the last five years while returns have shown a progressive decline during the period. Hess' operations around the globe haven't been working in its favor. Suspension of its Libyan operations has also taken a toll on production this year. Additionally, its investment in Hovensa, a refining joint venture, hasn't been profitable.
+These should definitely come across to investors as a potential yellow flag. Hess' management should work harder to increase shareholder returns.
+In terms of competition, this is how Hess stacks up:
+Company
+Return on Invested Capital
+Return on Equity
+Hess
+8.9%
+16.3%
+9.5%
+11.6%
+8.3%
+7.7%
+12.7%
+11.8%
+Source: Capital IQ, a Standard & Poor's company; ROIC is author's calculation; figures are for the trailing 12 months.
+Hess' returns aren't too impressive compared to that of its peers.
+What's the return compared to the cost?
+Unfortunately, ROIC alone can't tell you how well a company is operating. Invested capital comes at a cost. Investors should check whether returns on invested capital exceed that cost. The weighted average cost of capital, or WACC, tells us exactly that since both debt and equity are used for financing operations. Debt-to-equity currently stands at 29.3%.
+Hess' after-tax interest expense or cost of debt stands at $244 million for the trailing-twelve-month period, which is more than 4% of its total debt. Expecting a 12% return from equity (beating the S&P 500's average 10% average historical return) is a fair expectation for this company given the risks involved in shale plays and the natural gas market.
+Using this data, WACC adds up to 9.8%. This is higher than the ROIC of 8.9%. This is a potential red flag. Hess hasn't been able to build on shareholder value. The company has been investing in projects which generate returns that are below the rate investors expect.
+Foolish bottom line
+Exploration and production companies have sunk a lot of cash into investments during the past few years on which they are yet to fully realize gains. Hess' global investments might still generate higher returns. Still, investors can avoid possible pitfalls by finding out whether the company is capable of growing economically.
+
+
+
+Before you consider Hess Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Hess Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+As an investor, it pays to follow the cash. If you figure out how a company moves its money, you might eventually find some of that cash flowing into your pockets.
+In this series, we'll highlight four big dogs in an industry and compare their "cash king margins" over time, trying to determine which has the greatest likelihood of putting cash back in your pocket. After all, a company can pay dividends and buy back stock only after it's actually received cash -- not just when it books those accounting figments known as "profits."
+The cash king margin
+Looking at a company's cash flow statement can help you determine whether its free cash flow actually backs up its reported profit. Companies that can create 10% or more free cash flow from their revenue can be powerful compounding machines for your portfolio.
+To find the cash king margin, divide the free cash flow from the cash flow statement by sales:
+Cash king margin = Free cash flow / sales
+Let's take McDonald's as an example. In the four quarters ending in June, the restaurateur generated $6.87 billion in operating cash flow. It invested about $2.44 billion in property, plant, and equipment. To calculate free cash flow, subtract McDonald's investment ($2.44 billion) from its operating cash flow ($6.87 billion). That leaves us with $4.43 billion in free cash flow, which the company can save for future expenditures or distribute to shareholders.
+Taking McDonald's sales of $25.5 billion over the same period, we can figure that the company has a cash king margin of about 17% -- a nice high number. In other words, for every dollar of sales, McDonald's produces $0.17 in free cash.
+Ideally, we'd like to see the cash king margin top 10%. The best blue chips can notch numbers greater than 20%, making them true cash dynamos. But some businesses, including many types of retailing, just can't sustain such margins.
+We're also looking for companies that can consistently increase their margins over time, which indicates that their competitive position is improving. Erratic swings in margins could signal a deteriorating business, or perhaps some financial skullduggery; you'll have to dig deeper to discover the reason.
+Three companies
+Today, let's look at Hess (NYSE: HES) and three of its peers:
+Company
+Cash King Margin (TTM)
+1 Year Ago
+3 Years Ago
+5 Years Ago
+Source: Capital IQ, a division of Standard & Poor's. TTM = trailing 12 months.
+None of these companies meets our 10% threshold for attractiveness. Hess and BP have current cash king margins in the negative numbers, and Anadarko Petroleum's margin is less than 1%. Also, cash king margins at Eni, BP, and Anadarko have declined substantially from five years ago. Compare these returns to the blue chips of software and biotech to get some context.
+The cash king margin can help you find highly profitable businesses, but it should only be the start of your search. The ratio does have its limits, especially for fast-growing small businesses. Many such companies reinvest all of their cash flow into growing the business, leaving them little or no free cash -- but that doesn't necessarily make them poor investments. You'll need to look closer to determine exactly how a company is using its cash.
+Still, if you can cut through the earnings headlines to follow the cash instead, you might be on the path toward seriously great investments.
+Want to read more about Hess? Add it to My Watchlist,which will find all of our Foolish analysis on this stock.
+
+
+
+Before you consider Hess Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Hess Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

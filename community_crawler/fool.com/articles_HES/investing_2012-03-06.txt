@@ -1,0 +1,28 @@
+I recently spent some time dissecting Benjamin Graham's The Intelligent Investor, the seminal book on value investing. Along the way, I talked about the Graham number as a means of valuation when it comes to stocks. The formula is pretty straightforward: Multiply earnings per share by book value per share, then multiply that by 22.5, and finally take the square root. The result, in dollars, is the Graham number.
+However, a quick check can help determine whether or not a company might be worthy of a look using the teachings of Graham. He said that in an ideal situation, the P/E ratio and P/B ratio multiplied together should not exceed 22.5, with a maximum P/E ratio of 15 and maximum P/B ratio of 1.5. With that in mind, I screened the stocks of the S&P 500 that met those requirements and was presented with 53 companies. I will be making a CAPScall on most of these companies after comparing them to competitors and their current value in relation to their Graham numbers. Up next is Valero Energy (NYSE: VLO).
+What do they do?
+Valero is the largest independent refiner in the U.S., with a large presence along the Gulf of Mexico. It also built a large wind farm outside one of its Texas refineries and was among the first refiners to produce ethanol from corn. To further its renewable energy plans, it has partnered with Darling International (NYSE: DAR), a leading food industry waste recycler, accepting diesel fuel recycled from used cooking oils and animal fats.
+With the end of its recent quarter, revenues exceeded expectations, and though Valero experienced a loss for the quarter, it was slightly smaller than expected. A new pipeline to be built by TransCanada should help crude move from Oklahoma to its refineries on the Gulf Coast, allowing the company to get closer to its maximum production of 3 million barrels per day and thus increase revenue in future years.
+What's it worth?
+Among peers of similar size, Valero is the furthest from its Graham number. This could mean its potential upside is bigger than some of its competitors:
+Company
+EPS (TTM)
+Book Value per Share (MRQ)
+Graham Number
+Recent Price
+Source: Yahoo! Finance and author's calculations. TTM = Trailing 12 months. MRQ = Most recent quarter.
+Unlike Valero, Hess missed on earnings this quarter despite exceeding revenue expectations. The company is getting leaner, however, and by focusing on strong holdings in the Bakken, Marcellus, and Eagle Ford shale plays, it should be able to double output over the next few years. Marathon Petroleum was spun off by Marathon Oil last year to focus specifically on refining. Marathon Petroleum is hoping to expand production by 50,000 barrels per day, with a stated goal of reaching 1.2 million barrels per day by year-end. Murphy Oil, like Hess, missed on earnings per share while exceeding revenue expectations with its recent quarterly results, which was not that unexpected in a year of poor production and other issues.
+With oil and gas prices remaining high, I am bullish on the future performance of these stocks, but I will be placing a "thumbs up" over on my CAPS page specifically on Valero Energy, as well as adding it to My Watchlist in order to keep up to date on any developing news.
+Valero Energy is only one option to help you benefit from high oil prices. Our special report, "3 Stocks for $100 Oil," has identified some companies poised to profit from the runaway cost of oil. Click here to get your free copy today.
+
+
+
+Before you consider Marathon Petroleum Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Marathon Petroleum Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

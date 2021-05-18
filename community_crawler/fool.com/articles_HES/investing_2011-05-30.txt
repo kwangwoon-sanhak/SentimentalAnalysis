@@ -1,0 +1,36 @@
+As investors, we always want our investments to generate a healthy return. However, investors often forget that returns stem from two, not one, extremely important factors:
+This idea of price versus returns provides the bedrock for the approach known as value investing. In this series, I'll examine a specific business from both a quality and pricing standpoint. In doing so, I hope to provide a better sense of its potential as an investment right now.
+Where should we start to find value?
+As we all know, the quality of businesses varies widely. A company that has the ability to grow its bottom line faster (or much faster) than the market, especially with any consistency, gives its owner greater value than a stagnant or declining business (duh!). However, many investors also fail to understand that any business becomes a buy at a low enough price. Figuring out this price-to-value equation drives all intelligent investment research.
+To do so today, I selected several metrics that will evaluate returns, profitability, growth, and leverage. These make for some of the most important aspects to consider when researching a potential investment.
+Keeping all that in mind, let's take a look at Valero Energy (NYSE: VLO) and some of its closest peers. 
+Company
+Return on Equity (5-Year Average)
+EBIT Margin (5-Year Average)
+EBIT Growth (5-Year Average)
+Total Debt / Equity
+Source: Capital IQ, a division of Standard & Poor's.
+Both Valero and Tesoro stand out only because of their extremely strong past growth rates. In most other regards, each company looks fair but not compelling.
+Marathon generated the strongest historical ROE, but its somewhat weak operating margin and growth make me hesitate somewhat.
+Hess generates a strong ROE. I also like its growth and minuscule debt burden. Although it leads this set of companies, its operating margin still leaves something to be desired.
+How cheap does Valero Energy look?
+To look at pricing, I've chosen to examine two important multiples: price-to-earnings and enterprise value-to-free cash flow. Similar to a P/E ratio, enterprise value (essentially debt, preferred stock, and equity holders combined minus cash) to unlevered free cash flow conveys how expensive the entire company is versus the cash it can generate. The resulting figure gives investors another measurement of cheapness when analyzing a stock. For both metrics, the lower the multiple, the better.
+Let's check this performance against the price we'll need to pay to get our hands on some of the company's stock.
+Company
+Enterprise Value / FCF
+P / LTM Diluted EPS Before Extra Items
+Source: Capital IQ, a division of Standard & Poor's.
+These companies look pretty cheap in terms of both cash flow and earnings. If you expect them to maintain their impressive past growth, they could certainly be candidates for further research.
+Although Valero Energy's stock looks like a possible stock for your portfolio right now, the search doesn't end here. To really get to know a company, you need to keep digging. If any of the companies I've mentioned here today piques your interest, further examining quality of earnings, management track records, or analyst estimates all make for great ways to continue your search. You can also stop by The Motley Fool's CAPS page, where our users come to share their ideas and chat about their favorite stocks. Or you can add the stocks mentioned here to My Watchlist.
+
+
+
+Before you consider Hess Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Hess Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

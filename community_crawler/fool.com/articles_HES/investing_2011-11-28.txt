@@ -1,0 +1,27 @@
+As investors, we need to understand how our companies truly make their money. A neat trick developed for just that purpose -- the DuPont formula -- can help us do so.
+The DuPont formula can give you a better grasp on exactly where your company is producing its profit, and where it might have a competitive advantage. Named after the company where it was pioneered, the formula breaks down return on equity into three components:
+Return on equity = net margin x asset turnover x leverage ratio
+What makes each of these components important?
+Generally, the higher these numbers, the better. That said, too much debt can sink a company, so beware of companies with very high leverage ratios.
+Let's see what the DuPont formula can tell us about Hess (NYSE: HES) and a few of its sector and industry peers:
+Company
+Return on Equity
+Net Margin
+Asset Turnover
+Leverage Ratio
+Source: S&P Capital IQ.
+Hess posted a lackluster return on equity, with the lowest margin of this group and the lowest leverage. Eni performs slightly better, due largely to more leverage, while BP leads this group of peers by notching the highest numbers in each category. Anadarko's numbers were hurt by a legal settlement of $4 billion, but its asset turnover sits way below peers', which really hurts its relative return on equity.
+Using the DuPont formula can often give you some insight into how a company is competing against peers and what type of strategy it's using to juice return on equity. To find more successful investments, dig deeper than the earnings headlines.
+If you'd like to add these companies to your watchlist, or set up a new one, just click below:
+
+
+
+Before you consider Hess Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Hess Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

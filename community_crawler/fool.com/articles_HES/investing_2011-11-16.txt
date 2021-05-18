@@ -1,0 +1,33 @@
+Although business headlines still tout earnings numbers, many investors have moved past net earnings as a measure of a company's economic output. That's because earnings are very often less trustworthy than cash flow, since earnings are more open to manipulation based on dubious judgment calls.
+Earnings' unreliability is one of the reasons Foolish investors often flip straight past the income statement to check the cash flow statement. In general, by taking a close look at the cash moving in and out of the business, you can better understand whether the last batch of earnings brought money into the company, or merely disguised a cash gusher with a pretty headline.
+Calling all cash flows
+When you are trying to buy the market's best stocks, it's worth checking up on your companies' free cash flow once a quarter or so, to see whether it bears any relationship to the net income in the headlines. That's what we do with this series. Today, we're checking in on Hess (NYSE: HES), whose recent revenue and earnings are plotted below.
+Source: S&P Capital IQ. Data is current as of last fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. FY = fiscal year. TTM = trailing 12 months.
+Over the past 12 months, Hess burned $1,908.0 million cash while it booked net income of $1,892.0 million. That means it burned through all its revenue and more. That doesn't sound so great. FCF is less than net income. Ideally, we'd like to see the opposite. Since a single-company snapshot doesn't offer much context, it always pays to compare that figure to sector and industry peers and competitors, to see how your business stacks up.
+Company
+TTM Revenue
+TTM FCF
+TTM FCF Margin
+Source: S&P Capital IQ. Data is current as of last fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. TTM = trailing 12 months.
+All cash is not equal
+Unfortunately, the cash flow statement isn't immune from nonsense, either. That's why it pays to take a close look at the components of cash flow from operations, to make sure that the cash flows are of high quality. What does that mean? To me, it means they need to be real and replicable in the upcoming quarters, rather than being offset by continual cash outflows that don't appear on the income statement (such as major capital expenditures).
+For instance, cash flow based on cash net income and adjustments for non-cash income-statement expenses (like depreciation) is generally favorable. An increase in cash flow based on stiffing your suppliers (by increasing accounts payable for the short term) or shortchanging Uncle Sam on taxes will come back to bite investors later. The same goes for decreasing accounts receivable; this is good to see, but it's ordinary in recessionary times, and you can only increase collections so much. Finally, adding stock-based compensation expense back to cash flows is questionable when a company hands out a lot of equity to employees and uses cash in later periods to buy back those shares.
+So how does the cash flow at Hess look? Take a peek at the chart below, which flags questionable cash flow sources with a red bar.
+Source: S&P Capital IQ. Data is current as of last fully reported fiscal quarter. Dollar values in millions. TTM = trailing 12 months.
+When I say "questionable cash flow sources," I mean items such as changes in taxes payable, tax benefits from stock options, and asset sales, among others. That's not to say that companies booking these as sources of cash flow are weak, or are engaging in any sort of wrongdoing, or that everything that comes up questionable in my graph is automatically bad news. But whenever a company is getting more than, say, 10% of its cash from operations from these dubious sources, investors ought to make sure to refer to the filings and dig in.
+With 12.2% of operating cash flow coming from questionable sources, Hess investors should take a closer look at the underlying numbers. Within the questionable cash flow figure plotted in the TTM period above, stock-based compensation and related tax benefits provided the biggest boost, at 2% of cash flow from operations. Overall, the biggest drag on FCF came from capital expenditures.
+A Foolish final thought
+Most investors don't keep tabs on their companies' cash flow. I think that's a mistake. If you take the time to read past the headlines and crack a filing now and then, you're in a much better position to spot potential trouble early. Better yet, you'll improve your odds of finding the underappreciated home-run stocks that provide the market's best returns.
+We can help you keep tabs on your companies with My Watchlist, our free, personalized stock tracking service.
+
+
+
+Before you consider Hess Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Hess Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

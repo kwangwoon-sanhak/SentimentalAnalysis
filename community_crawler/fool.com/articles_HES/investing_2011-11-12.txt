@@ -1,0 +1,29 @@
+We'd all like to invest like the legendary Warren Buffett, turning thousands into millions or more. Buffett analyzes companies by calculating return on invested capital (ROIC) to help determine whether a company has an economic moat -- the ability to earn returns on its money above that money's cost. 
+ROIC is perhaps the most important metric in value investing. By determining a company's ROIC, you can see how well it's using the cash you entrust to it and whether it's actually creating value for you. Simply, ROIC divides a company's operating profit by how much investment it took to get that profit. The formula:
+You can get further detail on the nuances of the formula.
+This one-size-fits-all calculation cuts out many of the legal accounting tricks, such as excessive debt, that managers use to boost earnings numbers, and it provides you with an apples-to-apples way to evaluate businesses, even across industries. The higher the ROIC, the more efficiently the company uses capital.
+Ultimately, we're looking for companies that can invest their money at rates that are higher than the cost of capital, which for most businesses is between 8% and 12%. We prefer to see ROIC above 12% at a minimum, along with a history of increasing returns, or at least steady returns, which indicate some durability to the company's economic moat.
+Let's look at Hess (NYSE: HES) and three of its industry peers, to see how efficiently they use cash. Here are the ROIC figures for each company over a few periods.
+Company
+TTM
+1 Year Ago
+3 Years Ago
+5 Years Ago
+Source: S&P Capital IQ.
+*Because BP did not report an effective tax rate, we used its 35% rate for three years ago.
+** Because APC did not report an effective tax rate, we used a 35% effective tax rate.
+Hess' returns on invested capital are lower than they were five years ago and have consistently declined over the past three years. The other companies have also seen declines in their ROIC over the same time period. This correlation shouldn't be so surprising, given the commodity nature of this business.
+Businesses with consistently high ROIC show that they're efficiently using capital. They also have the ability to treat shareholders well, because they can then use their extra cash to pay out dividends to us, buy back shares, or further invest in their franchise. Warren Buffett has long loved healthy and growing dividends -- and you should, too.
+So for more successful investments, dig a little deeper than the earnings headlines to find the company's ROIC. If you'd like, you can add these companies to your Watchlist:
+
+
+
+Before you consider BP p.l.c., you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and BP p.l.c. wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

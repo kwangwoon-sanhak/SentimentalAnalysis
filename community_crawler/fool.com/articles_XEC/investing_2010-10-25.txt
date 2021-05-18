@@ -1,0 +1,33 @@
+Although business headlines still tout earnings numbers, many investors have moved past net earnings as a measure of a company's economic output. That's because earnings are very often less trustworthy than cash flow, since earnings are more open to manipulation based on dubious judgment calls.
+Earnings' unreliability is one of the reasons Foolish investors often flip straight past the income statement to check the cash flow statement. In general, by taking a close look at the cash moving in and out of the business, you can better understand whether the latest batch of earnings brought money into the company, or merely disguised a cash gusher with a pretty headline.
+Calling all cash flows
+When you are trying to buy the market's best stocks, it's worth checking up on your companies' free cash flow (FCF) once a quarter or so, to see whether it bears any relationship to the net income in the headlines. That brings us to EOG Resources (NYSE: EOG), whose recent revenue and earnings are plotted below.
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. FY = fiscal year. TTM = trailing 12 months.
+Over the past 12 months, EOG Resources burned $1,374.9 million in cash on net income of $582.5 million. That's obviously not so great. Still, it always pays to compare that figure with sector and industry peers and competitors, to see how your company stacks up.
+Company
+TTM Revenue
+TTM FCF
+TTM FCF Margin
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. TTM = trailing 12 months.
+All cash is not equal
+Unfortunately, the cash flow statement isn't immune from nonsense, either. That's why it pays to take a close look at the components of cash flow from operations, to make sure that the cash comes from high-quality sources. They need to be real and replicable in the upcoming quarters, rather than being offset by continual cash outflows that don't appear on the income statement (such as major capital expenditures).
+For instance, cash flow based on cash net income and adjustments for non-cash income-statement expenses (like depreciation) is generally favorable. An increase in cash flow based on stiffing your suppliers (by increasing accounts payable) or shortchanging Uncle Sam on taxes will come back to bite investors later. The same goes for decreasing accounts receivable; this is good to see, but it's ordinary in recessionary times, and you can only increase collections so much.
+So how does the cash flow at EOG Resources look? Take a peek at the chart below, which flags questionable cash flow sources with a red bar.
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. TTM = trailing 12 months.
+When I say "questionable cash flow sources," I mean items such as changes in taxes payable, tax benefits from stock options, and asset sales, among others. That's not to say that companies booking these as sources of cash flow are weak, or are engaging in any sort of wrongdoing, or that everything that comes up questionable in my graph is automatically bad news. But whenever a company is getting more than, say, 10% of its cash from operations from these dubious sources, investors ought to make sure to refer to the filings and dig in.
+With 13.6% of operating cash flow coming from questionable sources, EOG Resources investors should take a closer look at the underlying numbers. Within the questionable cash flow figure plotted in the TTM period above, other operating activities (which can include deferred income taxes, pension charges, and other one-off items) provided the biggest boost, at 30.5% of cash flow from operations. Overall, the biggest drag on FCF came from capital expenditures, which consumed all of cash from operations, and more besides. EOG Resources investors may also want to keep an eye on accounts receivable, because the TTM change is 2.1 times greater than the average swing over the past five fiscal years.
+A Foolish final thought
+Most investors don't keep tabs on their companies' cash flow. I think that's a mistake. If you take the time to read past the headlines and crack a filing now and then, you're in a much better position to spot potential trouble early. Better yet, you'll improve your odds of finding the underappreciated home-run stocks that provide the market's best returns.
+We can help you keep tabs on your companies with My Watchlist, our free, personalized stock tracking service.
+
+
+
+Before you consider Devon Energy Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Devon Energy Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
