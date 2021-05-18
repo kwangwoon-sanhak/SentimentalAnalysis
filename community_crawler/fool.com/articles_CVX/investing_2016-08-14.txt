@@ -1,0 +1,26 @@
+Anyone who has invested in oil stocks knows that there is a distinct correlation between an oil stock's performance and crude oil prices. Over the past year, for example, oil stocks as measured by the Energy Select Sector SPDR ETF (NYSEMKT:XLE), which counts big oil giants ExxonMobil (NYSE:XOM) and Chevron (NYSE:CVX) as its two largest holdings, have basically moved in sync with crude oil prices:
+
+XLE DATA BY YCHARTS.
+To understand this correlation, we need to drill down into what moves crude oil and why that moves oil stocks.
+Crude oil prices generally move on the market fundamentals of supply and demand. However, government policies and the financial markets also play a role. When fundamentals are in charge, crude prices will fluctuate based on the market's need, or lack thereof, for more petroleum. If there's a shortage, prices will spike to incentivize producers to increase investments to boost their output. On the other hand, when there is a glut of oil on the market, crude prices will plunge to disincentivize investments in production.  
+Government policies also impact oil prices. OPEC, which is an intergovernmental organization whose mission is to "coordinate and unify the petroleum policies of its Member Countries and ensure the stabilization of oil markets," has had an enormous impact on oil prices over the years. For example, OPEC has coordinated production cuts in the past to prop up the price of crude, and more recently increased output to push down prices so it could control a greater share of the oil market by forcing higher-cost producers out of the market. 
+IMAGE SOURCE: GETTY IMAGES.
+Finally, financial speculators can have a significant impact on the price of oil. According to a paper titled "Speculation in the Oil Market," which looked at the run-up in crude prices leading into the financial crisis, "[S]peculation played a significant role in the oil price increase between 2004 and 2008 and its subsequent collapse." Meanwhile, another research paper went so far as to suggest that 60% of the price was "pure speculation." Backing up those claims is the significant rise in open interest on crude oil futures contracts over the past decade: 
+
+IMAGE SOURCE: EIA.
+Overall, the impact of the financial market on crude prices is growing not only due hedge funds and other speculators pouring into the market, but oil producers are hedging a greater percentage of their volumes to mute some of the volatility and lock in cash flow. 
+The reason more oil producers are hedging their production is due to the impact oil price volatility has on their business. That is because oil prices have a direct bearing on the amount of money oil companies realize per barrel produced, which is what drives their earnings and cash flow. For example, ExxonMobil's first-quarter earnings slumped 63% compared to the year-ago period due to sharply lower oil prices. Meanwhile, Chevron's upstream business lost nearly $1.5 billion in the first quarter after earning $1.6 billion in the year-ago quarter due to a 35% decline in crude oil prices. That financial impact from oil prices is the main reason why the stock prices of ExxonMobil and Chevron are down 8.3% and 19.3%, respectively, over the past two years.
+Aside from the direct impact to earnings, oil prices affect many of the decisions producers make. For example, Chevron cut its capex spending significantly due to lower oil prices. After spending $40 billion in 2014, the company plans to spend $25 billion to $28 billion this year, with spending expected to fall to a range between $17 billion and $22 billion in 2017 and 2018. Because of that, Chevron's production will not grow quite as quickly as it had in the past, which will impact profit growth when prices improve.
+Meanwhile, low oil prices caused ExxonMobil to lose its coveted AAA credit rating, which has the potential to increase borrowing costs. In Exxon's case, its debt doubled in recent years after it outspent cash flow due to elevated capex spending levels amid weak prices. While a credit rating downgrade is not a major issue for a big oil behemoth like Exxon, credit downgrades forced other producers to slash costs and sell assets to stay afloat during the recent downturn.
+Crude prices have a direct effect on oil stocks because they derive their earnings from the amount they realize on each barrel. That is why there's such a distinct correlation in the movement of oil prices and oil stocks. Meanwhile, that impact on cash flow trickles down to influence other things, such as spending levels and credit ratings. Needless to say, crude prices have more effect on oil stocks than any other catalyst.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

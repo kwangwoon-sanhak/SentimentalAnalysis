@@ -1,0 +1,65 @@
+Although we don't believe in timing the market or panicking over daily movements, we do like to keep an eye on market changes -- just in case they're material to our investing thesis.
+The Dow Jones Industrials (DJINDICES:^DJI
+) closed the week on a down note, falling 73 points, to finish the week down about 235 points off its record-high close of 15,658 last Friday. A combination of August-vacation sluggishness in trading, the desire to lock in profits from record share-price gains, and legitimate uncertainty about the economic future in the U.S. and abroad, likely contributed to the week's declines.
+In the oil market, however, prices bucked the downward trend, with West Texas Intermediate prices soaring more than $2.50 per barrel, to close near $106. Brent crude had slightly less-dramatic gains, but finished above $108, as the spread between the two closed to just $2.25 per barrel. The gains for WTI were the first in six days.
+One reason that oil and the stock market moved in different directions has to do with the differing ways in which the two markets interpreted financial news coming from China. Yesterday, Chinese export figures were strong, with gains of 5.1% last month. Today's positive news included a 13.2% gain in retail sales and a 9.7% increase in factory output. That news has certainly affected some U.S. stocks, especially Dow components Caterpillar (NYSE:CAT
+) and Alcoa (NYSE:AA
+), both of which have bucked the downward trend, given their exposure to economic conditions in world markets and China, in particular. Yet, while U.S. stocks, in general, haven't tracked China's economy very closely, the emerging nation's size and energy appetite make conditions there a key driver of oil price movements.
+Perhaps the best indicator of how different China and the U.S. are right now comes from comparing oil and natural gas prices. Natural gas fell to a five-month low of $3.23 per mmBTU today, as cool weather reduced electricity-generation demand, and that weakness might explain part of why Dow energy giants Chevron (NYSE:CVX
+) and ExxonMobil (NYSE:XOM
+) both fell 0.5% today despite the gains in oil prices. Moreover, because natural gas is much harder to transport overseas than oil, the fact that oil is moving in the opposite direction just shows how, despite the global economy, local economic conditions still matter -- and they still get reflected in different markets.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+As the race to export liquefied natural gas, or LNG, from North America heats up, Chevron (NYSE:CVX
+) may be looking to see who else wants to join in. The company recently hinted on its most recent conference call that it might bring in another partner for its Kitimat LNG joint venture with Apache (NASDAQ:APA
+). Costs for these facilities all around the world seem to be going up, so having a third party to bear the brunt of these costs cold be very helpful for Chevron as it looks to make a final investment decision on the facility. 
+If it does decide to bring in a third party to help out with this facility. That company will need to meet certain criteria, and the list is probably not that long. Tune into the video below where Fool.com contributor Tyler Crowe takes a look at what Chevron will probably be looking for, and points out a couple companies that fit the bill.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+Let's face it, big oil is called that for a reason. They're huge companies with thousands of working parts, so trying to track every single well drilled would probably take a whole year. Rather than find yourself buried in a heap of information, here are some key investor takeaways from several integrated majors that should give you a clearer picture of what is going on. 
+Oil prices left a nasty mark
+When Total's (NYSE:TOT
+) 3% drop in adjusted net income year over year is by far and away the best quarter of the integrated majors, you know there were some problems.
+SOURCE: SECOND-QUARTER EARNINGS PRESENTATIONS
+Just about every single company got stung by the same thing: declines in Brent crude prices. All of these companies get more oil from outside the North America, and the decline in demand for Brent has taken a big toll on them because they are all very sensitive to the price of Brent crude. To give an example, Total has stated that every $10 change in Brent prices represents a $1.2 billion swing in adjusted net income. 
+The irony of the whole situation is that the increased prices for domestically sourced crudes hurt these players as well. Both Exxon and Chevron saw declines in refining margins in the U.S. because the narrowed difference between WTI and Brent crude meant that the advantaged crudes in the US weren't as advantaged as they were before. Only BP seemed to have some bright news when it came to refining as it just completed a 250,000 barrel per day upgrade at it's Whiting, Ind., refinery. 
+Production in holding pattern
+All of these companies didn't exactly set the world on fire earnings-wise, so the next logical step is to look at production. Based on the results, there isn't much to gain from these numbers either.  
+SOURCE: INVESTOR PRESENTATIONS
+Even though Chevron had the worst year over year drops in production, there isn't much concern with those numbers. Of the 63,000 barrels per day of production that was lost, 45,000 of those were from scheduled downtime for maintenance and should be coming back up soon. Even Shell's drop in production can be explained as the company's problems with theft, sabotage, and blockades dropped its Nigerian production by 100,000 barrels per day. In fact, if there was something positive to get from these results is that these companies were all able to maintain relatively stable production despite selling off non-core assets.
+For companies of this size, it takes more than a well or two to really move the needle in terms of production, so its the big projects coming down the pipe for every one of these companies that is going to have the deepest impact. The most recent of these projects is the Angola LNG project. The facility just started delivering cargoes of LNG to Brazil at the end of June, so we should see some revenue jumps on the natural gas side from Chevron (35% working interest in project), BP (13.6%), and Total (13.6%) next quarter. Total estimates that the Angola LNG facility will provide a 12% boost to its natural gas sales.  
+Patience for big priojects
+Despite the less than attractive production numbers this past quarter, there are several signs that suggest that big oil is about to get a big boost in production. The Kashagan -- of which Shell, Exxon, and Total each have an 18% stake -- is one of the most anticipated projects to come on line in many years. The super giant oil field holds an estimated 38 billion barrels of oil in place and could be a very long life asset for the companies involved. In fact, almost all of these major projects will affect multiple partners. Gorgon is split between Chevron (47.3%), Exxon (25%), and Shell (25%), and the Mars B offshore project is 71.2% owned by Shell. So, as much as these companies may be competing against each other, their prospects are all tied to the success of the others.
+What a Fool believes
+Investing in big oil takes a very long-term view, because quarters like this past one will happen from time to time. While these kinds of quarters may not be deal breakers, it certainly does expose some of the weaknesses of these companies that are worth taking a look at. Long term, all of these companies have major projects coming on line that should significantly affect revenue and earnings, so be sure to check up on how these companies are doing after start-up.
+
+
+
+Before you consider Royal Dutch Shell plc, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Royal Dutch Shell plc wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

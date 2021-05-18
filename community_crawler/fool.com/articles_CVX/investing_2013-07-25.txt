@@ -1,0 +1,129 @@
+Economic data was neither great nor terrible today, and as a result, the Dow Jones Industrial Average (DJINDICES:^DJI
+) managed to post a winning session as it gained 13 points, or 0.09%, and now sits at 15,555. The S&P 500 and the Nasdaq both also posted winning sessions today, rising much more than the Dow, 0.26% and 0.71% respectively.
+The economic data was last week's unemployment claims of 343,000, which came in higher than the 336,000 the previous week, and the durable-goods orders for June that came in at 4.2%. This number also happened to be lower than the previous reading of 5.2% for May. But economists had expected unemployment claims to hit 342,000 last week, and were only expecting a 2.3% growth in durable goods. Additionally, May's results had been revised from 3.7%, to 5.2%, which likely explains the large difference between the estimates and the actual result. 
+Now, let's take a quick look at three of the components that helped the index move higher.
+Shares of Bank of America (NYSE:BAC
+) rose 0.82% today. Yesterday, the company announced that it would be adding two new board members: Pierre de Weck, who was Chairman and Global Head of Private Wealth Management of Deutsche Bank as well as holding senior executive spots at Citicorp and UBS, and Clayton Rose, a former executive of JPMorgan, who now works as a Professor of Management Practice at the Harvard Business School. Bank of America's board will now be comprised of 15 members, and adds to an already strong diverse board. My colleague Erik Volkman commented earlier today that he felt yesterday's announcement may be causing today's move. I agree with him, and feel that, with a larger more diverse board, the bank should have a better chance of steering clear from future financially poor decisions.
+On less than usual volume, shares of Chevron (NYSE:CVX
+) rose 1.1% today. Less than 4.5 million shares of the oil giant traded hands today while the average three-month volume is just below 6.1 million shares. The low volume may have played a role in the stock moving higher today as there were likely more buyers than sellers. This idea shouldn't seem too far-fetched, as the stock is still trading for less than 10 times price to earnings, and paying a 3.2% dividend yield at a time when we haven't seen oil make any significant moves lower since the middle of April. Lastly, the stock likely was under buying pressure today after the announcement that China's energy needs will double that of the U.S.'s by 2040. 
+Finally, shares of Merck (NYSE:MRK
+) increased by 0.84% today on mixed news. The company announced that it would maintain its current quarterly dividend of $0.43 per share for another quarter, but Forbes is reporting that, based on the most recent data which comes as of July 15, 2013, Merck is now the most-shorted Dow component, overtaking Intel. Despite the large short interest, the announcement that the drug company will maintain its current dividend was enough to help move shares higher, as Merck only experienced slightly more than half its average trading volume, 10 million shares, while the three-month average is 18 million. But, as for Merck, that number is likely distorted to the high end due to a few extremely high-volume days back on June 7, 10, and 11. During those three days, an average of 50 million shares trading hands.
+More foolish insight
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Today, markets balanced encouraging data showing an increase in durable goods orders with the fact that those same data could contribute to a slowdown in quantitative easing. While June orders for automobiles and machinery jumped more than 4%, easily exceeding expectations for the month, Wall Street was hesitant to bid stocks up too much. The more signs of a growing economy manifest themselves, the more likely the Federal Reserve is to ease back on loose money policies. Not quite sure how to feel, the Dow Jones Industrial Average (DJINDICES:^DJI
+) tacked on 13 points, or 0.1%, ending at 15,555.
+Chevron (NYSE:CVX
+) led all gainers in the index, adding 1.1% on the third straight month of increasing durable goods orders. With a trend like this establishing itself, Chevron investors took it as a bullish sign, as increasing manufacturing demand is seen as an indication of rising future energy consumption. With Treasury yields also falling today, the company's 3.2% dividend looks more appealing to income investors. 
+McDonald's (NYSE:MCD
+), which offers a 3.1% annual payout of its own, gained 0.9% Thursday after a three-day decline following disappointing quarterly results. While its most recent quarter may not have blown anyone away, the company's signature golden arches is one of the most recognized corporate images in the world, and that isn't likely to change anytime soon. While it's true that consumers are increasingly health conscious, the fast-food restaurant is taking steps to cater to that crowd as well while remaining cheap. 
+Though you'd think today's news about a resurgent industrial environment in the U.S. would boost shares in Caterpillar (NYSE:CAT
+), a leading provider of manufacturing equipment across the world, the stock actually lost 1.6% Thursday. That's because the company cut its earnings forecast yesterday on dwindling growth in Chinese industry as commodities prices remain low. With 69% of the company's revenue coming from overseas, the health of U.S. industry isn't quite as important for Caterpillar as it is for other blue chips.
+Lastly, Microsoft (NASDAQ:MSFT
+) shed 1.8% today, despite little in the way of groundbreaking news. Shares have been drifting up and down ever since reporting an abysmal quarter last Friday, when shares fell more than 11%, its largest single-day loss since 2009. Investors are still waiting to see real progress in the mobile device market, a booming area the company has yet to fully take advantage of. Wall Street is also eagerly anticipating the reception of the Xbox One gaming console, set for release in November. 
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+For many casual investors, knowing that the Dow Jones Industrials (DJINDICES:^DJI
+) are down 18 points as of 2:45 p.m. EDT this afternoon is enough to satisfy their curiosity. As earnings season continues, surprises in companies' results have pushed the markets up and down from one day to the next. Today, weakness in the construction and infrastructure sector and concerns about whether the housing market can keep up the rapid growth it has enjoyed over the past year are pressuring some of the Dow's key component stocks.
+But in order to get a complete picture of what's happening in the markets, it's important to pay attention to other types of investments as well. For instance, bond prices are moving somewhat lower today, pushing yields up as auctions of seven-year Treasury notes offer the highest yields in two years. Those rising yields tend to signal increases in mortgage interest rates as well, and if rising mortgage rates spur declines in refinancing and new-home purchase financing activity, it could spell trouble for big banks both within and outside the Dow that have come to rely on housing-related income for a substantial part of their earnings.
+Meanwhile, crude oil is very slightly higher, with domestic West Texas Intermediate climbing less than a dime to about $105.50 and Brent crude prices rising about $0.50 to $107.70. Rising prices have been important in helping push Dow energy giants ExxonMobil (NYSE:XOM
+) and Chevron (NYSE:CVX
+) toward all-time highs, but because both of these companies have integrated operations that include production, transportation, refining, and marketing, the influence of the spread between WTI and Brent prices is less extreme, as it simply changes the relative profitability of segments within each business. For energy companies that focus on particular areas, be they upstream exploration and production activity or downstream refining operations, those narrowing spreads have favored upstream over downstream players lately, as refiners have gotten less of a price advantage than in the past from what had been higher discounts for domestic crude inputs.
+Finally, the U.S. dollar finished weaker against the euro and the British pound but strengthened against the Japanese yen. During this earnings season, we've seen many companies struggle due to the impact of the strong dollar on the value of their foreign revenue and earnings. For instance, Caterpillar (NYSE:CAT
+) cited what it called a "substantial currency headwind" in its second quarter that weighed on its disappointing results. The company doesn't expect a recurrence of the $134 million in currency-translation and hedging losses it suffered during the quarter, but investors should keep an eye on currency movements and weigh their potential impact on earnings.
+Watching the Dow is smart, but following other markets as well is smarter. That way, you'll get a broader view of what's going on in the financial world and be able to spot trends more quickly than less attentive investors.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+The Dow Jones Industrial Average (DJINDICES:^DJI
+) has bounced back from this morning's steep losses, down a negligible seven points as of 2:20 p.m. EDT. Stocks are split between risers and fallers, but few of the Dow's members are posting big moves on this sleepy day on Wall Street. Let's check out the top stories around the Dow.
+Caterpillar's (NYSE:CAT
+) still feeling the fallout of the poor earnings it reported earlier this week. The manufacturing stock is 2% so far to lead the Dow lower. Low prices for many raw materials continue to weigh on the mining sector, where Caterpillar is one of the industry leaders. That business saw disappointment weigh on the company's overall earnings, which fell 43% for the quarter.
+It's a messy situation for Caterpillar looking forward. China, formerly the company's hope as a major growth area for the future, is struggling through an economic slowdown that will continue to stifle infrastructure spending. Caterpillar's leadership is still bullish on China's prospects, but there's little doubt that the country's economy has fallen sharply off its pace from just a few years ago. China's still growing faster than most major economies, but the days of double-digit growth are done.
+Home Depot's (NYSE:HD
+) also having a bad day, with the retailer's stock down 2.2%. This home improvement giant is tied heavily to the rebounding housing industry, which has helped propel shares up more than 26% year to date. However, when that industry takes a hit, Home Depot can often fall -- and today's drop is a prime example. Two homebuilders reported lower-than-expected orders in a pair of weak earnings reports today, weighing on Home Depot's stock as some investors have decided to take their profits and dump their shares.
+Profit-taking's also a culprit, considering how well this stock has done in 2013: Its year-to-date gains are about 8 percentage points higher than the S&P 500's (SNPINDEX:^GSPC
+). Mortgage rates have swung higher lately, and the trend will likely impact Home Depot's shares in the near future. However, so long as the housing market continues its steady climb from the depths of the 2008 crisis, Home Depot should have a clear path to success.
+Finally, Chevron's (NYSE:CVX
+) among the Dow's best today, with shares gaining about 0.7%. The oil giant recently inked around $845 million worth of contracts for energy development in the North Sea. The North Sea has become a hot spot for energy development in recent years, and Chevron's particularly interested in the Rosebank oil and gas field where it discovered oil back in 2004. The company won't make a final decision on whether to fully develop the plot until next year, however.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+A midday rally has pushed the Dow Jones Industrial Average (DJINDICES:^DJI
+) back to breakeven after the index started the day in the red due to some mixed reports on the U.S. economy. As of 1:25 p.m. EDT the Dow is flat, while the S&P 500 (SNPINDEX:^GSPC
+) is up a mere 0.1%.
+There were two U.S. economic releases today.
+Report
+Period
+Results
+Previous
+New unemployment claims
+July 13-July 20
+343,000
+336,000
+Durable-goods orders
+June
+4.2%
+5.2%
+New unemployment claims were up 7,000 last week to a seasonally adjusted 343,000, right in line with analyst expectations of 342,000. The small rise brings the less volatile four-week moving average down by 1,250 to 345,250.
+
+US INITIAL CLAIMS FOR UNEMPLOYMENT INSURANCE DATA BY YCHARTS.
+New unemployment claims continue to average below last year's level of 360,000 to 370,000, indicating a slowly strengthening economy.
+The other economic release today was the durable-goods orders report. The Department of Commerce revised May's report upward from 3.7% growth to 5.2% growth. June's durable-goods orders rose 4.2%, far above analyst expectations of 2.3% growth. The downside to the report, however, is that if you exclude the transportation sector, durable-goods orders were unchanged from May. The transportation sector's results can be highly volatile, so it's good to consider durable-goods orders ex-transportation. Both for the whole economy and for the transportation sector, shipments were unchanged, so in the transportation sector, at least, the second half of the year may see stronger manufacturing activity in the U.S. than in the first half of the year.
+Today's worst Dow stock is Home Depot (NYSE:HD
+), down 2.1% after homebuilders Pulte and D.R. Horton both reported disappointing earnings results. The stocks are down about 12% and 9%, respectively, after the companies reported lower-than-expected orders and home deliveries. The disappointing results are weighing on Home Depot, whose stock has been bid up on hopes of a resurgent housing market. Given the recent rise in mortgage rates, investors are worried that the housing market will stumble, and these results give some credence to that view. It remains to be seen whether the rise in rates has created a buying opportunity or the housing market has peaked in the short run.
+Today's Dow leader is Chevron (NYSE:CVX
+), up 1%. Chevron is benefiting from the relatively high price of oil around the world. The past few months have seen the spread between WTI crude and Brent crude finally close from the highs hit the past few years.
+
+WTI CRUDE OIL SPOT PRICE DATA BY YCHARTS.
+Chevron has been actively searching for new opportunities, and it recently signed a joint development agreement with Argentina's newly nationalized oil company YPF. Fool analyst Sean Williams recently rained praise on Chevron CEO John Watson, who, since taking the reins in 2010, has led the company to an 81% gain from shareholder-friendly capital-allocation decisions, including buybacks and dividend increases.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

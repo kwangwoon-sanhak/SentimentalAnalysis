@@ -1,0 +1,27 @@
+After trading quietly during the first hour of the day, the Dow Jones Industrials (DJINDICES:^DJI
+) have fallen into the red, down 83 points, or 0.55%, as of 12:15 p.m. EDT. With investors anxiously awaiting news from the Federal Reserve next week, economic releases like this morning's Producer Price Index report take on added significance. Let's take a closer look at the PPI report and what it potentially means.
+PPI rises
+The Producer Price Index measures changes in prices that manufacturers initially receive for goods and services, typically from other businesses. That distinguishes it from the Consumer Price Index, which reflects retail cost inflation. Because retailers try to pass costs on to consumers as soon as possible, the PPI can provide hints on future trends for the CPI.
+The headline number for PPI looked alarming, as a 0.5% increase in the index in May was well above the 0.1% to 0.2% rise economists were looking for. But beyond the headline number are some important details. In May, food and energy price increases were largely responsible for the PPI's gains; the core PPI rose just 0.1% for the month. Moreover, with the PPI having fallen sharply in each of the past two months, the year-over-year rise in the index is just 1.7%, suggesting inflation in check.
+Most PPI analysis focuses on finished goods, which are the furthest-advanced in the supply chain. But figures on intermediate and crude goods paint a different picture: Over the past year, intermediate-goods prices have dropped 0.2%, but crude-goods prices have skyrocketed 7.6%. In particular, the energy component of crude goods has driven those gains throughout the past year, with the crude-petroleum subcomponent index rising 5.5% in May alone.
+What the PPI is pointing to
+A long-term fear among investors is that accommodative Fed policies will eventually create high levels of inflation. So far, the PPI suggests that this trend hasn't materialized and isn't likely to in the near future, so the Fed seems to have the flexibility to handle monetary policy however it sees fit from an inflationary standpoint.
+Drilling down on individual sectors, though, the impact of strengthening energy prices could point to a recovery for the sector. Dow energy giants ExxonMobil (NYSE:XOM
+) and Chevron (NYSE:CVX
+) are less sensitive to changing conditions in the energy sector, as both are integrated companies whose underlying segments often cancel each other out in whole-company results. For instance, when oil prices have fallen in the recent past, Exxon and Chevron would see declining revenue from their exploration and production segments but rising profit in their refining operations. The companies are more sensitive to factors like production volume -- Chevron has done a better job than Exxon of finding new prospects and promising oil-field plays to replace lost production at aging wells.
+For smaller companies, though, those dynamics are more important. Rising natural-gas prices should help producers enhance their profits and drive more investment into the nat-gas industry again, boding well for the energy services companies that make natural-gas production possible. Investors are clearly excited, as the Energy Select Sector SPDR (NYSEMKT:XLE
+) has hit new five-year highs just within the past month, and if those trends continue, then energy should have more room to run.
+Watch prices
+Despite stable current conditions, price levels remain an essential part of the Fed's calculus in determining its course for interest rates. Watching reports like the PPI closely will help you stay informed of trends that could lead the Fed to change course suddenly, and that advance notice could prevent nasty surprises in your portfolio.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

@@ -1,0 +1,28 @@
+Bulls have pulled out all the stops, and the stock market has responded by moving to multiyear highs. Last week's move from the European Central Bank to address the sovereign-debt crisis by setting up a framework for buying government bonds had exactly the effect it intended: European stocks soared, and the rest of the world followed in its optimism that at least one of the global macroeconomic stresses that has plagued investors may disappear in the near term. As a result, the Dow Jones Industrials (INDEX: ^DJI) gained more than 250 points in the last two days of the week.
+As you'd expect, though, with the market at fairly lofty levels, some investors are concerned that stocks are getting too expensive. After a three-and-a-half year run during which the Dow has doubled -- even before considering dividends -- many of those who held through the market meltdown have earned back all the money they lost in the 2008 bear market. But while earnings have also improved, you have to look closely at whether they've improved enough to justify such a massive rise in stock prices.
+Looking for bargains
+That's why I decided to take a look at the Dow's 30 components to try to identify which stocks are priced for perfection and which ones still have more room to run. Today, we'll look at the stocks with valuations and fundamentals that suggest they could sustain their bull-market rallies a little bit longer.
+The most obvious candidates to look at are the oil stocks in the Dow, Chevron (NYSE: CVX) and ExxonMobil (NYSE: XOM). Both have very attractive trailing earnings multiples of less than 10.
+Unlike most businesses, though, Chevron and Exxon have earnings that can be very volatile. Because so much of their revenue is determined by the prevailing price of oil, natural gas, and other energy products they make, using trailing P/E ratios can be extremely misleading. In particular, when energy prices move quickly, the effect on future earnings is immediate, but it takes a while for that to show up in quarterly reports.
+Looking forward provides some context. According to figures from Yahoo! Finance, analysts expect earnings per share at Exxon to drop by about 9% in 2012 from the previous year. Moreover, even 2013's expected 5% rise in EPS won't get earnings back to their 2011 levels. Analysts see Chevron taking an even longer earnings pause, with declines coming in both 2012 and 2013 amounting to about 6% in total.
+Using forward earnings, therefore, gives you higher multiples -- a somewhat unusual situation. Yet those estimates are only as good as people's guesses about energy prices in the future. If the latest stimulus attempts actually bear fruit, then a recovery in economic activity could boost energy demand and send oil prices back above the $100 level, in turn pushing those earnings estimates right back up again.
+Banking on profits
+The other area that looks dirt cheap from an earnings perspective right now are financials. Both Bank of America (NYSE: BAC) and JPMorgan Chase (NYSE: JPM) have single-digit trailing earnings multiples right now, despite some pretty impressive gains in the wake of the ECB's move last week.
+Here, the situation is quite different from conditions in the oil patch. Both B of A and JPMorgan are on solid earnings growth trajectories, with analysts looking for substantial gains in earnings per share both this year and next.
+But the cheap valuation of these stocks stems in large part from uncertainty about the future. In particular, B of A trades at such a colossal discount to its tangible book value that its current share price implies tens of billions of dollars in losses in the near future. Despite massive settlement payments and some big losses that B of A has already incurred, the bank still faces well over $100 billion in mortgage loans that are in default or past due by at least 180 days.
+In addition, some bank earnings represent one-time gains. For instance, JPMorgan offset losses from its London Whale trading scandal during the second quarter by taking gains on securities as well as reducing loan loss reserves. Even many experienced investors believe that the banks are so complex that trying to analyze financial statements is a hopeless task. Still, a full recovery for the banking sector would leave plenty of room for these stocks to run.
+Get good value
+Appearances can be deceiving, especially when you rely on a single measure of value in your analysis. Although these four stocks have low P/E ratios, you really need to dig deeper to make sure they'll give you the value you deserve. For the oil giants, your position on future energy prices will determine whether you're bullish or bearish. For the banks, you need to be comfortable with their balance sheets and potential future losses before you'll buy them even at these levels.
+Getting help in formulating those opinions is a smart move. For Bank of America, our top financial analysts have looked at those tough questions and come up with some convincing arguments. Learn all about them in this premium report on Bank of America. You'll get a year's worth of updates as the bank releases more data. Check it out today.
+
+
+
+Before you consider JPMorgan Chase & Co., you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and JPMorgan Chase & Co. wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

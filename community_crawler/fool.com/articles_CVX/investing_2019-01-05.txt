@@ -1,0 +1,55 @@
+The Dow Jones Industrials (DJINDICES:^DJI) suffered a loss in 2018, surprising investors who've gotten used to sustained gains during a long bull market. Coming into 2019, market participants are more nervous than ever, and they're looking for ways to protect themselves with strategies that take a more defensive stance toward the market.
+Dividend investing is a time-honored way to invest conservatively, getting regular income that can help you offset share-price losses during bear markets. One popular strategy, known as the Dogs of the Dow, has investors buy a small but diversified set of stocks at the beginning of each year and then hang onto them until year-end. Here are the stocks that made the list for the 2019 Dogs of the Dow, along with guidance on how to use the strategy in your portfolio.
+Stock
+Dividend Yield
+Rank in 2018
+IBM (NYSE:IBM)
+5.52%
+2
+ExxonMobil (NYSE:XOM)
+4.81%
+4
+Verizon
+4.29%
+1
+Chevron (NYSE:CVX)
+4.12%
+5
+Pfizer
+3.30%
+3
+Coca-Cola
+3.29%
+7
+JPMorgan Chase (NYSE:JPM)
+3.28%
+-
+Procter & Gamble
+3.12%
+9
+Cisco Systems
+3.05%
+8
+Merck
+2.88%
+6
+SOURCE: YAHOO! FINANCE.
+The stocks that make up the Dogs of the Dow tend to change every year, because the relative dividend yields of the 30 stocks in the Dow move up and down over time. Most Dow stocks offer dividend hikes to their shareholders regularly, and the changes in stock prices also have an impact on yield. Often, it's the best performers that move off the Dogs list, making room for weaker stocks that have seen their yields rise disproportionately.
+Yet in 2018, that phenomenon didn't really assert itself. The only change came as a result of the removal of General Electric from the Dow Jones Industrials, making room for an additional stock. Technically, that gave Merck the opportunity to stay in the Dogs in the No. 10 spot. But the new stock on the list is banking giant JPMorgan Chase.
+IMAGE SOURCE: GETTY IMAGES.
+Financial stocks generally did poorly in 2018, and JPMorgan was no exception, seeing its stock fall about 9%. Early in the year, rising interest rates had boosted prospects for banks, but the end-of-year swoon in the stock market raised questions about whether the Federal Reserve would pause in its series of rate hikes. A flat yield curve put pressure on interest margin levels for JPMorgan's retail banking operations, and challenges on the investment side of the business also created uncertainty.
+Yet what really got JPMorgan into the Dogs was a huge dividend increase. The bank declared an $0.80-per-share dividend in September, up 43% from its prior $0.56-per-share quarterly payment. That move by itself added almost a full percentage point to JPMorgan's yield, putting it in position to join the Dogs at the beginning of 2019.
+Even though the other stocks in the Dogs stayed the same, their order changed. Verizon gave up its top spot for the first time in a while, making room for struggling IBM. Big Blue has gone through numerous challenges in recent years, and the declining stock price has sent its yield up to precipitous levels. The tech giant has made a big bet on cloud computing by aiming to acquire Red Hat, but it's not yet certain whether that will be enough to reverse the revenue weakness that IBM's core businesses have suffered lately. Even a substantial rebound would likely leave IBM at the top of the Dogs list for a long time to come.
+Meanwhile, weakness in the energy arena sent oil stocks closer to the top of the list as well. Crude prices plunged in November and December, and even giants like ExxonMobil and Chevron felt the pinch. Some have questioned whether the major integrated oil companies would be able to sustain dividend levels if energy prices remained low, but so far, neither Exxon nor Chevron has signaled a reversal of its capital allocation strategy. Nevertheless, investors should keep watching the two energy giants closely to see how they respond to the latest price declines.
+After a poor performance in 2017, the Dogs returned to their winning ways in 2018. The strategy didn't manage to produce a profit -- almost entirely because of GE's losses -- but it still lost less money than the overall Dow did. That gives the strategy seven wins in the past nine years, although going back further, the Dogs have seen a more evenly mixed set of results.
+For 2019, a lot will depend on how IBM behaves. If Big Blue can rebound, it'd make a big impact on the Dogs' overall return. In addition, just like last year, strong concentrations in energy and pharmaceutical stocks will put a premium on good performance in those sectors. It'll be interesting to see whether the overall market bounces back -- and if so, whether it outpaces the Dogs or follows in their footsteps.
+Check out the latest IBM, JPMorgan Chase, Chevron, and ExxonMobil earnings call transcripts.
+
+
+
+Before you consider International Business Machines Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and International Business Machines Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021

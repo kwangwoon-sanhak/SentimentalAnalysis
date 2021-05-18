@@ -1,0 +1,67 @@
+IMAGE: PIXABAY.
+2015 wasn't a very remarkable year for the Dow Jones Industrials (DJINDICES:^DJI
+), which closed the year down more than 2% and weren't able to show a gain even after including dividends in the calculation. Part of the problem was that many stocks held the Dow back, with nearly half of the Dow 30 losing ground and with the worst five performers all losing 14% or more. Below, you'll learn more about the Dow's five biggest losers in 2015.
+United Technologies (NYSE:RTX
+), down 14%
+United Technologies came into 2015 in apparently great shape, riding the strength in the aerospace industry to new heights. But a decision to sell its Sikorsky helicopter division didn't turn out the way that many had hoped, as the deal appeared to benefit the buyer more than it helped United Technologies. The conglomerate is working to restructure itself with a new CEO at the helm, but weak conditions in many of its global market have cost it sales in its Otis elevator segment. Moreover, with weaker-than-expected commercial aftermarket sales of aerospace products, United Technologies disappointed investors looking for quicker results. Looking ahead, investors hope that the company will be able to accelerate its turnaround in 2016.
+Chevron (NYSE:CVX
+), down 16%
+Chevron's woes in 2015 were obvious to anyone who followed the financial markets, as the plunge in oil prices hurt the integrated oil company. Chevron responded by choosing not to make its traditional annual dividend increase, raising concerns that the oil giant could lose its status as a Dividend Aristocrat if crude doesn't recover. Moreover, delays in its key liquefied natural gas project in Australia have also threatened a key source of potential future growth. Until energy turns around, it'll be hard for Chevron shares to recover.
+Caterpillar (NYSE:CAT
+), down 23%
+Another casualty of energy was Caterpillar, whose heavy equipment sales once again posted big declines. Ongoing weakness in construction and infrastructure activity started Caterpillar's difficulties, and falling commodity prices in metals exacerbated the declines. With energy's drop, just about all of Caterpillar's key customer segments are down and out, and that has put a lot of pressure on the heavy-equipment manufacturer. The only good news is that once pent-up demand starts getting filled again, Caterpillar has plenty of room to bounce back. The question is when that will happen, and it could take longer than investors want.
+American Express (NYSE:AXP
+), down 24%
+American Express took a big hit early in the year, when major corporate-branded partner Costco said it would shift its credit card relationship away from the card giant. The move raised questions about American Express' staying power in the industry, because increasing competition has given the most valuable merchants more bargaining power in making deals with card-network providers and issuing financial institutions. To recover, American Express will need affluent shoppers to start spending again, and that could take a turnaround in global markets and a weakening U.S. dollar to execute completely.
+Wal-Mart (NYSE:WMT
+), down 27%
+The worst performer in the Dow was Wal-Mart, which faced a host of issues in 2015. Soaring labor costs resulted from the retailer's status as the favorite target for labor activists seeking higher wages, with Wal-Mart finally agreeing to pay a minimum wage of $9 per hour, which will rise to $10 in February. In addition, Wal-Mart expects to boost its spending on e-commerce development dramatically to fend off competition from its key online rival. Yet with these higher expenses, Wal-Mart still isn't seeing the growth that investors want. It could take years for the retailer to execute its long-range strategy, and there's no guarantee that the brick-and-mortar giant will succeed in its attempts.
+Investors didn't do well by investing in the Dow, and these stocks were largely to blame. These five companies can teach you the valuable lesson that even blue-chip stocks can post big losses and that you have to work hard to avoid what can become substantial declines for your portfolio.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Energy markets continue to deteriorate, with oil prices falling below $30 to close the week of Friday, Jan. 15. And while this will likely lead to further bloodletting when trading commences on Monday, the relative strength of Big Oil companies such as ExxonMobil Corporation (NYSE:XOM
+), Chevron Corporation (NYSE:CVX
+), and Phillips 66 (NYSE:PSX
+) helped iShares Dow Jones US Energy Sector (ETF) (NYSEMKT:IYE
+) finish the week nearly flat, while both the S&P 500 and the Dow Jones Industrials indices fell more than 2%:
+
+IYE DATA BY YCHARTS
+Why big oil helped this ETF 
+There wasn't any material news about ExxonMobil, Chevron, or Phillips 66 this week to explain why their stocks went up. All three have been beaten up pretty soundly since early November:
+
+XOM DATA BY YCHARTS
+Since all three are very high-quality businesses, it was inevitable that at some point, their shares would recover, at least somewhat. And while both ExxonMobil and Chevron have exposure to commodity prices from their oil & gas production businesses, their refining, marketing, and petrochemicals segments continue to produce sustained profits. At the same time, Phillips 66 is a buyer of oil and natural gas, not a producer at all, and actually benefits from cheaper natural gas in its chemicals business, while lower revenues in its oil refining business are offset by lower oil prices. 
+The strength of these non-drilling businesses is one of the drivers behind this week's stock gains for the group.
+There's more to it -- the following chart gives some context on these businesses:
+
+XOM EPS DILUTED (TTM) DATA BY YCHARTS
+Cash from operations has performed better than net income for all three of these companies over the oil price decline. This is especially important for Chevron and ExxonMobil, since much of their asset values is tied to their oil and gas holdings. When oil prices fall as they have over the past 19 months, oil companies must write down the value of their reserves, and take those writedowns as losses.
+But since these are non-cash charges, they don't really impact operations directly, though if commodity prices stay down, they will mean lower realized prices when oil is produced and sold. Hence a writedown in the value. This works in the inverse when prices rise sharply. 
+The point? Cash flows and GAAP earnings should both be considered when talking about oil companies. 
+Bounce-back from big oil may not last 
+It's not clear how the market will react when trading starts up next week, but with Brent crude futures closing at $29.67 -- a level it hasn't seen since 2004 -- things could get uglier. Combined fears of the global economy becoming weaker, and an already oversupplied oil market potentially having to absorb another 500,000 barrels per day from Iran in coming weeks, could push oil prices down even more in days and weeks to come. Or this could be the bottom. The reality is, the short-term is anyone's guess.
+But at some point, the run of uncertainty will come to a halt. U.S. producers have been laying down drilling rigs for more than a year, and it's expected that domestic oil production will fall in 2016. At the same time, offshore exploration this year is expected to be at the lowest level in years. But until these activities begin reducing the supply imbalance, negativity will rule the markets. 
+Looking ahead: Patience will win the day
+This week's surge by Big Oil may have been one part flight to safety, one part value play, but there's no way of knowing what next week (or month) will bring. 
+But at some point the oil market will find balance again. And when it does, rest assured that not only will the three companies mentioned bounce back strongly, but so will the Dow Jones US Energy Sector ETF. For the time being, investors in the energy sector need to remain patient, and willing to ride out even more selling. 
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

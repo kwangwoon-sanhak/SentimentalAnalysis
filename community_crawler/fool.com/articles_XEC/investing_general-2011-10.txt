@@ -1,0 +1,51 @@
+Investors expect good returns. The more cash you get back for the amount you invested, the better your investment is. Same is true for the company you invest in. So how do we find out whether a business is capable of generating superior returns?
+The metric that matters: return on invested capital
+Growing bottom lines do not always guarantee good returns. More than earnings growth itself, it pays to find out how much has been invested into the business in order to generate that growth. This is where return on invested capital comes into play.
+ROIC looks at earnings power relative to how much capital is tied up in a business. While a company's earnings may register growth, the return on invested capital might be declining. In other words, for every dollar of income generated, the company has to plow in more and more cash into the business over time. This is a warning sign. Unfortunately, investors fall into the trap of putting cash into companies that venture into less profitable projects. The result: It requires more cash for the company to generate the same returns.
+Oil and gas companies have been through some tough times in the last five years. Volatility in energy prices has played a role in causing fluctuating bottom lines. But the fact is these companies have sunk a lot of cash into investments by raising debt and equity. Therefore, it makes more economic sense to find out whether these investments are generating returns that investors expect. Today, we will see how Cimarex Energy (NYSE: XEC) stacks up in this regard.
+This is how invested capital, operating income, and ROIC stack up for the past six years:
+
+Source: S&P Capital IQ. ROIC is author's calculation. All data presented here is for a 12-month period, ending June 30 of the corresponding year.
+Returns on invested capital have been pretty stable, except for 2009. Returns did drop a little in the last 12 months, but Cimarex still seems to be in growth mode. Still, management should work harder to increase shareholder returns.
+In terms of competition, this is how Cimarex stacks up:
+Company
+Return on Invested Capital
+(TTM)
+Return on Equity
+(TTM)
+Cimarex Energy
+11.1%
+20.2%
+Denbury Resources
+(NYSE: DNR)
+5.2%
+5.9%
+Enerplus
+(NYSE: ERF)
+4.2%
+13.9%
+Baytex Energy
+(NYSE: BTE)
+7.4%
+9.1%
+Source: S&P Capital IQ; ROIC is author's calculation.
+Compared to its peers, Cimarex's returns look the best.
+What's the return compared to the cost?
+Unfortunately, ROIC alone can't tell you how well a company is operating. Invested capital comes at a cost. Investors should check whether returns on invested capital exceed that cost. The weighted average cost of capital tells us exactly that since both debt and equity are used for financing operations. Debt to equity currently stands at 12.1%.
+Cimarex's after-tax interest expense or cost of debt stands at $4.6 million for the trailing-12-month period, which is less than 2% of its total debt. Expecting a 12% return from equity (beating the S&P 500's average 10% average historical return) is a fair expectation for this company given the risks involved in the shale plays and the natural gas market.
+Using this data, WACC adds up to 10.7%. This is less than the ROIC of 11.1%, which is what I'm looking for. Cimarex has been able to build on shareholder value -- albeit marginally. The company has been investing in projects that generate returns that are above the rate investors expect.
+Foolish bottom line
+Exploration and production companies have sunk a lot of cash into investments during the past few years on which they have yet to fully realize gains. Management expects a 3%-8% growth in production in 2011. With capital expenditures of about $1.3 billion this year, a high return may not be feasible. Still, investors can avoid possible pitfalls by finding out whether the company is capable of growing economically.
+Add Cimarex Energy to My Watchlist.
+
+
+
+Before you consider Cimarex Energy Co., you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Cimarex Energy Co. wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

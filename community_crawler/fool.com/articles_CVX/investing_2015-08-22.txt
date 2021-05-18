@@ -1,0 +1,63 @@
+
+DRILLING FOR VALUE IN THE ENERGY PATCH? DON'T LOOK HERE. IMAGE SOURCE: BP.
+With the oil price recorrecting over the past month, investors are taking another look at the sector in search of value. But value is actually getting tougher to find because no one has any clue where the oil price will go over the next week, let alone the next few years. That said, some oil-related companies are still trading as if higher oil prices are on the horizon. However, these could very well be value traps instead of value stocks, as they're actually overvalued if oil really does stay lower for longer. Here are three that our energy analysts think are overvalued if $40 oil is the new normal. 
+Tyler Crowe: When looking at oil and gas equipment providers, one thing that makes me nervous is when a company has a lot of legacy assets on the books that impede profitability. That is part of the reason I think Nabors Industries (NYSE:NBR
+) is overvalued today despite the 58% decline in share price over the past year.
+Since commodity prices can swing so much and impact the profitability of a company, looking at financial metrics like price-to-earnings might not be the most accurate measurement. A better one to consider is price-to-tangible book value. On the surface, Nabors doesn't really look overvalued when compared to its peers.
+Company
+Price-to-Tangible Book Value
+Nabors Industries
+0.7x
+Helmerich & Payne
+1.2x
+Patterson-UTI Energy
+0.9x
+SOURCE: S&P CAPITAL IQ.
+This is a little misleading, though, because Nabors has a large legacy fleet of rigs, many of which aren't even in service. In fact, its legacy fleet of land rigs this past quarter had a utilization rate of just 14%. As those rigs are scrapped, the company will likely take some asset impairment charges that will decrease the book value of the company.
+Plus, Nabors' profitability just doesn't hold up to that of its peers. Even though it is able to keep pace with Helmerich & Payne and Patterson-UTI in terms of EBITDA margins, its larger debt load weighs heavily on the company's net income margins.
+Company
+Net Income Margin
+Debt-to-Capital Ratio
+Total Debt to EBITDA
+Nabors
+(11.9%)
+43.2%
+2.4x
+Helmerich & Payne
+17%
+10%
+0.4x
+Patterson-UTI Energy
+2.2%
+23.3%
+1.0x
+SOURCE: S&P CAPITAL IQ.
+As its competitors have greater financial flexibility to invest in new rigs that meet the needs of today's more advanced drilling operations, Nabors will need to focus more on managing its debt load. If I'm looking at investing in this space today, it just seems that Nabors is overvalued compared to its peers, despite what the numbers say.
+Jason Hall: As beaten-down as many oil and gas companies are right now, I think there are some great values. With that said, there are probably even more value traps. It's looking like integrated major Chevron (NYSE:CVX
+) is potentially overvalued, even after having seen its stock fall some 30% since July 2014:
+
+I know what you're thinking: Integrated majors are supposed to be the safest investments when oil prices are down, since they can benefit from cheap oil in other parts of the business. And while that's true, it's looking like -- as the much-smarter-than-me Tyler Crowe pointed out -- Chevron's exposure to oil production is hurting it much more than its other segments are helping.
+And oil prices aren't exactly getting better.
+Don't get me wrong -- I'm not really concerned about Chevron's long-term future. It has a strong balance sheet with more than $12 billion in cash on hand. But think about this: Chevron has generated $9.5 billion in cash from operations so far this year but has spent more than $19 billion on capital expenditures and dividends. That's a significant trend that management must reverse.
+Frankly, it could get worse before things get better. There has been essentially no good news on the demand side this year, and global production has been stubborn to slow. We could look back in a few years and see this as having been a great time to buy, but frankly, I want to see fundamental improvements both at Chevron and in global oil markets before investing in the company.
+Matt DiLallo: Like Jason, I also have a big oil giant that I think is overvalued. However, I have different reasons I think BP (NYSE:BP
+) looks overvalued. Some of this has to do with the market's really unfounded belief that BP is a takeover target. Making matters worse, BP is just not as good an operator as its big oil brethren, as it needs much higher oil prices to generate the cash flow it needs to run its business. With neither on the horizon, BP's stock really looks unappealing. 
+There have been rumors within the industry that ExxonMobil has its eyes on BP as a potential merger partner. This possibility has inflated BP's stock price a bit more than it should, though the recent weakness in oil prices has deflated a bit of that premium. Still, it's trading at a much, much higher multiple than either Exxon or Chevron.
+
+BP P/E RATIO (TTM) DATA BY YCHARTS.
+This premium is completely unjustified for two reasons. First, BP doesn't make a great buyout candidate, as the would-be buyer still faces unknown potential Deepwater Horizon liabilities and the British government has already said it would opposed a buyout of BP. Second, BP just isn't as good an operator as Exxon or Chevron, as we see in the following chart, as its returns are well below those of its peers.  
+
+BP RETURN ON EQUITY (TTM) DATA BY YCHARTS.
+Furthermore, as Jason mentioned, lower oil prices are making it tough for big oil giants to match cash flow with cash outflows like capex and dividends. Analysts estimate that BP needs a $75 Brent crude oil price next year to balance its budget, which isn't likely given that Brent is currently well south of $50 at the moment. This suggests that the company will be adding a lot of debt, selling assets at the wrong time, or slashing its dividend.
+Suffice it to say, BP's not exactly a value stock these days, and there's a case to be made that it's grossly overvalued if $40 oil is the new normal. 
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

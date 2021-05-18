@@ -1,0 +1,143 @@
+Last week, Whole Foods (NASDAQ:WFM
+) and SolarCity (NASDAQ:SCTY.DL
+) made an agreement to fit solar panels to the rooftops of around 100 Whole Foods stores around the country. Will this be enough to pick up SolarCity after the hit it took from the Nevada ruling a few weeks ago?
+In this episode of Industry Focus: Energy, Sean O'Reilly and Taylor Muckerman talk about what the move means for SolarCity. Also, they discuss the state of the natural gas sector -- why it got off to such a rocky start this year, and why it might be stuck where it is now. 
+A full transcript follows the video.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+This podcast was recorded on March 10, 2016. 
+Sean O'Reilly: SolarCity and Whole Foods are teaming up. All that and more on this energy edition of Industry Focus.
+Greetings, Fools! Sean O'Reilly here at Fool headquarters in Alexandria, Virginia. It is March 10, 2016, and joining me via phone from the District of Columbia, because he just didn't feel like gracing us with his presence, is the one and only Taylor Muckerman. What's up, man?
+
+Taylor Muckerman: I'm good, brother! Trying something new today.
+
+O'Reilly: Is the weather different 10 miles north of here?
+
+Muckerman: Actually...
+
+O'Reilly: No, it's not!
+
+Muckerman: I'm working so hard I haven't even been outside.
+
+O'Reilly: Oh, you haven't? OK.
+
+Muckerman: No, no, I have. It's nice. It's short-sleeve weather.
+
+O'Reilly: Yeah, for sure. I'm going for a walk and getting some lunch after this.
+
+Muckerman: There you go.
+
+O'Reilly: So, anyway, diving right in here, we talk a lot on this show about the difference between these big, offshore, billion-dollar projects that are now not so good. We talked about companies having to do them even though it's uneconomical off the shore of Brazil last week, and all this stuff. And apparently, Chevron (NYSE:CVX
+), who's the second-biggest, right, behind only ExxonMobil?
+
+Muckerman: Yeah, they're right up there. They're definitely not ExxonMobil big, but they're the second dog in the pack.
+
+O'Reilly: Right. Basically, you don't get that big by not doing billion-dollar projects. They spend all this money -- what's their budget? Like $20 billion, $30 billion a year? At least it was before all this stuff happened. Anyway, they're planning a pivot, basically, to profitable, shorter-cycle investments, like its fields in, that's right, you guessed it, shale wells in West Texas.
+
+Muckerman: That's exactly right, yeah.
+
+O'Reilly: What? This seems kind of short-sighted, because, planet Earth, as I understand it, needs, until we're all driving electric cars, 95 million, 96 million barrels of oil per day. And shale's awesome, we're getting 9 million barrels per day per in this country out of it, but this seems kind of short-sighted. They're talking about spending a tenth of their budget in West Texas and all this stuff. Is Chevron making a mistake here?
+
+Muckerman: Well, you look at it from the perspective, on a company-by-company basis, and for the most part, Big Oil gave shale the cold shoulder for most of the early days, up until just recently, really. What was that?
+
+O'Reilly: Did they think, "Oh, that's just for the little guys, we're just going to leave it for them?" I don't know, it just seems crazy to me.
+
+Muckerman: Yeah, exactly. I think they probably thought, "The shale revolution, let's leave that for the wildcatters. We're too big, we're too cool for that. It's going to be a lot of testing and learning. Let's go ahead and take our expertise to these massive fields, offshore, internationally, these fields that have a lot to offer over the long term." But as we've been seeing, these are obviously expensive. They're time-consuming, and for the most part, they go over budget and they take longer than originally thought. And, as we've clearly seen, shale, over the past few years, has turned out to be anything but a flash in the pan.
+So, Chevron, I think it's a combination of a) low oil prices, so they need immediate, short-term returns; and b) a lot of their long-term projects that they've been working on are finally starting to see the finish line. The Gorgon project finally came on line with its first train; its Angola LNG projects are probably supposed to come on in the next quarter of this year.
+
+O'Reilly: Sorry to interrupt -- do you remember when those projects got started?
+
+Muckerman: I don't remember the exact date, but it's been several years in the making.
+
+O'Reilly: It's been years, yeah.
+
+Muckerman: They were all gone over time and over budget. We're talking about huge capital intensity. So with those companies in the final stages, they're just kind of relinquishing the idea of continuing to find these big projects and dumping billions of dollars into them. Instead, they're going to start taking the cash flow from these major projects they've been spending billions of dollars on over the past few years, and turning that cash flow and spending it, in Chevron's case, largely in the Permian, because they're the largest landholder there, but they are not the largest producer. So they've pretty much just been sitting on it.
+
+And the Permian is expected to be the largest land-based basin in the United States, and its been much more resilient than fields like the Bakken or the Eagle Ford, when you've seen the prices fall. So, you see around 2 million barrels per day, up from 1.4 billion barrels per day in the early stages of 2014. So the Permian has had some ability to sustain production through this downturn, and Chevron is looking to pour more money into that now that some of these long-tail projects are coming online. We saw a lot of that, some similarities with Exxon, with their capital-intense projects coming online recently. They, too, have been able to start to reap the cash flows from that. But you have to wonder, 20 years from now, because of shale's decline curves, what this is going to look like.
+
+O'Reilly: Right. And, in an annual update on Tuesday, Chevron's CEO, John Watson, I don't know if you read what he actually said, but he said, "Don't be surprised if, by the middle of the next decade" -- so I don't know, he's talking about 2025 -- "20%-25% of our production in the short-cycle shale and tight activity." I can't really blame him, because he talked about how they have, in the Permian, 1,300 drilling locations that are profitable at $40 oil, another 4,000 at $50 oil, and another 5,500 on top of that at $60. So if you can go do that, I guess I can't really blame him for not doing the big projects. But I don't know.
+
+Muckerman: No, you certainly can't, at least right now. I mean, obviously, these deepwater projects and things like that and the floating production facilities that these major oil companies have been building as of late, those just aren't going to turn money over at $30, $40, $50 a barrel. So short-term, this is probably a good idea. But you're probably going to see some scrambling in a decade if the long-tail projects that are coming online right now don't have the lifespan they originally thought.
+
+O'Reilly: So moving on, Taylor, you obviously saw the news that SolarCity's teaming up with Whole Foods, of all people, right?
+
+Muckerman: Yes, I have.
+
+O'Reilly: What do you think about that? For our listeners who may not have heard this, SolarCity, their shares actually popped a little bit on the news this week. They're teaming up with Whole Foods to install solar panels on 100 Whole Foods store rooftops. Is this the first time that SolarCity's teamed up with a commercial user at this scale?
+
+Muckerman: Not the first time they've teamed up with a commercial user. Possibly at this scale. But one of the things that -- I think a reason for the pop was, despite better-than-expected results reported in the last fourth quarter, it's still falling short on insulation goals. And that's not on the residential side, that's on the commercial side.
+
+O'Reilly: So this definitely helps that.
+
+Muckerman: Yeah. I think by them announcing more commercial deals -- so this deal kind of split between SolarCity and NRG Energy (NYSE:NRG
+), in terms of who's going to be installing the solar panels. And it's going to be on around 100 stores. They didn't disclose the breakout of who's going to be installing how many and where.
+
+O'Reilly: That was going to be my question, because, apparently, I didn't know this, they're actually having to custom-design each solar power system to maximize the amount of grid power offset in all this stuff.
+
+Muckerman: Yep.
+
+O'Reilly: And I was like, how's all that going to get shopped up? It sounds like some negotiating is still going to have to take place.
+
+Muckerman: Yeah. I don't think this is going to be something that's going to start taking place tomorrow. But Whole Foods does have experience in using solar power for some of their stores. I think they've already got it on 25 stores, they claim, and that's out of 434 stores in the U.S. So if you add this hundred, you're looking at over a quarter of their stores powered by solar. And I'd imagine, if it works out, they continue to expand these deals. Unfortunately, some of their stores, like the one near our office, is under a multi-story building --
+
+O'Reilly: Those darn apartments upstairs! [laughs]
+
+Muckerman: Yeah. [laughs] So you have to wonder about their ability to install solar on every single facility. But, just, it shows the diversification that SolarCity is capable of. And I think the shares have sold off significantly over the past few months, so that definitely has some reason to do with the volatility and the pop. But I think this shows shareholders that there's a lot more opportunity out there for SolarCity than, maybe, some people have been giving them credit for lately, especially in light of them removing themselves from the Nevada marketplace. I think that this is definitely a step in the right direction for SolarCity, and NRG Energy, too. They've been really struggling in the markets as well. They do have a significant portion of fossil-fuel generation. so to see NRG Energy continue to push into the renewable space, I think, is definitely a blessing for them as well.
+
+O'Reilly: Awesome! All right, before we move on, I wanted to point our listeners to focus.fool.com, where you can discover a discount on The Motley Fool's Stock Advisor newsletter that works out to $129 for a full two-year subscription. Once again, that is focus.fool.com. 
+Taylor, before we head out, I wanted to get your thoughts on what's going on at Clean Energy Fuels (NASDAQ:CLNE
+). I actually just did some research on them in the last month, and actually put out some content that I'm super-proud of --
+
+Muckerman: You should be!
+
+O'Reilly: I should be! Did you read it yet? [laughs]
+
+Muckerman: I've read a couple of them, yeah.
+
+O'Reilly: OK, all right. I didn't make a complete and total fool of myself? And I mean lowercase fool.
+
+Muckerman: Yeah, no lowercase, in this instance.
+
+O'Reilly: And for listeners who want to check these out, the first one is "Will Clean Energy Fuels Corp. Ever Put Profits Up on the Board?" And the other one is "Is Clean Energy Fuels a Flawed Business Model or on the Road to Greatness?" And I just wanted to get your thoughts, because I get the sense come out when I took a deep dive on these guys, that they're kind of on an inflection point. They haven't had a GAAP profit since 2007. They spend tons of money every year building out this network. They've actually got, I think it's 500 natural gas fueling stations for buses and waste management trucks and stuff now.
+
+Muckerman: Yep.
+
+O'Reilly: They're finally operating cash flow positive, I guess, is the fancy term they like to throw around. Still in the red on GAAP profits. But they keep adding customers. They've got, I mean, UPS, FedEx, Waste Management, tons of city buses, I think they've got 30 cities, off the top of my head, that are using natural gas buses for public transportation.
+
+Muckerman: Yep. A lot of airports have Clean Energy fueling stations at their facilities, too, for all of their administrative vehicles.
+
+O'Reilly: Have they finally reached the promised land of where they can kind of sit back and say, "OK, we're just going to add customers, and it's all just operating leverage now?" Where do you think they are?
+
+Muckerman: This is interesting, because if you'd asked me that a year or two ago, I really thought this company had a very bright future. I still think they do with these fleet vehicles like you mentioned, with buses and Waste Management, the company, and just that industry in general. And then, if you look at long-distance hauling in terms of trucking, I think that that's really what they limited themselves to. Not because of their own fault, but because the whole natural gas vehicle industry has been very slow to evolve. And with all of the chatter about electric vehicles, and the focus, you've seen [Tesla Motors] (NASDAQ:TSLA
+) kind of change the conversation. Now you hear more from the likes of General Motors and Ford and BMW and all these big-name automotive companies, you hear more and more from them about electric vehicles than you do about natural gas vehicles, or hybrids that blend natural gas and electricity. I worry for them that they might have missed the boat on vehicles that you and I might drive. I still think that they have a future with, like I said, the fleet vehicles --
+
+O'Reilly: Big stuff, yeah. Just say big stuff. [laughs]
+
+Muckerman: Yeah, and hauling, because I think that's going to take a while for engines to be able to power them electronically, because we're talking about hauling tons and tons of equipment and goods and things like that. So that's my one question with this company right now, is, how is the --
+
+O'Reilly: Is their market too small?
+
+Muckerman: Yeah. How is the surge in electric vehicles, maybe not in the production and the buying of them, but just the focus. And when companies start to focus on these, they're going to take a lot of their resources away from developing vehicles for everyday use that use natural gas. So they had a really tough struggle early on, because they weren't producing vehicles; they were only producing the fueling stations. And they didn't want to produce all these fueling stations if no one was producing vehicles, and no one wanted to produce vehicles if no one was producing --
+
+O'Reilly: Right. It's the ultimate Catch-22, it's like, OK, who's going to break here? And they spent all this money building this network, and what they're trying to do is really, really hard. They're trying to change the habits of an entire industry.
+
+Muckerman: Absolutely. And the infrastructure needed is way more different and way more complex than electric vehicles. You can charge an electric vehicle at your house. Most parking garages that are being built are being electro-fitted, are being equipped with electric vehicle charging stations because they're minimally obtrusive, they're not hard to install. Tesla took the whole chicken-and-the-egg debate completely out of the question, because they built both vehicles and charging stations; you can crisscross the entire country thanks to Tesla, now, on major highways, without having to worry about running out of power, unless you just have a lapse in oversight and don't realize your electricity is running low. So that's my big worry with this company, long-term, is that vehicles that everyone around the country is buying are most likely going to be electric in the next decade than they are going to be natural gas.
+
+O'Reilly: Got it. Cool. All right, Taylor, I'll let you get back to it. Keep rocking stuff on the premium site. And thank you for calling in, man.
+
+Muckerman: Yes, indeed, happy to be on the podcast, as always.
+
+O'Reilly: All right, enjoy the weather, man.
+
+Muckerman: Cheers!
+
+O'Reilly: If you're a loyal listener and have questions or comments, we'd love to hear from you: Just email us at industryfocus@fool.com. Once again, that is industryfocus@fool.com. As always, people on the program may have interests in the stocks they talk about, and The Motley Fool may have formal recommendations for or against those stocks, so don't buy or sell anything based solely on what you hear on this program. For Taylor Muckerman, I'm Sean O'Reilly. Thanks for listening, and Fool on!

@@ -1,0 +1,68 @@
+When presented with two contradictory sets of economic data -- one offering a sunny assessment and the other doom and gloom -- the one we choose to believe will say more about us than it will about the numbers. Pessimists have seized on the steep drop in America's first-quarter GDP as evidence that the economy is faltering. Optimists have eagerly pointed out that virtually every other key piece of economic data point released in the past month shows sustained growth, interrupted briefly but not derailed by an exceptionally miserable winter. Each new data release gives us a clearer picture of the economy's progress, and today's monthly update of American retail sales figures  from the U.S. Department of Commerce has given both optimists and pessimists more ammunition for their arguments.
+June's retail sales grew at a month-over-month rate of just 0.2%. While narrowly positive, it was an underwhelming growth rate for a retail sector that many had expected to rebound from the winter with above-average sales. While economists had expected  to see retailers post total growth of 0.6%, the result was hardly out of line with the relatively narrow range by which retail sales have grown on a month-over-month basis. As a result, the Dow Jones Industrial Average (DJINDICES:^DJI
+) moved in a pretty narrow range as well today, finishing effectively flat as 14 of its 30 components eked out gains:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+Retail sales were hindered by one of the weakest months for auto sales since the recession ended in 2009. "Core" retail, which excludes the impact of auto sales (including parts) and gas-station purchases, actually grew by 0.4%. Auto-related purchases were the largest overall drag on the retail sector, with a 0.3% month-over-month decline trailed in nominal dollar terms only by a full percentage-point drop in home-improvement store sales. June's month-over-month drop wasn't the worst this sector has experienced lately, and when we look at auto sales on a year-over-year basis, it looks more reasonable -- a small dip in what's otherwise been the most consistently strong retail sector in the American economy since the recession ended:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+Gas station sales were stronger than they have been for a while on this measure, with a year-over-year result nudging into positive territory for only the sixth month out of the past year. However, the Dow's two Big Oil representatives barely budged -- Chevron (NYSE:CVX
+) ended up at 4 p.m. at exactly the same price it started with at 9:30 in the morning. The restaurants-and-bars and furniture-and-furnishings sectors of American retail joined auto sales and home improvement stores in posting month-over-month sales declines, but neither of these sectors reported year-over-year dips in their sales volume. In fact, the only sector to report a year-over-year drop in sales was specialty retail, which includes sporting goods, hobby, book, and music retailers:
+Retail Sector 
+Month-over-Month Change
+Year-over-Year Change
+Motor vehicles and parts
+(0.3%)
+6.4%
+Furniture and furnishings
+(0.1%)
+2.6%
+Electronics and appliances
+0.1%
+1.3%
+Building and garden supply
+(1%)
+3.7%
+Food and beverage stores
+0.4%
+2.5%
+Health and personal care
+0.9%
+7.9%
+Gas stations
+0.3%
+0.6%
+Clothing and accessories
+0.8%
+2.9%
+Specialty retail
+0.6%
+(2%)
+General merchandise
+1.1%
+3.4%
+Miscellaneous retailers
+0.1%
+1.4%
+Non-store retail (e-commerce)
+0.9%
+8.1%
+Restaurants and bars
+(0.3%)
+5.6%
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+While this month may seem disappointing, it's also worth looking at the Commerce Department's revisions  to earlier retail sales data. May's preliminary month-over-month growth rate of 0.3% was revised up to 0.5%, and April's barely there 0.1% month-over-month growth rate got a big boost to 0.6%. This month's preliminary print could also be nudged higher as more complete data trickle in. The upward revisions to April's and May's results also gave some economists the confidence to push their GDP projections higher -- Barclays pointed to these higher figures as a key reason for raising  its second-quarter GDP growth tracking estimate from 2.7% to an even 3%.
+On the other hand, pessimists can still point to the slow but unmistakable fall in real retail sales growth as evidence that the current economic expansion is nearer its end than its beginning. On an annualized basis and after adjusting for inflation (the Commerce Department uses nominal dollar figures and does not adjust for inflation), this month's growth is the lowest yet since it peaked shortly after the recession ended. As you can see on a longer timeline, this sort of gradual drop can (but need not) signify an oncoming economic slowdown -- it closely resembles the post-dot-com slide, but does not much resemble the generally stable retail-sales growth rates enjoyed for much of the mid-1990s:
+SOURCE: U.S. DEPARTMENT OF COMMERCE AND ST. LOUIS FED.
+RETAIL SALES ADJUSTED BY PURCHASING POWER, INDEXED TO JANUARY 1992.
+Some retailers have not had a good year, as a number of companies have reported  various "challenges" or otherwise blamed a general sense of consumer malaise on their poor results. Specialty outlets Lumber Liquidators (NYSE: LL) and The Container Store (NYSE: TCS) were both among last week's worst performers after reporting weak earnings. The retail sector as a whole continues to grow, albeit slowly, so blaming a retail "funk" on disappointing sales is not an acceptable excuse from any retail company's executive team. However, it may become true before too long if the grinding decline in retail growth rates continues much longer.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

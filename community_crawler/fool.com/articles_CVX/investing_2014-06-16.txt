@@ -1,0 +1,132 @@
+Last May, I announced my intention to create a portfolio that embodied life's basic needs. To that end, over a period of 10 weeks, I detailed 10 diverse companies that I think will outperform the broad-based S&P 500 over a three-year period because of their ability to outperform in both bull markets and bear markets, as well as their incredible pricing power in nearly any economic environment.
+If you'd like a closer look at my reasoning behind each selection, just click on any, or all, of the following portfolio components:
+Let's look at how our portfolio of basic-needs stocks has fared since we began this experiment.
+Company
+Cost Basis
+Shares
+Total Value
+Return
+Waste Management
+$42.60
+23.24
+$1,022.56
+3.3%
+Intel
+$23.22
+42.64
+$1,273.66
+28.6%
+NextEra Energy
+$87.94
+11.26
+$1,089.74
+10.1%
+MasterCard 
+$64.557
+15.30
+$1,161.88
+17.6%
+Chevron
+$124.95
+7.93
+$1,009.17
+1.8%
+Select Medical 
+$8.96
+110.49
+$1,660.66
+67.7%
+Ford
+$17.50
+56.57
+$936.80
+(5.4%)
+American Water Works 
+$43.13
+22.96
+$1,100.70
+11.2%
+Procter & Gamble 
+$81.29
+12.18
+$970.02
+(2%)
+AvalonBay Communities 
+$133.95
+7.39
+$1,034.75
+4.5%
+Cash
+$0.88
+Dividends receivable
+$268.31
+Total commission
+($100.00)
+Original Investment
+$10,000.00
+Total portfolio value
+$11,529.13
+15.3%
+S&P 500 performance
+13.2%
+Performance relative to S&P 500
+2.1%
+SOURCE: YAHOO! FINANCE, AUTHOR'S CALCULATIONS.
+Following the S&P 500's first pullback in weeks, the Basic Needs portfolio added to its lead over the index, relying on received dividend payments and an important earnings forecast guidance boost to pull further ahead. Overall, though, the portfolio shed about 0.2% of its value as previous top performers such as MasterCard and Select Medical came under a bit of profit-taking pressure. We can relish in a small victory over the S&P 500 this past week, but the goal of this portfolio is long-term outperformance. And so far this group of 10 stocks looks primed to win the battle over the long run.
+Show me the money!
+Probably the most important aspect of the Basic Needs portfolio, and the primary difference maker between it and the S&P 500 thus far, are the steady and/or growing dividend payments received from these 10 stocks. Through just 10.5 months, the portfolio has received almost $270 in dividends, meaning it is approaching a 3% annual yield. Not too shabby given the diverse mixture of industries represented.
+Integrated oil and gas giant Chevron (NYSE:CVX
+), as indicated last week, paid out its $1.07 per share dividend this past Tuesday to shareholders of record as of May 19. In addition to netting a projected $4.28 per share in payouts per year, shareholders have also enjoyed a sudden boost in crude prices thanks to political tensions in Iraq. While higher crude prices tend to work against Chevron's refinery business by tightening its spreads, they benefit its exploration and drilling segments and provide ample opportunity for midstream companies to transport and store liquid assets. As one of the largest vertically integrated oil companies, Chevron and its shareholders are basking in triple-digit per-barrel prices.
+Also breaking out its wallet was alternative-energy-focused electric utility NextEra Energy (NYSE:NEE
+), which today doled out $0.725 per share to shareholders of record as of June 2. NextEra has made it clear on multiple occasions that it intends to pay out roughly 55% of its earnings in dividends to investors while reinvesting the remainder into the business. The end result is a healthy 3% yield for investors.
+SOURCE: MAUREEN, FLICKR.
+On top of its dividend, NextEra also announced a partnership with EQT to develop a 330-mile natural-gas pipeline that will eventually connect the Marcellus and Utica shale deposits with southeastern U.S. markets. Per a report last week from my fellow Fool Justin Loiseau, EQT will be the primary stakeholder and operator of the pipeline in the joint venture, which could deliver up to 2 billion cubic feet of natural gas per day once the project comes online in the fourth quarter of 2018. 
+SOURCE: LUNGSTRUCK, FLICKR.
+A chip off the old block
+Who said the PC is dead? Following market close on Thursday, chipmaker Intel (NASDAQ:INTC
+) boosted its second-quarter and full-year guidance after announcing that PC demand by businesses has been stronger than expected. Specifically, Intel guided its second-quarter revenue to a range of $13.4 billion-$14 billion, from the prior guidance of $12.5 billion-$13.5 billion, and boosted the midpoint of its gross margin forecast by 1 percentage point to 64%. Also, Intel upped its Q2 research and development spending by $100 million to $4.9 billion, with a slight increase in its effective tax rate to 28% from a prior expectation of 27%.
+For the full year, Intel now expects positive revenue growth versus a prior projection of flat growth; it also anticipates that gross margin will come in at the upper half of its previous range, which was a midpoint around 61%. This guidance just goes to show that you can never quite count out Intel, and that its cash-generating capabilities are more than enough to sustain its dividend while also providing ample capital for investing in the latest mobile and cloud technologies.
+Ford skids out
+As if recall mania hasn't been enough for automakers and consumers to endure over the last couple of months, Ford (NYSE:F
+) found a new way to skid out of control on Thursday when it announced that it had lowered the fuel economy ratings on six vehicles after discovering an internal error in its calculations. The six vehicles affected include the Fiesta, Fusion, C-Max, Energi, and even the Lincoln MKZ.
+2014 FORD FIESTA. SOURCE: FORD.
+In response to the corrections, in which some of Ford's hybrid models lost between three and seven miles per gallon off their estimated combined mpg, Ford will make goodwill payments to consumers ranging from $125 to $1,050 depending on the make of the vehicle and whether it is leased or owned. While this isn't a crippling blow for Ford, it's another black eye for an industry that has taken far too many punches this year.
+One person's trash...
+Lastly, Deutsche Bank last Monday initiated coverage on refuse and recycling giant Waste Management (NYSE:WM
+) with a hold rating and a $47 price target, implying roughly 5% upside based on its previous closing price. Deutsche noted Waste Management's positives, such as its strong market position and management team. However, Deutsche also considers the business to be mature -- a fancy word meaning its growth will slow -- which it suspects will lead to low-single-digit EPS growth and leave shares range-bound.
+As always, I advise generally ignoring analyst ratings, as they rarely have much bearing on our long-term investing thesis. Deutsche is probably right about Waste Management's growth prospects in the near term, but that's primarily a function of weak commodity prices related to its recycling business. Waste Management's refuse pricing power remains unparalleled, and its ventures into energy production using landfill gases and a long-term rebound in metal prices might make shares look extremely cheap in just a few short years.
+
+
+
+Before you consider Intel Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Intel Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Stocks have bounced all around today, with the Dow Jones Industrial Average (DJINDICES:^DJI
+) up 10 points as of 2:35 p.m. EDT and its 30 member stocks split nearly even between risers and losers. Upbeat economic data has pushed Home Depot (NYSE:HD
+) higher, joining with Chevron (NYSE:CVX
+) to lead the Dow's stocks in the green so far. Meanwhile, a huge deal from the health-care sector sent Covidien's (NYSE:COV.DL
+) shares surging. Let's look at what you need to know.
+Home Depot ready to run?
+Homebuilder confidence took a huge hit after the recession as the housing market dried up, but the measure has slowly climbed back up in the recent past. In June, homebuilder confidence climbed up four full points to a reading of 49, according to the National Association of Home Builders and Wells Fargo. That's still below the neutral mark of 50 that shows homebuilders are neither optimistic nor pessimistic about housing sales, but nonetheless it's the best monthly reading since January.
+SOURCE: WIKIMEDIA COMMONS.
+Signs point to an upbeat future in home sales as consumers grow more confident about the economy's slow but steady rise, and a bump here would mean great things for Home Depot heading forward. The home-improvement retailer's stock has lost more than 4.8% so far this year despite gaining 1.1% today, but the company has offered hope for investors by overcoming the unseasonably harsh winter to keep sales and earnings on the upswing in its most recent quarter. Same-store sales growth jumped by more than 3% in that quarter; if home sales can make a push in the summer and chart a growth for good long-term health, Home Depot will be well-positioned to reward investors -- and continue raising its strong 2.4% dividend into the future.
+Big Oil's Chevron was up 1.2% today following last Friday's sale of oil assets in Chad to the country's government for $1.3 billion. Lower production has hit the oil industry hard lately, and Chevron has been no exception: The company saw liquid production in the U.S. decline by 4% year over year in its most recent quarter. While the recent uptick in oil prices due to instability in the Middle East should benefit the company, that's not a trend that Chevron or its investors can rely on for the long term. Shareholders need to keep an eye on Chevron projects that are expected to contribute to growth in the coming years and support this stock's run.
+Perhaps the biggest market-shaking news of the day hasn't come from the Dow, however. In a deal of mammoth proportions, Medtronic (NYSE:MDT
+), the market's largest pure medical device player, agreed to acquire competitor Covidien in a deal worth nearly $43 billion. Medtronic is already a leader in the cardiac device space, but Covidien's acquisition will add laproscopic devices and surgical tools to the company's arsenal of products. Covidien's buy will also allow Medtronic to incorporate in Ireland, where it will face slightly lower taxes. The deal sent Covidien's stock surging by more than 20%, although Medtronic's shares have taken a 1% hit.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

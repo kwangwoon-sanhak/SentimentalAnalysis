@@ -1,0 +1,24 @@
+Last week the Dow Jones Industrial Average (DJINDICES:^DJI
+) rose 99.53 points, or 0.64%. The index set new all-time record highs during a number of the days last week and currently sits at a new high at 15,658.36. But the Dow should have ended the week much higher than it did. Only seven of the 30 components ended the session lower, while the other 23 moved higher. Of those 23, 12 climbed by more than 1% -- and eight of those 12 increased more than 2%. Among those seven losers, six moved lower by more than 1%, and only two dropped more than 2%.
+So what happened? The problem was that some of the Dow's most heavily weighted stocks were the big decliners, while some of the more lightly weighted ones were the top winners. Chevron (NYSE:CVX
+), ExxonMobil (NYSE:XOM
+), and Verizon, the Dow's biggest losers last week, fell by a respective 2.04%, 2.99%, and 1.5% -- and combined, those stocks carry 13.1% of the Dow's total weight.
+Meanwhile, the index's top three winners -- DuPont, Cisco, and Hewlett-Packard -- rose a respective 3.92%, 2.7%, and 3.88%, but together they account for just 5.54% of the index.
+Furthermore, the Dow's most heavily weighted stock, IBM (NYSE:IBM
+), lost 1.11% this week. Combine that with all the Dow's losers this past week (the others were Alcoa, Intel, and Coca-Cola), and you get an index weighting of 26.17%. But with no weighting, seven stocks out of 30 would account for just 23.33% of the index.
+In short, the Dow's weighting system kept it from reaching even greater all-time highs.
+Many of my colleagues have spoken on the subject of trying to find a better alternative to the Dow's weighting system. Many would argue that the S&P 500's (SNPINDEX:^GSPC
+) system -- which goes by each stock's market capitalization -- is better than the Dow's system, which assigns weighting by stock price alone. The problem is that even the S&P 500 misses out on the dividends investors receive and how those payments affect the overall return of a stock or the market in general.
+One thing investors can do if they want dividends added into their calculations for market growth is to follow the Standard & Poor's Total Return Index, which takes those quarterly payments into account.
+In the end, all weighting systems have their problems, but understanding their limitations can at least help you see why indexes like the Dow don't always perform the way you might expect them to. But these systems are the best we have, and for better or worse, we're probably stuck with them.
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

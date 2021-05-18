@@ -1,0 +1,30 @@
+That unexpected kaboom you might have heard this morning was the economy crashing down -- today's Bureau of Economic Analysis revision to first-quarter gross domestic product marked the first time since 2011 that the U.S. economy shrank on a year-over-year basis. The BEA's data now show a 1% contraction in first-quarter GDP, which is down from a minuscule 0.1% growth rate reported in the agency's advance estimate and which is also significantly weaker than the 0.5% contraction in GDP many economists had anticipated.
+SOURCE: U.S. BUREAU OF ECONOMIC ANALYSIS.
+The faint "meh" you might have heard about an hour later, coming from the vicinity of Wall Street, was the sound of indifference, signaling that market participants don't expect this quarterly contraction to have a major impact on America's long-term economic trajectory. While the Dow Jones Industrial Average (DJINDICES:^DJI
+) briefly saw red in morning trading, it clings to a small gain in early afternoon -- hardly the stampede of selling pessimistic market-watchers would have expected following the morning's report. There's no consistency of weakness among the Dow's components, but the index is being held back by poor showings from highly weighted components Goldman Sachs (NYSE:GS
+), IBM (NYSE:IBM
+), and Chevron (NYSE:CVX
+), which happen to be three of only five Dow stocks down more than 0.2% today.
+This is not the first time the economy has endured a quarterly contraction outside of a recession. In fact, you can see that the drop in early 2011 was slightly worse than this decline, and that weak patch was followed by GDP growth of 3.2% in the very next quarter. Over at FiveThirtyEight, Ben Casselman pointed out that this nonrecessionary contraction is unusual, but not unheard of, as it's the 10th such quarter of negative GDP growth since World War II that didn't happen during a recession. However, Casselman noted that three of those contractions happened right before the official start of a recession, which leaves seven aberrant quarters in periods otherwise marked by consistent growth. Unfortunately, two of those nonrecessionary declines happened in the past five years, which is the first time more than one quarter of negative growth has hindered an otherwise growing economy since the 1950s.
+Today's BEA revisions primarily served to push an already-weak level of private investment lower than it had been in last month's advance estimate, with most of that weakness seen on the nonresidential (business) side of the investment picture, as you can see in these graphs of private domestic investment growth rates from last month and this month:
+SOURCE: U.S. BUREAU OF ECONOMIC ANALYSIS.
+SOURCE: U.S. BUREAU OF ECONOMIC ANALYSIS.
+The BEA singled out "a downturn in exports, a larger decrease in private inventory investment, and downturns in nonresidential fixed investment" as the main reasons behind the weak quarter. Inventories in particular can be subject to large quarter-over-quarter swings as businesses attempt to keep up with fluctuations in demand. Weakness during the first quarter has already been blamed so often on bad weather that it's becoming a bit of a running gag, but poor weather can undoubtedly hold back consumer and business spending as people often do wait to buy stuff until the sun comes out again.
+Gross domestic income is also getting more than its usual share of attention in this update, because the revisions produced a 2.3% decline in this metric, making this the worst quarterly performance for GDI since the recession.
+If you were unhappy about GDP declining 1% in Q1, realize that the more accurate GDI declined 2.3%. It really was a dreadful quarter.
+SOURCE: U.S. BUREAU OF ECONOMIC ANALYSIS.
+It's also not unheard of for GDI to decline outside of recessions, as you can see in 2012, but since prominent economist Justin Wolfers highlighted GDI as a more accurate measure, such a significant drop could certainly be cause for real concern. It's important to note that while GDI and GDP do not move in lockstep, steep declines in GDI did precede a wobbling GDP that eventually collapsed in 2008:
+SOURCE: U.S. BUREAU OF ECONOMIC ANALYSIS.
+One quarter of weakness isn't enough to cause a panic, as you might have figured from the market's utter indifference to this report. The first quarter ended in March, and thanks April's jobs data we can probably look forward to a rebound in the second quarter, since last month saw the economy add more jobs than it had in any month since early 2012. However, GDI weakness is reflected somewhat in recent jobs data, as this metric focuses on income, which (at least for individual workers) has been stagnant in real terms since the recession. An uptick in average wages would likely help GDI recover, so keep your eyes on the May jobs data due in a few days for more clues on the progress of America's economy in 2014.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

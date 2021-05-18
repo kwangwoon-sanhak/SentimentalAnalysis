@@ -1,0 +1,96 @@
+On this day in economic and business history ...
+IBM (NYSE:IBM
+) knew it had something big on its hands when it introduced the System/360 series of mainframe computers on April 7, 1964. Legendary IBM executive (and son of that other legendary IBM executive) Thomas J. Watson Jr. called the launch "the most important product announcement in the company's history." IBM hosted a launch event that would put today's to shame -- a coordinated nationwide reveal attended by more than 100,000 businessmen in 165 cities across the United States.
+Watson told the world:
+System/360 represents a sharp departure from concepts of the past in designing and building computers. It is the product of an international effort in IBM's laboratories and plants and is the first time IBM has redesigned the basic internal architecture of its computers in a decade. The result will be more computer productivity at lower cost than ever before. This is the beginning of a new generation -- not only of computers -- but of their application in business, science, and government.
+Watson was right. System/360 was not a single mainframe, but an entire series of them, with capabilities and costs running the gamut from workhorse to wonder. It was the first time that computers had been designed with upgrades in mind, as the entire range of System/360s shared the same base instruction set and could thus be upgraded without forcing users to learn to use something unfamiliar. System/360s were available at monthly rental costs that ranged from $2,700 to $115,000 -- compared with purchase prices of between $133,000 to $5.5 million -- and users could feel confident that no matter which machine they ordered, they could always upgrade later as their data processing demands grew.
+The System/360 family became extremely successful in the market, producing some of the strongest business (and stock price) gains in IBM's history. IBM also created a number of industry standards with the System/360 family. Some have since been superseded by newer designs, but the 8-bit byte was possibly the most durable -- it remains the standard to this day.
+IBM continued to deliver and support System/360s almost up to the release of its PC in 1981, as the last mainframes were delivered to customers in 1978. It's still possible to run applications for System/360 machines in the present day, as IBM's modern System z mainframes are fully backwards compatible with their groundbreaking ancestors.
+Birth of biotech
+Genentech was founded on April 7, 1976, becoming the world's first true biotechnology company. Genentech itself tells the story of its founding through the "GenenLab Notebook," part of a welcome kit the company gives to new employees that found its way online in 2012:
+It all began with an experiment conducted by a team led by Dr. Herbert W. Boyer of the University of California at San Francisco (UCSF) and Dr. Stanley N. Cohen of Stanford University. They proved that DNA could be recombined, meaning, in theory, that genetic material from one species could be successfully introduced into the gene of another species. ...
+In January 1976, Robert A. Swanson, who had been a partner at the venture capital firm of Kleiner & Perkins, telephoned Boyer. Swanson believed that recombinant DNA technology (rDNA, for short) could be employed to create commercial products in a relatively short time, but it seemed that nobody -- including the overwhelming majority of scientists -- agreed with him. Everybody he talked with said it would be 15 to 20 years before that happened.
+
+Swanson persuaded Boyer to meet with him for a few minutes. In fact, the meeting lasted two or three hours because Boyer agreed with Swanson on the commercial feasibility of genetic engineering, not in the distant future, but now. ...
+By the time their initial meeting was over, the two had agreed to organize a new company. They each put up $500. Boyer also came up with a name for the company, derived from GENetic Engineering Technology. (Good thing, because Swanson's suggestion was the HerBob Company.) ... In June, on the basis of an eight-page business plan, Kleiner & Perkins agreed to provide $100,000 in venture capital funding, which lasted Genentech nine months. At least Swanson could now take a small salary.
+Genentech would eventually develop a number of important new medical products, beginning with synthetic insulin, its very first FDA-approved product in 1982, and the first genetically engineered human theraputic. Genentech's success eventually led to one of the largest acquisitions in health-care history, as Roche (OTC:RHHBY
+) took full control of Genentech for roughly $47 billion in 2009 after holding majority ownership since 1990.
+The star of the oil industry
+Texas Company -- popularly known as Texaco -- was officially formed in Beaumont, Texas on April 7, 1902. Originally devised as a transport and pipeline operation to take advantage of the massive oil flow from the nearby Spindletop field, Texaco would grow into a fully integrated exploration and production company a year later, with the tapping of a 5,000-barrel-per-day well at nearby Sour Lake Springs. The company's success was rapid and notable -- within only 13 years, Texas Company would become the first oil enterprise to ever earn a place on the Dow Jones Industrial Average (DJINDICES:^DJI
+). This index membership continued, with one small interruption from 1924 to 1925, for more than 75 years.
+By 1928, Texaco was the first company to operate a unified sales network of one branded gasoline. Texaco developed modern service stations in 1937, with the familiar car wash, mechanic bays, sales office, restrooms, and large street-facing brand signs. In 1959, Texas Company officially changed its name to Texaco, which it retained until merging with Chevron (NYSE:CVX
+) in 2001 to create one of the world's largest integrated oil companies, under the Chevron brand.
+Can you see me now?
+The first public demonstration of long-range television transmission in history took place in an AT&T (NYSE:T
+) Bell Labs auditorium on April 7, 1927. AT&T brought future President and then-Commerce Secretary Herbert Hoover to the demonstration to serve as the subject of the transmission, where he said to those gathered on both sides: "Today we have, in a sense, the transmission of sight for the first time in the world's history. Human genius has now destroyed the impediment of distance in a new respect, and in a manner hitherto unknown."
+It was just one year later that television broadcasts began in the United States, but they were hardly entertaining -- early viewers were just getting the shadows of popular programs, which would have been all but impossible to make out. True broadcasts as we now consider them didn't gain popularity until the mid-1930s, and although color televisions had been tested shortly after AT&T's Hoover broadcast, it was not made commercially available until after World War II. Those woebegone Depression-era folks might not have been so depressed, if only they'd had TV -- assuming they could afford it, of course.
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Investors want dividend stocks for their solid income, dependable returns, and relative stability in the face of an increasingly shaky stock market. With the S&P 500 (SNPINDEX:^GSPC
+) near record highs, the fact that dividend stocks can provide some ballast against overall market declines looks more attractive than ever.
+But looking at raw dividend yield can mislead you into buying stocks that aren't as stable as you might think. As a better alternative, let's instead look at the 11 stalwart blue-chip companies that paid more than $5 billion in dividends to shareholders during 2012, according to figures from S&P Capital IQ.
+Rank
+Company Name
+Amount Paid in Dividends
+1
+AT&T (NYSE:T
+)
+$10.24 billion
+2
+ExxonMobil (NYSE:XOM
+)
+$10.09 billion
+3
+General Electric
+$7.19 billion
+4
+Microsoft 
+$6.97 billion
+5
+Chevron (NYSE:CVX
+)
+$6.84 billion
+6
+Johnson & Johnson 
+$6.61 billion
+7
+Procter & Gamble
+$5.88 billion
+8
+Philip Morris International 
+$5.40 billion
+9
+Wal-Mart
+$5.36 billion
+10
+Verizon (NYSE:VZ
+)
+$5.23 billion
+11
+Merck
+$5.12 billion
+SOURCE: S&P CAPITAL IQ.
+Looking at these 11 stocks, you can see some general trends. Certain industries are better represented than others, as their business models lend themselves more to generous dividend payouts than those of other companies. Perhaps the most obvious example is the telecom industry, in which both AT&T and Verizon have spent massive amounts of capital building out their respective wireless networks. Yet despite having to service extremely high levels of debt to repay what they borrowed to build those networks, dependable monthly income from millions of subscribers provides more than enough cash flow both to pay interest and principal on their debt and to return capital to shareholders. As long as their services remain in demand, Verizon and AT&T should remain near the top of this list.
+Energy stocks ExxonMobil and Chevron also appear near the top of the list, and although the energy industry involves much different operational aspects from telecom, oil and gas companies have some of the same business-model characteristics. Finding reserves and drilling wells require substantial upfront capital investment, but once production begins, the profits are substantial enough to more than make up for the carrying cost of those upfront capital expenditures. Even with natural gas prices being far from ideal from a profitability standpoint, great conditions in the refining business have helped these integrated oil giants produce even more free cash flow to return to shareholders.
+Get your share of dividends
+If you want income from your investments today, dividend-paying stocks are your best bet. These stocks pay billions to their investors, and they're among the most solid prospects in the market. That's a powerful combination that you should consider closely for your portfolio.
+
+
+
+Before you consider the S&P 500 Index - Price Return (USD), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the S&P 500 Index - Price Return (USD) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

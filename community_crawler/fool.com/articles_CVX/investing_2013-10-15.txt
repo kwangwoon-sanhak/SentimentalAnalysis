@@ -1,0 +1,87 @@
+Although we don't believe in timing the market or panicking over market movements, we do like to keep an eye on big changes -- just in case they're material to our investing thesis.
+The Dow Jones Industrial Average (DJINDICES:^DJI
+) is down 0.56% late in today's session as squabbling in Washington gets down to crunch time. If an agreement to increase the debt ceiling isn't reached by Thursday, the U.S. will default on its debt, potentially resulting in rising interest rates, plummeting stock markets, and widespread panic in the financial industry (more on why U.S. Treasuries matter here).
+Over the past few days the market has paid little attention to the debate in Washington, assuming it will be resolved in the nick of time. But eventually even Wall Street has to realize that default is a possibility, especially when the Treasury Department is just hours away from running out of cash. It looks like that realization hit traders at about 2:25 p.m. EDT, when the Dow Jones Industrial Average took a turn for the worse.
+
+^DJI DATA BY YCHARTS.
+On a positive note, while most of the market was panicking over a potential default, the energy industry has held up well today.
+Energy stocks fight the plunge
+One of only three Dow stocks in the green today is Chevron (NYSE:CVX
+), which is barely above breakeven. Oil is down 1.2% today, and while you may think that's bad for Chevron, that may not be the case. Recently, Chevron's refineries have been a drag on earnings, so lower oil prices aren't necessarily a bad thing, as they may boost margins.
+Unless the fallout from a potential default moves from financial instruments to the general economy, the energy business should be somewhat insulated. There will still be demand for oil and gas after a default, and the short-term hit to oil prices could actually boost results.
+Supreme Court boosts coal stocks
+The Supreme Court agreed to take up a challenge to the Environmental Protection Agency's CO2 emission regulations today, which has pushed coal stocks significantly higher. Walter Energy (OTC:WLTGQ
+) and Cliffs Natural Resources (NYSE:CLF
+) are both up 4% today as investors project the possibility of more domestic demand.  
+The irony is that most coal producers have moved on from the U.S. for demand or growth. U.S. coal-fired power plants are being shut down by the hundreds, and China is now where companies see growth in thermal and metallurgical coal demand.
+While Walter Energy and Cliffs Natural Resources are both cheering the news today, the damage from the EPA may be done. Even if coal is allowed to be used more freely in the U.S., alternatives like natural gas and solar power are the real challenge for the industry, and they're not going away, even with less regulation.
+Pockets of strength amid decline
+The energy industry is a pocket of good news as the market crashes today. However, if there's no deal tomorrow, all bets are off. For everyone's sake, I hope that's not the case.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Although we don't believe in timing the market or panicking over daily movements, we do like to keep an eye on market changes -- just in case they're material to our investing thesis.
+Chevron (NYSE:CVX
+) is up today as the company goes to court over the $19 billion judgment against it in Ecuador. Chevron is alleging that its opponent's attorneys won the case through fraud and corruption, rather than facts. The start of the case has Chevron up, while the Dow Jones Industrial Average (DJINDICES:^DJI
+) and oil prices are both down for the day. As of 1:15 p.m. EDT the Dow was down 45 points to 15,258. WTI crude was down 0.6% to $101.80, and Brent crude was down 0.6% to $110.34.
+Stock markets, bond markets, and commodity markets are all selling off slightly today as we continue to wait for congressional action on the debt ceiling. Hopefully, you are well aware of how much of a disaster a default on the U.S.' obligations would be. Investors broadly assume that Congress will at least pass a continuing resolution to put off the debt ceiling decision till next month. Since talks began at the end of September, the Dow is down just 2%. The effects of the continued debate can best be seen in the Treasury bond market, where Treasuries expiring Nov. 7 yield 0.25%, while the six-month treasury yields 0.13%.
+The effects can also be seen in the oil markets, where the spread between WTI crude and Brent crude has widened to $8 after narrowing to $1.
+
+BRENT CRUDE OIL SPOT PRICE DATA BY YCHARTS.
+WTI has fallen as economic activity in the U.S. slows and demand for oil drops around the country. Last week the Energy Information Agency reported that crude inventories rose in the U.S. by 6.8 million barrels. Further, the government shutdown is estimated to hurt GDP growth by 0.1 to 0.15 percentage points a week. Now that we have just started the third week of the shutdown, the economic effects are rippling through the economy.
+Chevron's case
+Chevron is up today as the company goes to court in Manhattan to dispute the $19 billion judgment it faces in Ecuador. Texaco, which Chevron acquired in 2001, was sued 20 years ago in Ecuador over illegal dumping of drilling waste from 1964 to 1992. Fool analyst Isaac Pino took an in-depth look at both sides of Chevron's Ecuador legal battle. While Chevron lost the case in Ecuador, the company is now in court to argue that the lawyers for the Ecuadorians engaged in fraud and corruption to win the case. If Chevron loses the court battle in the U.S., the Ecuadorian lawyers will be free to try and enforce the judgment by seizing Chevron's assets around the world so long as Chevron refuses to pay the full judgment. We will have to wait and see what happens.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+On this day in economic and business history...
+Yale economist Irving Fisher offered one of the most notorious stock-market predictions of all time on Oct. 15, 1929. Speaking at the Purchasing Agents Association's monthly dinner in Manhattan, he claimed that stock prices had reached "what looks like a permanently high plateau."
+Fisher's statements, as recorded by a New York Times reporter, were detailed, assertive, and wrong in virtually every way:
+Mr. Fisher declared realized and prospective increases in earnings, to a very large extent, had justified this rise, adding that "time will tell whether the increase will continue sufficiently to justify the present high level. I expect that it will."
+"I believe that the principle of the investment trusts is sound," Mr. Fisher summed up, "and the public is justified in participating in them, with due regard to the character and reputation of those conducting them. ... I do not feel that there will soon, if ever, be a fifty or sixty-point break below present levels."
+While the tone of his address was guardedly optimistic, the informal questioning that followed allowed Professor Fisher to lapse into a rather Pollyannaish investing mind-set. In reply to one question, he declared that he expected "to see the stock market a good deal higher than it is today, within a few months."
+The Dow Jones Industrial Average (DJINDICES:^DJI
+) closed at 347.24 points on the day of Fisher's speech, 9% lower than the all-time high reached a month earlier. It would not be long before the market fell apart. Fisher was undaunted, expecting no such collapse. He gave a follow-up speech -- ominously titled "Is the Stock Market Too High?" -- at New York's District Bankers Association on Oct. 23, highlighting 15 reasons why the unprecedented bull market would resume in 1930. Most of these boiled down to better technologies, better business-management techniques, and the perception of safer and superior returns in stocks against other asset classes.
+Black Thursday hit the market the day after Fisher's follow-up speech. The Dow collapsed by 11% at the opening bell and was only saved from annihilation by the concerted efforts of leading banks to prop up share prices. The following week saw the worst two days in Dow history to that point in time, back-to-back implosions that each decimated the index's value. (The term "decimate" originally referred to a Roman military practice of culling 10% of a mutinous army's soldiers, and these two Black days were the first 10% losses in the index's history.) From the day of Fisher's prediction to the end of October, the Dow lost 21% of its value. Interviewed by Nation's Business in the aftermath of the crash, Fisher waved it away as the backlash of panicky market psychology, citing "an undue eagerness to invest [where] people tried to do business on a shoestring," otherwise straightforwardly known as extreme leverage or margin trading.
+By the end of 1929, the Dow was 35% below its peak, but Fisher remained defiantly in the bull camp. On the last day of the year, the Los Angeles Times published an article Fisher had written, which noted that "the increase both in dividend payments and in plowed-back earnings during 1929 over 1928 gave earnest of continuing prosperity for business for 1930." Citing a broad-based measure of 271 large industrial concerns that showed a 27% year-over-year increase in earnings for the first three quarters of 1929 -- utilities saw an 18% improvement, and railroads enjoyed year-over-year growth of 17% for the same period -- Fisher painted the picture of an undervalued market set for a rebound.
+None of this ultimately mattered to investors -- one year after Fisher's "permanently high plateau," the Dow had lost 42% of its value. From peak to trough, over the course of three years, the Dow lost more value than it had gained during the entire Roaring '20s. By the time it finally bottomed out in 1932, the Dow had reached lows not scraped since 1897 -- its second year in existence -- when the technologies and processes of the 1920s were still only the ambitions of a few budding industrialists.
+Irving Fisher died on April 29, 1947. The Dow, at the time, was still only half as high as it had been on the day of his infamous speech. It would not surpass the value of Oct. 15, 1929, for another decade.
+Sinking like a stone
+Two weeks after suffering an all-time record nominal decline, the Dow continued its brutal 2008 on Oct. 15 with the second-largest point decline ever recorded. The index's 733-point drop resulted in a 7.9% loss of value, which made it the largest percentage decline since 1987's Black Monday. Weak retail sales combined with Federal Reserve Chairman Ben Bernanke's grim comments to the Economic Club of New York to obliterate an estimated $1.1 trillion of market value, according to CNN Money's daily recap. From the day before the Dow's record point slump to the end of its second-worst slump, 23% of index value was lost, and a stunning 11% pop was completely erased.
+The big get bigger
+Chevron (NYSE:CVX
+) announced its acquisition of rival Texaco on Oct. 15, 2000, for $35 billion in stock and an assumption of $7.5 billion in debt. The deal, which eventually swelled to a total value of $45 billion when it was completed a year later, was set to create the world's fourth-largest publicly traded oil company. Between them, Chevron and Texaco then accounted for $66 billion in global revenue, more than 12,000 American service stations, and an estimated 11.2 billion barrels of oil-equivalent (BOE) reserves, which the two companies pumped out at a combined rate of 2.7 million BOE per day.
+The merger capped a two-year period that saw many of the world's largest oil companies combine to form a smaller group of supermajors. From 1998 to the Chevron-Texaco announcement, 12 massive oil companies became five, reassembling many of the fragmented pieces of the old Standard Oil empire. ChevronTexaco lasted for four years following the completion of its merger in 2001, and then the enlarged company dropped the Texaco half of its corporate identity (although Texaco remains a gas station brand).
+The first programmer
+Ada Lovelace Day is celebrated each year in mid-October -- it's held at London's Imperial College on Oct. 15 this year -- to honor women in STEM, the fields of science, technology, engineering, and math. Ada Lovelace (her proper name was Augusta Ada King, Countess of Lovelace) is an apt honoree for such an occasion, because in October 1842 she became the world's first-known computer programmer by publishing Sketch of the Analytical Engine. This treatise was based on the designs of Charles Babbage, which described the operation of a successor to the world's first-known general-purpose computer. Babbage was the hardware developer, and Lovelace supplied the software, so to speak.
+The Sketch document was partly Lovelace's translation of an Italian transcription of Babbage's speech in that country's University of Turin, but more importantly, it contained extensive notes Lovelace prepared describing complex operations of the Babbage machine. These notes brim over with equations, including most notably the first algorithm ever devised expressly to operate a computer. This algorithm, designed to calculate Bernoulli numbers, makes Lovelace a true programming pioneer, even though the analytical engine was never constructed. The programming language now known as Ada, as complex as its namesake, was created in the late 1970s to run embedded systems at the Department of Defense.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

@@ -4,8 +4,15 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
 from crawler import Crawler
 
+# 테스트 데이터 셋 종목
+#  - 엑손 모빌 XOM NYSE         https://www.fool.com/quote/nyse/exxonmobil/xom/
+#  - 쉐브론 CVX NYSE            https://www.fool.com/quote/nyse/chevron/cvx/
+#  - 로얄 더치 쉘 RDS.A NYSE    링크없음
+#  - Cimarex Energy XEC NYSE    https://www.fool.com/quote/nyse/cimarex-energy/xec/
+#  - Hess Corp HES NYSE         https://www.fool.com/quote/nyse/hess/hes/
 
-url = "https://www.fool.com/quote/nyse/exxonmobil/xom/"
+
+url = "https://www.fool.com/quote/nyse/cimarex-energy/xec/"
 PAUSE_TIME = 2
 
 class FOOL_CRAWLER(Crawler):
@@ -18,7 +25,10 @@ class FOOL_CRAWLER(Crawler):
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         #while True:
         for i in range(0, 100):
-            self.driver.find_element_by_xpath('//*[@id="load-more"]').click()
+            try:
+                self.driver.find_element_by_xpath('//*[@id="load-more"]').click()
+            except:
+                break
             # Scroll down to bottom
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             # Wait to load page
@@ -42,38 +52,38 @@ class FOOL_CRAWLER(Crawler):
 
 
     def write_url_to_txt(self):
-        with open("fool_community_url.txt", "w") as f:
+        with open("fool_community_url_XEC.txt", "w") as f:
             for url_element in self.url:
                 f.write(url_element + "\n")
 
     def save_articles(self):
-        with open("fool_community_url.txt", "r") as f:
+        with open("fool_community_url_XEC.txt", "r") as f:
             links = f.readlines()
             for link in links:
                 self.read_article(link)
 
     def read_article(self, url):
-        #crawling_words = ["investing", "earnings"]
-        crawling_words = ["general", "dividends-income"]
-        # if '/' in url:
-        #     if url.split('/')[3] == crawling_words[0]:
-        #         #https://www.fool.com/investing/2021/03/18/oil-prices-crash-by-8-on-geopolitical-tensions-rec/
-        #         date_number = 4
-        #     if url.split('/')[3] == crawling_words[1]:
-        #         #https://www.fool.com/earnings/call-transcripts/2020/05/01/exxon-mobil-corp-xom-q1-2020-earnings-call-transcr.aspx
-        #         date_number = 5
-        #     if not (url.split('/')[3] in crawling_words):
-        #         return
-
+        crawling_words = ["investing", "earnings"]
+        #crawling_words = ["general", "dividends-income"]
         if '/' in url:
-            if url.split('/')[4] in crawling_words:
+            if url.split('/')[3] == crawling_words[0]:
                 #https://www.fool.com/investing/2021/03/18/oil-prices-crash-by-8-on-geopolitical-tensions-rec/
+                date_number = 4
+            if url.split('/')[3] == crawling_words[1]:
+                #https://www.fool.com/earnings/call-transcripts/2020/05/01/exxon-mobil-corp-xom-q1-2020-earnings-call-transcr.aspx
                 date_number = 5
-            if not (url.split('/')[4] in crawling_words):
+            if not (url.split('/')[3] in crawling_words):
                 return
 
+        # if '/' in url:
+        #     if url.split('/')[4] in crawling_words:
+        #         #https://www.fool.com/investing/2021/03/18/oil-prices-crash-by-8-on-geopolitical-tensions-rec/
+        #         date_number = 5
+        #     if not (url.split('/')[4] in crawling_words):
+        #         return
+
             try:
-                file_name = "./articles/investing_{year}-{month}-{date}.txt".format(
+                file_name = "./articles_XEC/investing_{year}-{month}-{date}.txt".format(
                     year = url.split('/')[date_number],
                     month = url.split('/')[date_number + 1],
                     date = url.split('/')[date_number + 2])

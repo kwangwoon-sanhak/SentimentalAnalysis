@@ -1,0 +1,61 @@
+Last month, the U.S. Commerce Department disappointed economists with a monthly retail sales report that showed barely any sales growth from March to April. Despite the disheartening numbers, American markets chugged along, with the Dow Jones Industrial Average (DJINDICES:^DJI
+) gaining a few points. Today the Commerce Department reported another disappointing month of retail sales, with May's sales showing another barely there gain of 0.3% over April's adjusted result. But this time the Dow responded by falling 0.7% on the day, even with another boost to the prior month's growth rate -- last month upped March's month-over-month gain, and this report pushed April's growth rate from 0.1% to 0.5%. There were other reasons for the slide, but a weakening economy is always in the back of investors' minds.
+Here's what month-over-month growth has looked like over the past five years:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+As usual, there's a lot of noise in the month-to-month changes, but what's clear is that the auto industry continues to, ah, drive American retail growth (pardon the pun). Core retail sales, which exclude auto and gas-station sales, were effectively flat month over month in May, and over the past five years core retail sales have only grown more than 1% month over month on a handful of occasions. Only one of those months -- this past April -- took place in the past year:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+Since there are no longer any automakers on the Dow, it falls to energy giant Chevron (NYSE:CVX
+) to carry the torch for this purportedly higher-growth part of the retail economy. Chevron is the Dow's big winner today, at a modest 0.8% improvement at the end of trading. We'll examine the reasons for this tepid performance in more detail in just a moment, but it's more important right now to examine retail sales on a longer timeline, to assess the growth that takes place from year to year. In this case, at least, retail sales -- both with and without auto sales -- now appear to be turning around a years-long slide in growth rates that began after the sharp rebound following the end of the financial crisis:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+Let's treat this rebound with appropriate caution, as it is far from the first time that year-over-year retail sales have dipped into a short-term trough only to put together a few months of stronger growth. It's going to take more than a few good months in the spring to reverse a clear trend back to zero growth, but it's also important to remember that year-over-year growth rates need not dip into negative territory to signal a possible recession -- unlike 2008's implosion, the post-dot-com slowdown recorded only one month of year-over-year sales declines, which took place in September 2001.
+However, based on the sector-by-sector breakdown of May's retail sales, it seems increasingly likely that any downturn in car buying will be the biggest difference between continued growth and a fall into recession (or at least into very weak growth). The Commerce Department's month-over-month figures show a decline in retail sales at electronics stores, grocery stores, health and personal care stores (primarily pharmacies), apparel retailers, "specialty" retail (sporting goods, books, hobbies, and music), department stores, and bars and restaurants. Year-over-year growth rates are more important to assessing the health of the retail environment (at least in this writer's view), and on this measure only specialty retail and department stores suffered declining sales.
+The only segment other than auto dealers to post a month-over-month growth rate in excess of 1% was building-and-garden-supply retailers, which is most prominently represented by home-improvement chain and Dow component Home Depot (NYSE:HD
+). Even this positive bit of sector news wasn't enough to boost Home Depot, which lost 1.7% of its value today. Home-improvement retail grew 4.6% on a year-over-year basis, which seems like a good clip until you realize that it's well below last summer's heady growth rates. There is still time for this sector to rebound and recapture those growth rates, though:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+The gas-station component of noncore retail, which was once one of post-crash retail's fastest-growing sectors, has since slipped into persistent declines, posting year-over-year growth in excess of 1% on a nominal basis in only two of the past 12 months. Since retail sales reports don't account for inflation, this means that retail-level gas sales have essentially been in decline for a year. This doesn't jibe very well with auto sales, which have posted year-over-year growth rates of 5% or greater in all but one of the past 12 months and have grown 10% or more year over year for eight of the past 12 months:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+While we're on the subject of inflation, let's look at how overall retail sales have grown once inflation is taken into account. To smooth out the month-to-month noise, we'll use a rolling three-month average year-over-year growth rate -- that is, we'll compare the average of retail sales from this March, April, and May to the average of sales from those three months in 2013:
+SOURCE: U.S. DEPARTMENT OF COMMERCE AND ST. LOUIS FED.
+INFLATION DATA: PURCHASING POWER OF THE CONSUMER DOLLAR.
+INDEXED AT 100 TO JANUARY 1992 (START OF RETAIL SALES DATA AVAILABILITY).
+LATEST MONTH ESTIMATED BASED ON EARLIER DATA.
+America's retailers are still growing their sales on an inflation-adjusted basis, but the picture isn't quite as rosy as it looks in the headline numbers -- and even those numbers have been underwhelming lately. Retail comprises about 30% of U.S. gross domestic product, based on the government's figures for both indicators; since GDP growth is assessed on an inflation-adjusted basis, it's important to check retail sales growth in the same way, as a sustained plunge in retail sales might point to economic weakness in the months ahead. Here's how retail sales growth looks on a quarterly basis, compared to GDP growth, when we annualize (add up the past 12 months of sales) and adjust for inflation:
+SOURCE: U.S. DEPARTMENT OF COMMERCE U.S. BUREAU OF ECONOMIC ANALYSIS.
+INFLATION ADJUSTMENTS FOR RETAIL SALES: PURCHASING POWER OF THE CONSUMER DOLLAR.
+INDEXED AT 100 TO JAN. 1992 (START OF RETAIL SALES DATA AVAILABILITY), VIA ST. LOUIS FED.
+As you can see, GDP usually leads retail sales by a quarter or two, and since retail sales figures are updated on a monthly basis as compared to the quarterly updates to GDP, we might be get some insight into the American economy between GDP updates by examining real annualized retail sales growth. On this measure, at least, it appears the economy isn't about to stall out just yet:
+SOURCE: U.S. DEPARTMENT OF COMMERCE.
+The most important retail data point to watch going forward will undoubtedly be auto sales, which comprises about 19% of all retail sales and which has been nearly the only retail segment (save e-commerce) to post sustained double-digit growth in recent years. While autos' share of the retail pie has grown quite a bit since bottoming out at just 14% of all retail sales in late 2009, it's still far from its late dot-com-era share of roughly 23%. Making up the difference would add a potential $240 billion in auto sales to the American economy this year, and that doesn't count the secondary impact of all those extra cars on the road.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+The Dow Jones Industrials (DJINDICES:^DJI
+) had fallen 64 points as of 11 a.m. EDT Thursday, adding to a triple-digit loss from Wednesday. Market participants focused on figures that showed that retail sales rose just 0.3% in May, although revisions to prior months supported the contention that the U.S. economy bounced back sharply after declines in the early winter months. Relative weakness outside the auto sector raised some concerns, though, and rising levels of conflict in Iraq created new fears of uprisings that could disrupt the Middle East. Even though those problems sent the Dow lower, they helped boost shares of Chevron (NYSE:CVX
+) and ExxonMobil (NYSE:XOM
+) today.
+Good news, bad news
+Iraq has dealt with instability for decades now, but recent uprisings have taken on a new level of urgency, and oil markets are feeling their impact around the world. Insurgents from the northern part of the country are moving toward the capital of Baghdad. With reports suggesting the insurgent groups might be supported by the al-Qaida terrorist organization, some believe that the fragile nation might be starting to disintegrate. The national Iraqi military has been ineffective in maintaining order, with Kurdish forces having taken control of the northern city of Kirkuk.
+Iraq is the second-largest oil producer in OPEC, and threats to oil supplies have predictably sent oil prices higher. Brent crude rose more than $2 per barrel to $112, while West Texas Intermediate rose above the $106 level. Higher prices support profits for Chevron's and ExxonMobil's upstream exploration and production divisions, and some smaller energy producers are seeing even bigger gains.
+Of course, conflict in the Middle East isn't all good news for ExxonMobil and Chevron. Both Dow components have agreed to drill exploratory wells in the Kurdish region of Iraq, and the loss of those opportunities because of armed conflict in the area would be a blow to their growth prospects. Moreover, ExxonMobil has long had a presence in the southern part of the country, although controversy between the Iraqi national government and the semiautonomous Kurdish government has raised tensions with major oil companies doing business in Iraq outside the Kurdish area.
+If conflict escalates, then ExxonMobil and Chevron stocks could continue to rise even as the Dow could give up further ground. At some point, though, rising oil prices might start hurting overall economic activity, and that could be negative even for the Dow's biggest oil stocks.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

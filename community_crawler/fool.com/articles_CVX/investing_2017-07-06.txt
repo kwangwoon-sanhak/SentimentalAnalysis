@@ -1,0 +1,29 @@
+Every day, Wall Street analysts upgrade some stocks, downgrade others, and "initiate coverage" on a few more. But do these analysts even know what they're talking about? Today, we're taking one high-profile Wall Street pick and putting it under the microscope...
+After touching below $43 last month, oil prices have rebounded somewhat in the first week of July, recently approaching $46 on Thursday (per barrel of West Texas Intermediate crude oil, or WTI). Now, you might think that's good news for oil stocks. But if you do think that, Wall Street thinks you're wrong.
+Despite the rebound in prices, this morning, two major investment banks released negative notes on an assortment of oil stocks. In rapid-fire succession, first RBC Capital cut its rating on Chevron (NYSE:CVX) to underperform and ExxonMobil (NYSE:XOM) to sector perform. Then Bernstein added ConocoPhillips (NYSE:COP) to the list, cutting its rating to market perform.
+Here are three things you need to know about why.
+IMAGE SOURCE: GETTY IMAGES.
+Let's begin at the beginning, with the day's first oil downgrade -- Chevron. Chevron stock currently costs about $104 and change, and at RBC's previous price target of $112 per share, that appeared to leave some room for upside.
+No longer. As of today, RBC believes Chevron stock is worth only $100, and has zero room for upside.
+In a note covered on StreetInsider.com (requires subscription) this morning, RBC worries that ramping up production in the Permian basin will create a "drag" on free cash flow at Chevron -- siphoning off operating cash flow to pay for capital investments. In RBC's view, this will prevent Chevron from generating "meaningful" free cash flow from its Permian operations over at least the next couple years, and FCF won't actually start looking good for Chevron before 2020.
+For the record, so far, RBC seems to be right about that. Although Chevron is reporting positive GAAP profits these days, data from S&P Global Market Intelligence confirm that Chevron's free cash flow is still running negative -- as it has for the past four straight years.
+The situation with ExxonMobil is a bit trickier. RBC cut its rating on Exxon by one notch this morning, but only cut its price target by $1, to $95 a share. Of course, with Exxon stock currently costing only $80.50 per share, RBC's new price target actually implies that Exxon stock could go up another 18%. Add in Exxon's market-beating 3.8% dividend yield, that that works out to potential profits of nearly 22% for new investors, which seems like it would be a pretty nice haul.
+So why did RBC downgrade Exxon stock? That's a very good question, and while I see no clear answer, I suspect that even RBC may recognize that this rosy scenario isn't likely to play out. As explained in a write-up on TheFly.com today, Exxon's strong free cash flow ($11 billion over the past 12 months, and about 10% higher than reported net income) is already fully reflected in the stock's price. Valued on free cash flow, Exxon's $341 billion in market cap works out to a whopping 31 times free cash flow already.
+Unless Exxon's free cash flow grows a whole lot more, I honestly don't see a $95 stock price in Exxon's future anytime soon. For that reason, I'd be focusing more on the fact that RBC downgraded the stock today than on its reluctance to cut its price target as much as (I think) is warranted.
+Rounding out our list of oil downgrades today is ConocoPhillips, with Bernstein, not RBC, playing the villain this time. According to Bernstein, ConocoPhillips is a diversified oil producer. But while that sounds like a compliment, in Bernstein's estimation, diversification is no virtue for Conoco.
+Harking back to RBC's comments on the Permian shale region, Bernstein notes that Conoco has Permian interests, too, and the analyst expects to see "strong growth" in Conoco's Permian assets going forward. Unfortunately, Conoco also has a lot of interests outside of the Permian region, and Bernstein worries that production "elsewhere" will be only "flattish" for ConocoPhillips.
+The analyst's conclusion: "Investors should opt for names heavily levered to the US Onshore especially the Permian rather than more diversified names like COP."
+Cheap shale oil has upended the economics among oil companies, with dire results for many oil majors. On Thursday, oil investor Andy Hall at the Astenbeck Capital hedge fund told Financial Times that "Opec's attempts to push prices to $60 seem futile" in light of the low cost of producing shale oil. When cost of production is cheap, any rise in the price of oil tends to quickly attract increased production -- which grows oil supplies, and pushes prices right back down again.
+Bernstein in particular predicts that while Brent crude (usually a couple dollars more expensive than U.S. West Texas Intermediate) will rise in price, it will still average only $50 this year. In the opinion of Wall Street, this simply isn't a high enough price to justify the 33.6 P/E ratio that Exxon stock currently carries, much less the 67.8 P/E at Chevron, or the nonexistent P/E ratio (a result of negative profits) at ConocoPhillips.
+Suffice it to say that I agree. Cheap oil and high stock prices mean nothing good for oil stocks.
+
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

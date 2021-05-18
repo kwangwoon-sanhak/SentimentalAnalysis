@@ -1,0 +1,126 @@
+It's always interesting to watch the action in the stock market on the day before an important piece of potentially market-moving news comes out. It would have been logical for stocks to tread water today in anticipation of tomorrow morning's employment report, which investors will look at closely to try to figure out how the Federal Reserve is likely to respond in managing its ongoing stimulus efforts. But, after some early jitters, stocks actually performed quite well today, as the Dow Jones Industrials (DJINDICES:^DJI
+) rose 80 points, and climbed back above the 15,000 level. The broader market was up even more sharply, with the S&P 500 (SNPINDEX:^GSPC
+) gaining 0.85%.
+Some stocks didn't manage to recover from early losses, however. Chevron (NYSE:CVX
+) finished the day down 0.8%, extending its losses over the past few days. Given crude oil's price gain of nearly $1 per barrel today, most of Chevron's energy-company peers managed to post at least modest rebounds today, even though the sector has underperformed the broader market throughout the rally of the past six months. Investors might be concerned that the unfreezing of the company's assets in Argentina might lead Chevron to make greater investment in the country, potentially exposing it to future nationalizations of assets that could end up costing Chevron even more in lost assets. Avoiding political risk will be key for the company as it navigates various world energy markets.
+Caterpillar (NYSE:CAT
+) lost half a percent, even as gold and silver prices posted modest gains. Caterpillar finds itself in a difficult position, as low metals prices will likely force many of its mining-company clients to delay or downsize purchases of capital equipment. Ordinarily, cyclical economic improvement would bode well for the company, but to the extent that improving conditions lead to less monetary accommodation from central banks, prices of metals could fall further, and jeopardize that part of Caterpillar's business, even if construction and infrastructure activity pick up. That will be a difficult line for the company to walk in the year ahead.
+Finally, outside the Dow, VeriFone Systems (NYSE:PAY
+) plunged more than 20% after missing earnings expectations, and issuing poor guidance for the current quarter. Given the huge potential that the company has in expanding into mobile payment systems, VeriFone has thus far failed to deliver on its promise, and investors clearly don't believe that the company's turnaround efforts are likely to succeed amid huge amounts of competition in the space.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+The Department of the Interior recently signed off on three, clean power, renewable energy projects on public lands. Two projects are for solar generation, while the third project is for geothermal power. In this video, Fool.com contributor Aimee Duffy looks at these projects and discusses what this means for investors in the long term.
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Having shed more than 100 points by early afternoon, the Dow Jones Industrial Average (DJINDICES:^DJI
+) staged a comeback in its final hours of trading, as Wall Street looks to tomorrow's employment data to gauge the health of the economy. Surprisingly, Verizon's (NYSE:VZ
+) stock was the top gainer in the index, even after The Guardian revealed that the National Security Agency is secretly obtaining the phone records of millions of U.S. Verizon customers. 
+The Dow added 80 points, or 0.5%, to close at 15,040. 
+Seemingly blind to the outrage surrounding the indiscriminate collection of private citizens' phone usage data, Wall Street bid Verizon's stock 3.5% higher Thursday. To be fair, the company didn't have much of a choice in the matter -- it was ordered by a secret court to provide information like "location data, call duration, unique identifiers, and time and duration of the calls," as well as the phone numbers for both parties, according to The Guardian. Verizon isn't allowed to acknowledge the program exists -- and no, I'm not making this up.
+On a less-Orwellian note, Home Depot (NYSE:HD
+) shares shot up 2.9% today. The stock had stumbled 5% in the previous two days, which were both losing sessions for the broader market, as well. While the real estate market's on the mend, Home Depot, meanwhile, is looking for new ways to engage with customers and attract business: The company can send customers 3D layouts of kitchen designs, and is even engaging with some users via video chat.
+Pfizer (NYSE:PFE
+) added 2.3% Thursday after CEO Ian Read conveyed to the Financial Times US Healthcare Conference a willingness to partner with rival companies to develop and market breakthrough treatments. As Pfizer and other pharmaceutical companies deal with the unpleasantries resulting from the "patent cliff," the willingness to partner with competitors offers another source of otherwise unavailable revenue. 
+Lastly, Chevron (NYSE:CVX
+), one of just six blue chip decliners, fell 0.8% on Thursday. The energy titan is working toward a deal with Argentina's YPF to develop the Vaca Muerta basin, thought to be one of the two or three largest shale oil and gas reservoirs in the world. But with all that potential reward comes some geopolitical risk, and a hefty investment, which could approach $15 billion in time.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+If you like rollercoasters, you've probably loved the past month on the stock market. The Dow Jones Industrial Average (DJINDICES:^DJI
+) has climbed to a new peak, fallen off a cliff, gone round and round, and finished just about where it started.
+
+^DJI DATA BY YCHARTS.
+Today the ride continued, with the Dow and S&P 500 (SNPINDEX:^GSPC
+) rising in early trading, dropping sharply around noon, and finally climbing back to small gains. As of 3:25 EDT the Dow has gained 0.18%, while the S&P 500 is up 0.43%.
+Investors are already speculating about tomorrow's unemployment numbers from the Department of Labor. Economists expect 164,000 jobs to have been added in May, pegging the unemployment rate at 7.5% -- decent but not spectacular numbers. 
+Despite the many negative headlines, Verizon (NYSE:VZ
+) stock is leading the Dow today, climbing 3.4%. The Guardian broke a story about an NSA order requiring the company to turn over information about both international and domestic telephone calls. This may seem to reflect poorly on Verizon, but the company had little choice but to turn over information, and other telecom companies are likely doing the same.  
+What long-term investors should focus on is Verizon's hefty 4.2% dividend yield and the company's strength in the lucrative mobile market. Verizon isn't going anywhere ,and even a few negative headlines won't hold back the stock in the long term.
+Chevron (NYSE:CVX
+) is down the most on the Dow today, falling 1.3%. Oil is actually up 1.1% today, but the real challenge for big oil is the rising cost of oil extraction and falling demand in developed markets. In the U.S., daily oil demand is down 10.2% since 2007, and that's a concerning development for energy investors. Explorers are also looking for oil in difficult drilling locations like ultra-deep water and shale here in the U.S. These two issues will be important for current and prospective energy-sector investors to follow.  
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+The market's slump continues for a third straight day, and the Dow Jones Industrial Average (DJINDICES:^DJI
+) is back in the red again, with Chevron (NYSE:CVX
+) stock leading the index down. The blue-chip index has dipped back below 15,000 after surging to record highs last month, down 31 points as of 2:20 p.m. EDT. Stocks are down across nearly every industry today. Should you be worried, or are Wall Street's jitters just a temporary fluctuation this week?
+Wall Street frowns, markets down
+Tomorrow marks the release of May's job reports, and despite the decline in weekly jobless claims reported today, investors are showing anxiety about the pace of the U.S. economy's improvement. Unfortunately, Wall Street's polarizing views could mean disappointment for stocks no matter how good -- or bad -- the jobs picture looks. Poorer-than-expected jobs growth in May would indicate an economy struggling to get on its feet, while strong jobs growth could make Wall Street fret that quantitative easing could be slowed down soon.
+Whatever the result, one thing is clear: This is a time when it's especially important not to follow the herd.
+That's all Chevron's stock has done today, however, falling along with the broader energy sector. Strangely, Chevron's stock is on the downswing despite a release of good news. The Supreme Court of Argentina unfroze Chevron's assets in the South American nation, lifting an earlier embargo that had gone on for months. Chevron is looking to team up with Argentinian state-run energy firm YPF (NYSE:YPF
+) in developing the Vaca Muerta shale field, the world's second-largest shale-oil basin.
+Argentina is anything but a stable business environment right now, but Chevron's pouring a significant investment into the deal with YPF. Bloomberg estimates that the companies' venture could amount to a $15 billion investment in total.
+A few stocks are defying the Dow's drop today, and Pfizer (NYSE:PFE
+) ranks among the index's leaders, with shares gaining 2.1% so far. Today the company offered $25 million in upfront payments to small biotech firm CytomX for the development of cancer-fighting antibody therapies. CytomX could make more than $600 million in milestone payments if the deal meets all its goals, and success would mean even more strength for Pfizer's already substantial pipeline as the company lays the groundwork for its future financial foundation.
+Verizon's (NYSE:VZ
+) shares haven't been affected by the big news involving this company today. The telecom firm's stock has jumped 2.7%, even though it's experiencing a public-relations nightmare. A classified court order released by The Guardian last night revealed that the firm was ordered to turn over business records of its customers regarding both domestic and foreign calls. Verizon didn't comment on the matter, and while the company certainly isn't at fault here, there's no telling whether investors will react poorly to this news if the case opens up even more revealing information. This is one story Verizon investors would be wise to follow.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+This morning it seemed as if today would be uneventful. The market was calm as investors held their breath ahead of tomorrow's unemployment data. But around noon EDT the markets took a nosedive, and as of 12:55 p.m. EDT the Dow Jones Industrial Average (DJINDICES:^DJI
+) has lost 95 points, or 0.63%. The S&P 500 (SNPINDEX:^GSPC
+) is down 0.49%, while the Nasdaq is lower by 0.55%. The jobless-claims number that came out this morning was not enough to get investors buying. The number of claims fell 11,000 from last week to 346,000 -- right in line with expectations. 
+A few Dow losers
+Shares of Chevron (NYSE:CVX
+) are down 2.2%, making it the Dow's worst performer as of this writing. Since the price of crude oil is moving higher and there is little news regarding the company today, the likely cause for the decline is yesterday's Barclays downgrade. The analyst downgraded Chevron shares from "overweight" to "equal weight." Additionally the price target was lowered from $145 to $133. The main reasons cited for the change were valuation concerns and capital expenditures. 
+Intel (NASDAQ:INTC
+) could also be experiencing a downgrade hangover today as shares drop 1.7%. Yesterday analysts from JPMorgan Chase claimed that the company would likely report lower-than-expected results for the coming quarter because of weak PC sales around the world. Additionally, Morgan Stanley and Bernstein Research reiterated their sell-equivalent ratings due to the flagging PC market. 
+These reports may also be having an effect on Hewlett-Packard (NYSE:HPQ
+) today: Shares of the partially PC-reliant company are down 1.6%. Some would argue that HP is not really a PC company anymore. However, while the company receives a large amount of its revenue from areas besides PC sales, at the end of the day HP still needs to sell personal computers if it wants to stay alive. A large part of CEO Meg Whitman's strategy is lowering the company's reliance on that industry, but HP is only 18 months into a five-year turnaround plan.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

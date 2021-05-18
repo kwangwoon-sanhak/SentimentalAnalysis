@@ -1,0 +1,83 @@
+Over the past few weeks I've been working my way through the nine dividend aristocrats on the Dow Jones Industrial Average (DJINDICES:^DJI
+), and today we'll look at Chevron (NYSE:CVX
+). The company's consecutive dividend streak started back in 1988, and its $4.00 dividend gives the stock a current yield of 3.50%, the third highest on the index.
+So how did we get here? Well, Chevron is the Dow's youngest dividend aristocrat. Before 1988, Chevron made a number of consecutive quarterly dividend payments of $0.15, but the payout has increased every year since then, up to its current quarterly dividend of $1.00. It's been a slow but steady climb over the past 26 years:
+
+CVX DIVIDEND DATA BY YCHARTS.
+Chevron has a stable business, and economists think demand for its key product will continue to rise, so a future chart of Chevron's dividend increases and payments will look very similar to the one you see up above. So the next question for investors is how well the stock price has appreciated over the past few years.
+Since late February 1988, the stock is up more than 896%, or 9.2% annualized without reinvestment of dividends. Adding in dividends improves the performance to 2,455%, or an annualized return of 13.3%. Over the past 26 years, the S&P 500 has returned 587%, annualized at 7.69%, without dividends reinvested, so even if you didn't reinvest your Chevron dividends, you still would have outperformed the S&P over that period.
+But will Chevron still be a good buy going forward? Let's look at what investors should be watching.
+Over the next 30 years, economists estimate that world energy consumption will increase by 56%, and fossil fuels are projected to supply almost 80% of the world's energy through 2040. Fossil fuels are Chevron's bread and butter, meaning demand for its product will keep rising. But there's a finite supply of oil and gas, and what's left is often hard to access. That has already started causing problems for Chevron and will probably continue to bring new challenges in the coming years.
+Rising costs for exploration and drilling could also weigh on the company's margins and profitability in the future, because as costs go up, Chevron can't just start charging more for its oil, since oil is traded as a commodity -- meaning the company doesn't set the price; the market does.
+Investors should also keep an eye on oversupplies of oil or gas on the market. When we began finding natural gas in abundance in the U.S., the price of the commodity fell through the floor. A number of smaller businesses have since pulled out of the industry because they couldn't make a profit. It's unlikely, but the same thing could happen to Chevron if the company doesn't stay vigilant.
+Finally, while Chevron currently pays out just 35% of its profits in the form of a dividend, the industry requires heavy investing and a large amount of free cash. So for Chevron's industry, 35% is a safe place to be, and investors will be well served if the company can can continue to grow profits and free cash flow, so that Chevron can raise its dividend without increasing the payout ratio. On the other hand, even if Chevron falls on hard times, it could manage to raise both the dividend and payout ratio without causing substantial harm, as long as management reinvests back into the business through research and development projects.
+Final thoughts
+Chevron is a great company that's not going anywhere. There are some long-term concerns about the industry, and none of our analysis takes into account unforeseen events like a massive oil spill. As we saw with BP following the Deepwater Horizon disaster, those events can be devastating to a company and its dividend. These are things that investors in oil and gas companies always need to keep in mind. There are risks in these investments, but with big risk comes big potential reward. That's true for Chevron as much as for any of its peers.
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+THIS IS THE ONLY TIME PIZZA AND FIRE SHOULD SHARE SOMETHING IN COMMON. SOURCE: LOTUSHEAD / SXC.
+You would expect the leaders of multinational brands such as Chevron (NYSE:CVX
+) and Chick-fil-A to make decisions reflecting the amazing foresight and logical thinking that catapulted their businesses to their current valuations. Then weeks such as this take place that make your brain synapses fire off the thought "What was I thinking?" In moves paralleling the "so what?" decision by General Mills (NYSE:GIS
+) to make original Cheerios -- one of 12 varieties of the cereal -- free of ingredients produced by genetically modified organisms, Chevron and Chick-fil-A took the corporate bar for stupid to new heights. Netflix is now officially off the hook. 
+Sorry for blowing up your town -- have a pizza!
+The tiny blue-collar town of Dilliner, Pa., located 50 miles south of Pittsburgh (where I live), was almost erased from the map on Feb. 11, when a natural gas well operated by Chevron exploded. OK, so the town was never in danger of being blown off of the map, but that doesn't change reality. A natural gas well exploded, ignited itself and an adjacent well for five days, and left one worker dead.
+Chevron actually did a tremendous job to quickly quarantine the area and monitor the situation for safety personnel and workers, and it will soon move to cap the wells. That would have been a good place to leave the situation, but the company decided to reach out to the surrounding area.
+With pizza.
+And sodas (er, "pop", in Western Pennsylvania).
+The multinational energy company purchased 100 gift certificates from Bobtown Pizza to hand out to residents as an apology for the disruption to their daily lives. (You can't make this stuff up.) As you can imagine, the gesture wasn't well received by everyone. What was Chevron thinking?
+SOURCE: CHICK-FIL-A.
+Breaking news: We're buying chickens in 2019
+Consumer activism has reached new heights with the simultaneous rise of social media platforms and use of biotech crops, which a loud minority of consumers opposes. While using antibiotics to raise livestock and using the tools of biotechnology to create better products are two unique issues, both share a connection to the surge in consumer demands to the food industry in recent years.
+Examples include Johnson & Johnson's removing of formaldehyde and 1,4-dioxane from its baby shampoo, Subway's removing of a preservative from its bread, and Kraft Foods' removing of two dyes from its foods. And of course, General Mills' offering of GMO-free Cheerios, although the move required little effort on the company's part, didn't change its stance on GMOs, and only makes up a small sliver of its product portfolio. It was only a matter of time before antibiotic-free meats made their way onto the list of demands.
+As natural gas wells were ablaze in Dilliner, Chick-fil-A announced that it will serve only antibiotic-free chicken within the next five years:
+We are collaborating with national and regional poultry suppliers to build a supply chain based on chickens raised with no antibiotics. We are asking suppliers to work with the USDA to verify that antibiotics are never administered from the hatchery to the processing plant.
+What seems like a monumental step by Chick-fil-A is nothing more than a hyped press release that piggybacks on what the poultry market will resemble in 2019. You see, the U.S. Food and Drug Administration is already moving to finalize a voluntary program for animal pharmaceutical companies -- Zoetis, Elanco, Merial, Merck Animal Health, and the like -- to make the changes necessary for an antibiotic-free meat supply. From the initiative:
+[A]nimal pharmaceutical companies can work with the agency to voluntarily remove growth enhancement and feed efficiency indications from the approved uses of their medically important antimicrobial drug products, and move the therapeutic uses of these products from over-the-counter (OTC) availability to marketing status requiring veterinary oversight.
+Antibiotics are often added to animal feed to boost the growth of various livestock. However, antibiotics are not always used in chicken production, and many suppliers already offer antibiotic-free options. That, coupled with the new program from the FDA, means it's highly likely most major retail food outlets will be serving antibiotic-free chicken in the next five years. Why does Chick-fil-A get a press release?
+Foolish bottom line
+Chevron, Chick-fil-A, and General Mills understand that it's important to win the hearts and minds of consumers. The oil and gas industry doesn't face consumers directly, so perhaps that partially explains the swing-and-miss pizza and pop offering to the town of Dilliner, but it doesn't make the olive branch any more bearable. Meanwhile, Chick-fil-A and General Mills do interact directly with consumers, which explains their attempts to grab headlines whenever possible. Unfortunately, that doesn't make their desperation any less obvious.
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Chevron (NYSE:CVX
+) and ExxonMobil (NYSE:XOM
+) didn't impress investors following their earnings releases for the last quarter of 2013 and outlook for 2014. Given the decline in their stock prices in the past several weeks, is the situation becoming dire for these oil majors? Let's try to put this into perspective. 
+The good -- production
+ExxonMobil's production was down by 1.5% during the past year. But the decline in production was mostly in its natural gas operations, which fell by 4% in 2013, year over year. Exxon wasn't the only company that reduced its natural gas operations: Chesapeake Energy (OTC:CHKA.Q
+) changed direction in the past couple of years, and has been slowly cutting down its natural gas production. In 2013 the company's natural gas production declined by roughly 4%, and in 2014, the company estimates its natural gas production will fall by 1%, year over year. Despite the decline in Exxon's production in 2013, its management remains optimistic that the company's production will rise in 2014 as several of its projects are expected to come to fruition, including projects in Argentina, Iraq, Canada, and the Russian Arctic. The company also plans to increase its drilling in shale oil fields in the U.S. 
+Chevron's production remained nearly unchanged in 2013. The company's modest rise in natural gas production offset the moderate decline in oil production. In 2014, however, the company projects its production will increase as several of its projects are expected to start producing. For example, Chevron's Brazilian subsidiary and Petrobras started to produce crude oil from Papa-Terra's floating production at the end of 2013.    
+The bad -- capital expenditure
+Exxon's capital expenditure rose during 2013 by 6.7% to reach $42.5 billion. Roughly 10% of this amount, or $4.3 billion was allocated toward acquisitions. But in 2014, the company is likely to maintain a similar amount of capex. Chevron's capex sharply increased by over 22% in 2013, year over year, and reached $41.8 billion. Out of this amount, $4 billion was allotted toward new acquisitions. Chevron also plans to maintain its capital spending at $40 billion. But the lack of growth in capex doesn't necessarily mean these companies will grow slower; this could suggest that there are fewer assets worth investing in at current oil prices. Moreover, it will allow these companies to keep their dividend payments and reduce the financial risk they may face.  
+The uncertain -- oil and gas prices 
+It's no surprise that the upward pressure on oil and natural gas prices could significantly affect the revenues and profit margins of oil and gas producers. During 2013, the price of WTI oil was roughly 4% higher than in 2012, while Brent oil was 2.8% lower than in 2012. The U.S. Energy Information Administration projects the price of WTI oil will decline to $93 per barrel and Brent to $105 per barrel. This will represent another 5% and 3.5% drop in the prices of WTI and Brent, respectively.  
+Moreover, the gap between Brent oil and WTI oil has narrowed during the past year. Nonetheless, the EIA projects the average gap between Brent and WTI, which is currently less than $10 a barrel, will rise to $12 a barrel. In comparison, the gap was on average $10.8 per barrel during 2013. If the EIA's estimates are accurate, the higher gap between Brent and WTI will also improve Exxon's and Chevron's refineries margins. This, in turn, will increase their profit margins during 2014.   
+In the natural gas market, the situation is different. Currently, the price of natural gas is relatively high, even for the winter season, at over $5 due to the colder-than-normal weather throughout the U.S. This could have some positive effect on the revenues of Chevron and ExxonMobil in the first quarter of 2014. Moreover, during 2014, the EIA estimates natural gas will be 11% higher than its average price in 2013, which could be a boon to their bottom lines. 
+Final thoughts
+The situation for Exxon and Chevron might not be as dire as some investors or analysts suspect. These companies are facing difficulties in increasing their capital spending and production in 2014. Moreover, the uncertainty around oil and gas prices and the premium of Brent oil over WTI will also play a role in their revenues and profit margins. 
+
+
+Before you consider Exxon Mobil Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Exxon Mobil Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

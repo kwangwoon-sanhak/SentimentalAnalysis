@@ -1,0 +1,49 @@
+Recently two of my colleagues each wrote an article looking at two different metrics and found the same company was the best in both. Dan Caplinger wrote about the top four Dow stocks when it comes to returning value to shareholders, while Brian Stoffel wrote about the five cheapest Dow components. The No. 1 company for both lists was ExxonMobil (NYSE:XOM
+), but i believe there are two important lessons we can take from these lists, and I don't think these No. 1 rankings make Exxon a screaming buy.
+Exxon's price-to-earnings ratio, which is what Brian used to determine the cheapest company, was 9.3, while the next lowest P/E ratio for any other Dow Jones Industrial Average (DJINDICES:^DJI
+) component was 9.5, for Chevron (NYSE:CVX
+) and JPMorgan Chase. There are probably a number of reasons the stock is trading at such a deep discount right now, such as a higher future P/E of 11.11, possible problems relating to recent oil spills, and, most importantly, the price of oil. While the short-term oil-spill problems shouldn't change a long-term investor's thesis, it will weigh on the minds of short-sighted traders. When it comes to the price of oil and its volatility, anyone investing in any oil company needs to fully understand that profits and stock prices are likely to fluctuate with the changes to the price of the commodity.
+But the mostly likely reason shares are trading at such a discount today is that investors and analysts believe future earnings will be lower than they are today, hence the future P/E of 11. To figure out what the P/E ratio is, we take the current share price and divide that by per-share earnings for the past 12 months. So for Exxon we take $91.53 / $9.83 and get 9.31. To get the future P/E, we take the current share price and divide it by the expected future earnings per share, which analysts believe will be $8.05 during 2013.
+This drop in earnings per share is not just something Exxon will experience this year: Most of the major oil companies are expected to make less in 2013. Chevron's current EPS is $13.23, but it's expected to fall to $12.39. BP (NYSE:BP
+) currently has an EPS of $7.10, but that has been estimated to decline to $5.00 during 2013. Just because the current P/E is low, that doesn't mean a stock is a great buy. P/E ratios are backward-looking, and as investors we shouldn't care much about what has happened in the past. The future will determine the movement of the share price.
+Meanwhile, Dan calculated that ExxonMobil returned more capital to shareholders than any other Dow component, and by a substantial margin. Exxon directly or indirectly gave shareholders $31.4 billion over the past 12 months. The next closest was AT&T (NYSE:T
+), which gave back $26.7 billion, and then Johnson & Johnson, which returned $196 billion. While Exxon did take the top spot, only $10.4 billion came from dividends; the rest came in the form of share buybacks. AT&T gave investors $16.6 billion in dividends and spent only $11 billion on share buybacks.
+Also, AT&T has a dividend yield of 4.9%, while Exxon boosts a yield of just 2.8%, and while this may seem like comparing apples to oranges, Chevron's yield is 3.2% and BP's dividend yield is 5%. My point behind the dividend yield is that in this time of low interest rates, when people are moving from bonds to stocks in search of high returns, investors need to consider Dan's calculations of total shareholder return, not just what we receive in dividends.
+In the short term, larger dividend payments may seem better to an investor, but if a company continues to buy back shares over a long period of time, investors will be better off, since they'll now own a larger portion of the business. Furthermore, with fewer shares to pay dividends to, the profits will be split by a smaller number, which would be likely to result in higher dividend payments for each share.
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+On this day in economic and business history ...
+The Dow Jones Industrial Average (DJINDICES:^DJI
+) was first published on May 26, 1896. Charles Dow, working in partnership with Edward Jones and Charles Bergstresser, was a pioneering financial journalist who began creating stock indexes (primarily composed of railroad companies) in 1884 to flesh out his daily news bulletins. These quick briefs would be hand-delivered to traders on the New York exchange floor throughout the day and would later be aggregated into a close-of-business news recap called the "Customer's Afternoon Letter" -- the progenitor of The Wall Street Journal, which was originally only four pages long and cost its stock-loving readers a mere two cents.
+Charles Dow's early forays into stock indexing coincided with a massive boom in railroad investments, an echo of the explosion of railroad companies that followed the construction and completion of the Transcontinental Railroad. However, a massive financial panic struck in 1893, crushing many railroads and causing a multiyear recession. Three years later, Dow created his first "Industrial Average," which contained only one railroad company -- and this company was actually a diversified materials enterprise as well. The Dow Jones Industrials became a symbol of American business durability while also showing the ability to adapt when necessary.
+Few of the Dow's first 12 components (read more about them by clicking on the link) remained on the index for very long, but one -- General Electric (NYSE:GE
+) -- proved too important to the American economy to keep out. GE left the Dow in 1898 but would return in 1907, and it has been an important part of the Dow ever since.
+OPEC's origins
+Early in the morning on May 26, 1908, an oil well drilling more than 1,000 feet beneath the sands of Persia (now Iran) at Masjid-i-Suleiman struck oil, and a gusher shot up 75 feet into the sky. It was the first successful oil well drilled in the Middle East, and its discovery would change the region and the world.
+The well was the first success in a seven-year partnership between financier William D'Arcy and oil explorer George Reynolds, who had searched Persia fruitlessly since the former had obtained a drilling license in 1901. The situation was dire in 1908 -- Masjid-i-Suleiman was quite literally D'Arcy's last chance. Wired tells the tale of the discovery in greater detail:
+The site was so remote that it took five days before D'Arcy got word by telegram in England. "If this is true," he replied, "all our troubles are over." It was indeed true, and more wells hit oil elsewhere in Persia, including a huge one in September.
+D'Arcy and Burmah reorganized their holdings in 1909 as the Anglo-Persian Oil Co. (which became the Anglo-Iranian Oil Co. in 1935, British Petroleum in 1954, and BP (NYSE:BP
+) in 2000). Its initial public offering of stock shares sold out in 30 minutes in London. People stood five deep around the tellers' cages to buy shares in Glasgow. The race for oil accelerated throughout the Middle East.
+BP retained a major presence in Iran until 1951, by which point the value of Iranian oil reserves was beyond doubt. Other oil discoveries took place in the years that followed the gusher at Masjid-i-Suleiman, after the close of World War I. British drillers struck oil in Iraq, near Mosul, in 1927, and Chevron (NYSE:CVX
+), then operating as Standard Oil of California, tapped Saudi Arabian oil in 1938, on the eve of World War II. Other discoveries made around the time of the first Saudi gusher established a number of smaller Middle Eastern nations as legitimate major oil producers as well.
+Today, the Middle East produces roughly 30% of the world's total oil output, with Iran responsible for roughly 5% of the global total. That's more than 26 million barrels of oil every day, as it's been for years. Billions upon billions of barrels have flowed out of the rock and sand of the Middle East, and it all began on that fateful morning in 1908, when Reynolds and D'Arcy uncovered something so much larger than they could have ever imagined.
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

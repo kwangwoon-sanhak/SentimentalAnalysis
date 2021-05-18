@@ -1,0 +1,87 @@
+For the better part of two years now, investors have reaped the benefits of the declining U.S. dollar. It may seem counterintuitive, but the market and the dollar have a tendency to run inversely proportional to each other -- so when currency goes down, stocks usually go up.
+Think about it this way: It takes more bills to equal the value of a product when the dollar is weak than when it's strong. Commodities have in particular seen a boost from the trend, for when faith in paper currency is lost, tangible items suddenly seem all the more precious.
+Back when the bottom dropped out of the market, the Fed instated a Quantitative Easing program to print and pump money into the economy, and it's been going on ever since. This constant influx of paper has kept the dollar down and commodities high.
+So what's the problem then? Well, that this simply can't go on forever. Many experts think that the dollar is nearing its point of inflection. As the price of in-demand commodities like oil and corn skyrocket, consumers will start to feel it at the gas pump and the supermarket -- and when the cost of living increases, spending decreases. At some point, the dollar must rise again.
+And when that happens, commodities will probably take a hit.
+Which materials stocks will suffer the most? Tough call -- so have a look at what the smart money is up to. Institutional investors have the know-how and resources to do the recon you can't, so it's not a bad idea to see where their money's going.
+Here is a list of seven materials stocks that saw significant institutional selling over the last three months. The smart money seems to think these stocks will be hurt by a rising dollar -- what do you think? (Click here to access free interactive tools to analyze these ideas.)
+Institutional trading data sourced from Reuters. The list has been sorted by change in institutional ownership over the last three months.
+Company
+Shares Held by Inst. Investors Today
+Shares Held by Inst. Investors 3 Months Ago
+% Change
+SeaDrill Limited (Nasdaq: SDRL)
+168,305,005
+189,037,453
+-10.97%
+Arcelor Mittal (NYSE: MT)
+38,446,563
+42,875,981
+-10.33%
+Pioneer Natural Resources (NYSE: PXD)
+106,424,688
+110,948,284
+-4.08%
+Gerdau (NYSE: GGB)
+128,637,885
+133,037,762
+-3.31%
+Ternium (NYSE: TX)
+24,146,571
+24,891,943
+-2.99%
+Compania de Minas Buenaventura (NYSE: BVN)
+118,777,416
+121,354,879
+-2.12%
+Cimarex Energy (NYSE: XEC)
+73,589,822
+75,057,819
+-1.96%
+Interactive Chart: Press Play to see how analyst ratings have changed for all the stocks mentioned above.
+Disclosure: Kapitall's Eben Esterhuizen and Alicia Sellitti do not own shares of any companies mentioned.
+
+
+
+Before you consider Pioneer Natural Resources Company, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Pioneer Natural Resources Company wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+
+Although business headlines still tout earnings numbers, many investors have moved past net earnings as a measure of a company's economic output. That's because earnings are very often less trustworthy than cash flow, since earnings are more open to manipulation based on dubious judgment calls.
+Earnings' unreliability is one of the reasons Foolish investors often flip straight past the income statement to check the cash flow statement. In general, by taking a close look at the cash moving in and out of the business, you can better understand whether the latest batch of earnings brought money into the company, or merely disguised a cash gusher with a pretty headline.
+Calling all cash flows
+When you are trying to buy the market's best stocks, it's worth checking up on your companies' free cash flow (FCF) once a quarter or so, to see whether it bears any relationship to the net income in the headlines. That brings us to EOG Resources (NYSE: EOG), whose recent revenue and earnings are plotted below.
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. FY = fiscal year. TTM = trailing 12 months.
+Over the past 12 months, EOG Resources burned $1,374.9 million in cash on net income of $582.5 million. That's obviously not so great. Still, it always pays to compare that figure with sector and industry peers and competitors, to see how your company stacks up.
+Company
+TTM Revenue
+TTM FCF
+TTM FCF Margin
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. FCF = free cash flow. TTM = trailing 12 months.
+All cash is not equal
+Unfortunately, the cash flow statement isn't immune from nonsense, either. That's why it pays to take a close look at the components of cash flow from operations, to make sure that the cash comes from high-quality sources. They need to be real and replicable in the upcoming quarters, rather than being offset by continual cash outflows that don't appear on the income statement (such as major capital expenditures).
+For instance, cash flow based on cash net income and adjustments for non-cash income-statement expenses (like depreciation) is generally favorable. An increase in cash flow based on stiffing your suppliers (by increasing accounts payable) or shortchanging Uncle Sam on taxes will come back to bite investors later. The same goes for decreasing accounts receivable; this is good to see, but it's ordinary in recessionary times, and you can only increase collections so much.
+So how does the cash flow at EOG Resources look? Take a peek at the chart below, which flags questionable cash flow sources with a red bar.
+Source: Capital IQ, a division of Standard & Poor's. Data is current as of latest fully reported fiscal quarter. Dollar values in millions. TTM = trailing 12 months.
+When I say "questionable cash flow sources," I mean items such as changes in taxes payable, tax benefits from stock options, and asset sales, among others. That's not to say that companies booking these as sources of cash flow are weak, or are engaging in any sort of wrongdoing, or that everything that comes up questionable in my graph is automatically bad news. But whenever a company is getting more than, say, 10% of its cash from operations from these dubious sources, investors ought to make sure to refer to the filings and dig in.
+With 13.6% of operating cash flow coming from questionable sources, EOG Resources investors should take a closer look at the underlying numbers. Within the questionable cash flow figure plotted in the TTM period above, other operating activities (which can include deferred income taxes, pension charges, and other one-off items) provided the biggest boost, at 30.5% of cash flow from operations. Overall, the biggest drag on FCF came from capital expenditures, which consumed all of cash from operations, and more besides. EOG Resources investors may also want to keep an eye on accounts receivable, because the TTM change is 2.1 times greater than the average swing over the past five fiscal years.
+A Foolish final thought
+Most investors don't keep tabs on their companies' cash flow. I think that's a mistake. If you take the time to read past the headlines and crack a filing now and then, you're in a much better position to spot potential trouble early. Better yet, you'll improve your odds of finding the underappreciated home-run stocks that provide the market's best returns.
+We can help you keep tabs on your companies with My Watchlist, our free, personalized stock tracking service.
+
+
+
+Before you consider Devon Energy Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Devon Energy Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+

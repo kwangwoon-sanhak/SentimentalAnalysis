@@ -1,0 +1,22 @@
+The Dow Jones Industrials (DJINDICES:^DJI
+) picked up further ground on Thursday, climbing 10 points as the stock market built on Wednesday's more impressive gain. For the most part, the first-quarter earnings season is over, and although a few stragglers have yet to issue their reports, investors are now looking back and drawing conclusions about the strong and weak industries in the broader market. Yet as Dow components Chevron (NYSE:CVX
+) and JPMorgan Chase (NYSE:JPM
+) show, it's easy to draw the wrong conclusion if you're not careful about considering how individual stocks can impact the results of entire sectors of the market.
+Did financials and energy do as badly as it seems?
+FactSet Research issued its retrospective on first-quarter earnings season last week, evaluating how various sectors of the market performed. The research firm concluded that with 93% of S&P 500 companies having reported as of the date of the report, financials were the worst-performing sector in the market in terms of overall earnings declines, while energy stocks were the second-worst performers. Overall, financials saw earnings drop by 3.6% from the year-ago quarter, while energy fell 2.8%. That was markedly worse than the 2.1% earnings growth rate that the market as a whole enjoyed for the first quarter.
+But if you just take those numbers at face value, you'll miss important nuances that could lead to a much different conclusion. For instance, FactSet noted that in the energy sector, Chevron had the biggest downward pull on earnings growth, with its earnings per share dropping more than 25%. By contrast, the majority of the subcategories within the energy sector actually posted earnings growth, especially given favorable conditions among smaller independent oil and gas producers. Meanwhile, Chevron has had to work hard just keep production levels from falling too much. Take out Chevron's outlier result, and FactSet found that energy-sector growth would have jumped 3.1% -- well above the market average.
+Similarly, banks performed far worse than other subindustries within the financial sector. JPMorgan Chase and Bank of America (NYSE:BAC
+) were responsible for the lion's share of the earnings declines. Bank of America reversed its year-ago gain with a small loss for the quarter, while JPMorgan Chase saw earnings fall by almost 20%. Again, if you take those two stocks out of the mix, the financial sector would have grown by more than 5%.
+When looking at Dow Jones components and other major companies, you have to be mindful of the impact they can have on the industries they represent. All too often, if you look at sector-wide numbers without considering the impact that Dow stocks and other megacaps have on the overall results, you'll make mistakes that lead you to erroneous conclusions about the health of the economy.
+
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

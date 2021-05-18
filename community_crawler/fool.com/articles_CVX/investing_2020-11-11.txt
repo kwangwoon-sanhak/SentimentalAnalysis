@@ -1,0 +1,24 @@
+Some stocks enjoy expensive valuations, while others are consistently valued as bargains based on their price-to-earnings ratio. Why is this? Broadly speaking, a price-to-earnings ratio (P/E) is far from a complete stock valuation metric.
+Here we will dig deeper into just how to value a company, and why one company's P/E may be consistently different from another's. Let's use The Trade Desk (NASDAQ:TTD) and Chevron (NYSE:CVX) as our examples.
+Price-to-earnings ratio measures a company's valuation vs. its earnings power. It can be calculated by dividing a company's share price by annual earnings per share, or by dividing its market cap by annual net income.
+Recently, Chevron traded for a P/E of 42.77 while The Trade Desk enjoys a P/E of 264.59 -- more than six times as expensive than Chevron. At first glance, this seems like a large discrepancy, but when you also consider debt load, it makes more sense.
+IMAGE SOURCE: GETTY IMAGES.
+The issue with a P/E multiple is that it only indirectly considers a company's debt load, through the impact that interest expense has on earnings. In this particular comparison, Chevron has nearly $27 billion in long-term debt compared to none for The Trade Desk.
+Heavier debt loads are often greeted with lower valuations because they limit what a company can do with the earnings they generate. Conversely, the type of financial flexibility The Trade Desk possesses is often rewarded with valuation premiums. While Chevron -- and companies with similar debt loads -- have to cover payments associated with debt, The Trade Desk can use free cash to fund growth in its business, buy back shares, or make strategic acquisitions. Investors tend to prefer this optionality.
+Companies can also boast different P/E ratios partially because they operate in different industries with varying levels of growth. As stocks are forward-looking instruments, the perception of lower growth for the space a stock operates in will often lead to a relatively lower valuation.
+Chevron is a good example. Its oil and energy niche is under constant pressure from advances in renewable energy competition. Every year, renewables become more cost effective and more energy efficient to complement their innate green edge over fossil fuels -- as shown in their relative growth trajectories.
+The global energy industry is set to grow at just 1%-1.5% in the next several years. Beyond this, fossil fuel demand is estimated to peak sometime in this decade. These macroeconomic headwinds do not bode well for long-term investments and may be the reason Chevron and most of its sector receive such depressed earnings valuations.
+Conversely, The Trade Desk is a programmatic advertising software company that enables ad buyers and sellers to enhance their returns on investments via more informed and data-driven decisions. It operates in a sector set to enjoy growth of 19.4%, and is a primary beneficiary of this expansion.
+A company can be operated perfectly and still not enjoy overwhelming success if its area of operation simply is not growing. Because of the boom in technology and the slump in energy, The Trade Desk's most recent 31.6% revenue growth compares very favorably to -31% for Chevron. Just like lack of debt is generally a positive for a company's P/E, outsized revenue growth is as well.
+The research does not stop with looking up a company's price-to-earnings ratio. There is much more to be learned about a company before deciding to invest your hard-earned money in its shares. Consider debt loads and growth stemming from different business models in your decision-making process -- it will serve you well.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

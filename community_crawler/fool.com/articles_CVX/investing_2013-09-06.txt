@@ -1,0 +1,90 @@
+Although we don't believe in timing the market or panicking over daily movements, we do like to keep an eye on market changes -- just in case they're material to our investing thesis.
+It was surely a wild ride on Wall Street today. The markets opened, and almost immediately the Dow Jones Industrial Average (DJINDICES:^DJI
+) began to fall. It bottomed out down 148 points, and then didn't hesitate to climb back into the black around 11 a.m. EDT. It then traded within a 50-point range for the remainder of the day, until just before the closing bell rang, when it slid back into the red, and finished the session down almost 15 points, or 0.1%. The two other major indexes also had similar charts, but they managed to stay in the green for the session as the S&P 500 closed higher by 0.01%, and the Nasdaq gained 0.03%.
+The jobs report, which was released this morning, certainly played a role in the roller-coaster ride today. The 169,000 jobs created in August missed the 180,000 number that economists had been expecting. But, the unemployment rate did fall to 7.3%, from 7.4%.
+The losers of the day
+Shares of IBM (NYSE:IBM
+) fell 0.61% today. The fall could be related to the second report this week indicating that Hewlett-Packard had won a large IT services contract. Earlier in the week, it was announced that HP had signed a deal with Cerner, an IT health-care giant, and today, it was reported that HP signed a deal with the Department of Defense for a three-year contract. The DOD contract is to provide personal security management and other IT services. Both of these deals show that IBM has likely lost its edge over the competition, and that sales may begin taking a hit in the future. 
+The other tech stock hurting the Dow today was Cisco (NASDAQ:CSCO
+), which lost 0.59%. The move came despite the company announcing that it was gearing up for the release of its NCS 6000 -- which is a core router and optical transport platform made to handle large amounts of traffic with different IP addresses. The new equipment is to help combat problems associated with increased traffic caused by smartphones and tablets. Some also believe the new router may help the company get back on track after a poor second quarter. 
+The two oil companies that declined today are ExxonMobil (NYSE:XOM
+) and Chevron (NYSE:CVX
+), which fell by 0.11% and 0.13%, respectively. These moves lower come as the Syrian conflict -- and whether or not the U.S. will enter into the fray -- becomes even more confusing. This morning, Russian President Vladimir Putin told others at the G20 Conference that if the U.S. strikes Syria, Russia will back the Syrians. The vote from Congress didn't come this week either and, with very strong opinions on either side of the case, it's hard to tell whether the strike will be voted yay, or nay. What is clear, though, is that a strike from the U.S. will likely send gasoline prices higher, at least for a short period of time.
+More foolish insight
+
+
+
+Before you consider the Dow Jones Industrial Average (Price Return), you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and the Dow Jones Industrial Average (Price Return) wasn't on the list.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Investors love stocks that consistently beat the Street without getting ahead of their fundamentals and risking a meltdown. The best stocks offer sustainable market-beating gains, with robust and improving financial metrics that support strong price growth. Does Chevron (NYSE:CVX
+) fit the bill? Let's take a look at what its recent results tell us about its potential for future gains.
+What we're looking for
+The graphs you're about to see tell Chevron's story, and we'll be grading the quality of that story in several ways:
+What the numbers tell you
+Now, let's take a look at Chevron's key statistics:
+
+CVX Total Return Price data by YCharts
+Passing Criteria
+3-Year* Change
+Grade
+Revenue growth > 30%
+18.5%
+Fail
+Improving profit margin
+20.4%
+Pass
+Free cash flow growth > Net income growth
+(100%) vs. 42.6%
+Fail
+Improving EPS
+47.1%
+Pass
+Stock growth (+ 15%) < EPS growth
+97.6% vs. 47.1%
+Fail
+SOURCE: YCHARTS. * PERIOD BEGINS AT END OF Q2 2010.
+
+CVX Return on Equity data by YCharts
+Passing Criteria
+3-Year* Change
+Grade
+Improving return on equity
+(2.8%)
+Fail
+Declining debt to equity
+36.2%
+Fail
+Dividend growth > 25%
+38.9%
+Pass
+Free cash flow payout ratio < 50%
+Really high **
+Fail
+SOURCE: YCHARTS. * PERIOD BEGINS AT END OF Q2 2010.
+** CHEVRON'S TRAILING 12-MONTH FREE CASH FLOW IS $3 MILLION, EFFECTIVELY ZERO AT THIS SCALE.
+How we got here and where we're going
+Chevron doesn't come through with flying colors, as it mustered only three out of nine possible passing grades. One main source of that weakness is falling free cash flow, which has diverged significantly from net income over the past three years, and which may not be able to sustain dividends at the present level. In addition, the company raised a chunk of new long-term debt in 2012, which reflects badly in our analysis. Will Chevron be able to move past these weaknesses, or is the oil and gas supermajor drilling a dry hole for investors today? Let's dig a little deeper to find out.
+News of a possible military strike on Syria has forced Chevron and other oil companies to abort under way projects in the region recently. Although Syria is small producer of oil compared to other Middle Eastern countries, rising tensions and potential imbalance are seen as probable disruptions to oil outflow in the Middle East. In the past few days, the anticipated Syrian crisis has already sent crude oil and natural gas prices soaring, which could more than offset the reduced output from aborted projects in the near term.
+Fool contributor Dan Carroll notes that Chevron has also recently pulled out a liquefied-natural-gas project in Nigeria after enduring delays. However, the company should continue to expand its geographical presence in resource-rich Africa -- at least once crucial Middle Eastern shipping lanes again appear relatively safe. Chevron isn't alone in its withdrawal from Middle Eastern projects -- rival ExxonMobil (NYSE:XOM
+) recently reduced its stake in an Iraqi field due conflicts between the Baghdad and Kurdish governments.
+On the other hand, ExxonMobil recently acquired Celtic Exploration for $2.6 billion, and has bought up 226,000 acres of unconventional oil assets from ConocoPhillips in Athabasca, Canada for a price of $720 million. Going forward, Chevron has also been aggressively leveraging its non-conventional oil reserves, as it made an agreement with Argentine-government-controlled YPF to gain access to shale oil reserves located in Vaca Muerta in Argentina. The race is on to control promising fields in relatively safe locations.
+Fool analyst Joel South notes that United States' oil and nat-gas production levels are moving up, but the industry is saddled with high capital expenditures, which crimp even the largest companies' ability to make any big domestic moves. The domestic oil-directed rig count also saw a significant decline due slowing drilling activities in the latest quarter. However, Chevron's efforts to go midstream with its Angola pipeline project should pay off in the near future. The company's Gorgon facility is also 67% complete.
+Putting the pieces together
+Today, Chevron has some of the qualities that make up a great stock, but no stock is truly perfect. Digging deeper can help you uncover the answers you need to make a great buy -- or to stay away from a stock that's going nowhere.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

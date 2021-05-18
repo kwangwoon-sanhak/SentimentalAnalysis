@@ -1,0 +1,55 @@
+On July 31, 2015 big oil company Chevron (NYSE: CVX) reported disappointing second-quarter earnings of $0.30 per share, missing consensus estimates by a huge margin. Apart from low crude oil prices creating a huge drag on revenue, the integrated oil and gas giant recorded non-cash impairments and other charges of $2.6 billion that raises questions about the company's asset quality against the backdrop of low oil prices.
+SOURCE: CHEVRON.
+A spectacular drop in earnings
+The San Ramon, California-based company reported net income of $571 million, thanks largely to its solid downstream operations. Unfortunately, this net income result is a spectacular 90% drop from last year's second-quarter earnings of $5.7 billion. Sales and other operating revenues also fell 34% to $36.8 billion, from $55.6 billion last year.
+Segment-wise, upstream operations -- or exploration and production related activities -- clocked a net loss of $2.2 billion while the downstream, or refining and marketing, segment recorded a net profit of nearly $3 billion.
+CEO John Watson admitted that overall results were weak due to a 50% decline in crude oil prices from year-ago levels. He, however, emphasized that efforts were on to improve future cash flows and earnings by cutting down on costs through renegotiations with the company's suppliers, as well as by downsizing the workforce. Additionally, he hinted that the company intends to pursue a smaller capital program and divest assets.
+Digging deeper
+Domestic U.S. upstream earnings fell to a $1.04 billion loss, against a $1.05 billion profit in the year-ago quarter. However, production increased 9% to 730,000 barrels of oil equivalent per day, which is definitely heartening. Ramp-ups in the Gulf of Mexico, the Permian Basin contributed to the production growth.
+International operations fared worse, incurring a $1.2 billion loss versus a huge $4.2 billion profit last year. Net production too, fell 1% to 1.87 billion BOE per day. Normal field declines and production shut-ins in the Partitioned Zone in the Middle East contributed to the decline.
+Higher margins on sales of refined products, counterbalanced partly with lower earnings from joint venture Chevron Phillips Chemical Company, increased U.S. downstream earnings by a solid 41% to $731 million. Additionally, last year's second-quarter earnings of $517 million also include a gain from an asset sale. In other words, comparing only core operations, the gain is much higher than 41%. Refinery crude input increased 6% to 916,000 bpd. Also, higher gasoline sales ensured that total refined product sales also grew by 3%.
+Internationally, downstream operations earned $2.23 billion, which includes a $1.6 billion gain from the sale of Chevron's interest in Caltex Australia Limited. Foreign exchange effects decreased earnings by $103 million against a $84 million decrease last year. So removing the effects of the divestment and foreign exchange, core operations earned around $728 million versus $288 million in the year-ago quarter, a solid 153% increase.
+Refinery crude input clocked in at 774,000 bpd, an 8% decline from last year, thanks to the Caltex divestment. Refined product sales also declined a little more than 4% as a result of the decline.
+Cash flow from operations for the first half of 2015 came in at $9.5 billion -- a significant 42% fall. Somehow, Chevron couldn't replicate the results of its integrated counterpart, Total.
+Foolish takeaway
+Chevron's downstream segment wasn't enough to control the damage wreaked on its upstream operations as market conditions turned sour. In other words, the company's integrated model couldn't prove to be the savior in the low oil price environment, unlike Total.
+From the earnings press release itself, it's not clear what the underlying components of the non-cash impairment charges are, except that depreciation, depletion, and amortization have spiked a massive 81% to $6.9 billion. Once the company files its second-quarter 10-Q, it will be clear which assets bore the brunt of being impaired in addition to delayed projects.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
+Some of the comments in Chevron's (NYSE:CVX
+) recent earnings release and the knee-jerk market reaction from the market can only really be described this way. The company's not-even-close earnings miss sent shares sliding, and the combined effect of tumbling oil prices recently suggests that Chevron and others could be struggling for longer than many are willing to wait. Here's a quick snapshot of what you need to know about this past quarter.
+By the numbers
+Chevron reported this quarter's earnings per share of $0.30 was well below Wall Street's expectations. Consensus estimates compiled by S&P Capital IQ were anticipating earnings per share of $1.21 per share. That looks really bad, but one thing to consider is that Chevron took $2.6 billion in non-cash asset impairments and other writedowns. If we were to exclude those non-cash charges, earnings per share would have been $0.97 per share. Still not even close to meeting analyst expectations, but a significant improvement over the headline numbers.
+This past quarter's asset impairments can be best seen in the company's segmented earnings, as seen in the following chart: 
+
+SOURCE: CHEVRON EARNINGS RELEASES, AUTHOR'S CHART.
+The other aspect of these numbers that really pops out on the page is the big uptick in interntaional downstream earnings. We have seen several companies see large increases in downstream earnings this past quarter, but in this case, Chevron's numbers are a bit of a red herring. This quarter's profits were slightly inflated because the company sold a 50% stake in its Australian retail business Caltex Australia, which netted the company $1.6 billion. Without this big boost, international downstream earnings would probably have been much more in line with the first quarter of this year. 
+We tend to lump big oil companies like Chevron and others into one conversation because they are big, diversified companies in the oil and gas space. However, each has its own little unique traits that sometimes work for or against them. Of the oil majors, Chevron's defining trait is that it is much more dependent on its upstream production for its profits than its peers. So while earnings for others in the space have been propped up by downstream refining and chemical manufacturing, Chevron has not had that luxury.
+If there was one thing that might let investors breathe a slight sigh of relief, it was that cash flow numbers fared much better than earnings. So far in 2015, Chevron has generated about $11.6 billion in operational cash flow, which is 31% less than last year. It's still not enough to cover the company's current capital expenditures and dividends, but every dollar helps as it is still plowing loads of capital into its Gorgon and Wheatstone LNG projects. 
+Outlook
+Just about everything Chevron rests on the completion of the Gorgon and Wheatstone LNG projects. As CEO John Watson put it in the company's press release:
+Project execution on our Gorgon and Wheatstone Australian LNG projects is a priority for us. Incremental production and cash generation from these projects and others, along with a curtailed capital program, should provide support for continuing competitive shareholder distributions.
+One can only hope that this is true, because these two projects are huge bets for the company. Combined, the cost of these two facilities is equivalent to about one-quarter of the entire company's market capitalization. Simply bringing them online and not having to spend money on their development will help the bottom line, and the long-term contract structure of their LNG sales should provide steady cash flows going forward. 
+These projects cannot get brought online soon enough, though. For several quarters now, Chevron's spending has wildly outpaced its cash-generating capabilities and it has been forced to fund some of its spending and dividends with asset sales and debt issuance. It's a move that Chevron does not want to continue long term.
+What a Fool believes
+Things aren't going to look much better for the next couple of quarters for Chevron as long as oil prices remain low and the two Australian LNG facilities are under development. So investors who are betting these projects will help right the ship will need to wait out some very rough waters in the meantime. If you are looking at Chevron as a potential value investment, just keep in mind that it's entirely possible that things could get worse before they get better.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+

@@ -1,0 +1,35 @@
+For a good part of Friday's session, it looked as if the stock market might score a rare two-day streak of gains. Those hopes were dashed late in the day, though, as even the outperforming Nasdaq Composite ended up joining the Dow Jones Industrial Average and the S&P 500 with losses of around 4%.
+Index
+Percentage Change
+Point Change
+Dow Jones Industrial Average (DJINDICES:^DJI)
+(4.55%)
+(913)
+S&P 500 (SNPINDEX:^GSPC)
+(4.34%)
+(104)
+Nasdaq Composite (NASDAQINDEX:^IXIC)
+(3.79%)
+(271)
+DATA SOURCE: YAHOO! FINANCE.
+Some other markets saw even more dramatic moves. Crude oil continued its recent drop, passing another key milestone that many would have thought unthinkable just weeks ago. Meanwhile, bond yields moved lower, rewarding those who have hedged their stock portfolios with fixed-income securities.
+The price of oil resumed its downward move on Friday, with a dramatic drop of more than $5 per barrel. That sent futures prices below the $20 per barrel mark -- a dubious distinction.
+Yet in the stock market, energy companies didn't perform all that badly. The Energy Select Sector SPDR ETF (NYSEMKT:XLE) finished the day up 1%, and Chevron (NYSE:CVX) enjoyed a 4% gain.
+IMAGE SOURCE: GETTY IMAGES.
+Investors are facing a situation so unusual that it has them in a quandary. On one hand, if oil prices were to remain at levels this low for long, it would cause problems for even the largest energy stocks in the industry. Yet on the other hand, it's highly unlikely that the current conditions in the oil patch will persist for very long. Even with coronavirus-related demand declines helping to push prices lower, marginal producers will have to start shutting down their operations at some point.
+No one knows for sure how long they'll have to endure oil prices below $20, but today's stock market action suggests most investors think it'll be only a short time. That could open the door to further share-price declines among energy giants if crude doesn't recover soon.
+Elsewhere, bond prices rose as yields fell. The 10-year Treasury saw its yield drop from 1.12% to 0.94% on Friday, while the 30-year Treasury saw a similar decline from 1.74% to 1.56%.
+Those yield declines were good news for investors in bond ETFs, especially those that focus on long-term rates. The iShares 20+ Year Treasury ETF (NASDAQ:TLT) jumped 7.5% on the day, while the even more rate-sensitive PIMCO 25+ Year Zero Coupon U.S. Treasury Index Fund (NYSEMKT:ZROZ) gained almost 9%.
+Most investors have focused largely on the stock market, but the bond market has had some even more unusual things going on under the scenes. Liquidity in some key parts of the market has evaporated, and that's created some disruptions that have made investors question whether there could be a systemic impact from the coronavirus outbreak after all.
+So far, government officials and central banks have highlighted how healthy the financial system is compared to the 2008-2009 market meltdown. If bond rates keep behaving erratically, though, it could signal a change in that philosophy that investors will want to keep an eye on.
+
+
+
+Before you consider Chevron Corporation, you'll want to hear this.
+Investing legends and Motley Fool Co-founders David and Tom Gardner just revealed what they believe are the 10 best stocks for investors to buy right now... and Chevron Corporation wasn't one of them.
+The online investing service they've run for nearly two decades, Motley Fool Stock Advisor, has beaten the stock market by over 4X.* And right now, they think there are 10 stocks that are better buys.
+See the 10 stocks
+
+*Stock Advisor returns as of May 11, 2021
+
+
