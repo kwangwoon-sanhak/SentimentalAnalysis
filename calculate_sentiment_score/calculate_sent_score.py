@@ -4,14 +4,27 @@ from textblob import TextBlob
 from afinn import Afinn
 
 class VocabDictionary:
-    def __init__(self, vocab_name):
+    def __init__(self, vocab_name, ticker):
         super().__init__()
         self.vocab_name = vocab_name
-        self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/원하는 거 골라서 넣으세요")
+        ticker_list ["XOM", "CVX", "XEC", "HES"]
         #XOM : ../toknizer/fool.com/XOM
         #CVX : ../toknizer/fool.com/CVX
         #XEC : ../toknizer/fool.com/XEC
         #HES : ../toknizer/fool.com/HES
+        if ticker = "XOM":
+            self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/XOM")
+        if ticker = "CVX":
+            self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/CVX")
+        if ticker = "XEC":
+            self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/XEC")
+        if ticker = "HES":
+            self.file_path = os.path.join(os.path.dirname(__file__), "../toknizer/fool.com/HES")
+
+        if not ticker in ticker_list:
+            print("종목이 없습니다.")
+            exit(0)
+        
 
     def sentiment_analysis(self):
         self.file_list = os.listdir(self.file_path)
@@ -90,7 +103,7 @@ class VocabDictionary:
         pass
 
 if __name__ == "__main__":
-    vocab_dic = VocabDictionary("VADER")
+    vocab_dic = VocabDictionary("VADER", "XOM")
     score = vocab_dic.sentiment_analysis()
     print(score['pos'])
     print(score['neu'])
